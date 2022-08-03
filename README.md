@@ -38,4 +38,7 @@ Small corpus containing a dataset between Tamasheq (TAQ), English (ENG), and Fre
 
 **NOTE:** Another copy `parallel-sents.txt` exists with the first column removed (no dialectal information).
 ***
+## Bibliography
+Sudlow, D. (2011). _The Tamasheq of North-East Burkina Faso_. (H. Stroomer, Ed.) (2nd ed., Vol. 1, Ser. Berber Studies). Rüdiger Köppe Verlag.
+***
 \*Main source is David Sudlow's _The Tamasheq of North-East Burkina Faso_.
