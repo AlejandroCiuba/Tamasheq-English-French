@@ -3,7 +3,7 @@
 ## Contributors
 Cécile Macaire, Tomáš Pavliček, Alejandro Ciuba, Harshita Diddee, Marek Sarvaš, Santosh Kesiraju
 
-Made available by Alejandro Ciuba, [alejandrociuba@gmail.com](alejandrociuba@gmail.com)/[pitt.edu](alc307@pitt.edu)
+Made available by Alejandro Ciuba, alejandrociuba@gmail.com/pitt.edu
 ***
 ## NOTICE
 **THIS DATA HAS BEEN COLLECTED FROM VARIOUS RESOURCES. THE USE OF THIS DATA IS ONLY FOR ACADEMIC NON-COMMERCIAL PURPOSES.**
