@@ -28,8 +28,6 @@ Small corpus containing a dataset between Tamasheq (TAQ), English (ENG), and Fre
 | :--- | :---: | ---: |
 | parent / ancestor | ămaraw | imarawăn |
 
-**NOTE:** `english.txt` in the original `dict_extraction/` folder contains extra lines and only singular noun entries.
-
 - `parallel-sentences/`:
 
 `parallel-sents-dialects.txt`:
