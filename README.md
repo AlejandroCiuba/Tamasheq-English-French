@@ -37,3 +37,5 @@ Small corpus containing a dataset between Tamasheq (TAQ), English (ENG), and Fre
 | Ša Za | ma tǝkned? | What are you making/repairing? |
 
 **NOTE:** Another copy `parallel-sents.txt` exists with the first column removed (no dialectal information).
+***
+\*Main source is David Sudlow's _The Tamasheq of North-East Burkina Faso_.
