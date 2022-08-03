@@ -1,0 +1,2475 @@
+man, men 
+man, men 
+woman, women 
+woman, women 
+child, children 
+child, children 
+child, children 
+child, children 
+noble child, noble children 
+noble child, noble children 
+noble child, noble children 
+noble child, noble children 
+slave child, slave children 
+slave child, slave children 
+slave child, slave children 
+slave child, slave children 
+someone 
+so and so 
+so and so 
+so and so 
+people, peoples 
+people, peoples 
+anyone / whoever 
+anyone / whoever 
+crowd, crowds / gathering, gatherings 
+people / crowd, crowds 
+people / crowd, crowds 
+friend, friends 
+friend, friends 
+old man, old men / elder, elders 
+old man, old men / elder, elders 
+old woman, old women 
+old woman, old women 
+adolescent, adolescents 
+adolescent, adolescents 
+neighbour, neighbours 
+neighbour, neighbours 
+neighbour, neighbours 
+neighbour, neighbours 
+guest, guests 
+guest, guests 
+guest, guests 
+guest, guests 
+guest, guests 
+guest, guests 
+enemy, enemies 
+enemy, enemies 
+twin, twins 
+twin, twins 
+twin, twins 
+family, families 
+people, peoples 
+people, peoples 
+your family, your families 
+your family, your families 
+your family, your families 
+father, fathers 
+father, fathers 
+mother, mothers 
+mother, mothers 
+father, fathers 
+father, fathers 
+mother, mothers 
+mother, mothers 
+your father, your fathers 
+your fathers, your fathers
+saidous father, saidous fathers 
+parent, parents / ancestor, ancestors 
+brother, brothers 
+sister, sisters 
+sister, sisters 
+older brother, older brothers 
+younger brother, younger brothers 
+older sister, older sisters 
+younger sister, younger sisters 
+husband, husbands / man, men 
+husband, husbands / man, men 
+wife, wives 
+wife, wives / woman, women 
+wife, wives / woman, women 
+my wife, my wives 
+my wife, my wives 
+your wife, your wives 
+your wife, your wives 
+saidous wife, saidous wives 
+saidous wife, saidous wives 
+saidous wife, saidous wives 
+saidous wife, saidous wives 
+their husbands, their husbands 
+son, sons 
+son, sons 
+daughter, daughters 
+daughter, daughters 
+co-wife, co-wives / rival, rivals 
+co-wife, co-wives / rival, rivals 
+concubine, concubines 
+concubine, concubines 
+crossed cousin, crossed cousins 
+crossed cousin, crossed cousins 
+maternal uncle, maternal uncles 
+nephew, nephews 
+nephew, nephews 
+male, males 
+male, males 
+female, females 
+female, females 
+brother-in-law, brothers 
+brother-in-law, brothers 
+sister-in-law, sisters-in-law 
+sister-in-law, sisters-in-law 
+father, fathers 
+mother, mothers 
+relative, relatives 
+relative, relatives 
+kin, kins 
+orphan, orphans 
+orphan, orphans 
+stepson, stepsons 
+stepson, stepsons 
+stepdaughter, stepdaughters 
+stepdaughter, stepdaughters 
+descendant, descendants 
+descendant, descendants 
+descendant, descendants 
+ancestor, ancestors 
+ancestor, ancestors 
+bellah, bellahs 
+bellah, bellahs 
+bellah, bellahs 
+craftsman, craftsmen 
+craftsman, craftsmen 
+craftswoman, craftswomen 
+craftswoman, craftswomen 
+herder, herders / vassal, vassals 
+herder, herders / vassal, vassals 
+herder, herders / vassal, vassals 
+herder, herders / vassal, vassals 
+religious, religiouses 
+religious, religiouses 
+religious, religiouses 
+noble, nobles 
+noble, nobles 
+noble, nobles 
+noble, nobles 
+free-born, free-borns / noble, nobles 
+free-born, free-borns / noble, nobles 
+free-born, free-borns / noble, nobles 
+free-born, free-borns / noble, nobles 
+clan, clans 
+clan, clans 
+fulani, fulanis 
+fulani, fulanis 
+fulani, fulanis / fulfulde, fulfuldes 
+fulani, fulanis / fulfulde, fulfuldes 
+songhay, songhays 
+songhay, songhays 
+songhay, songhays 
+songhay, songhays 
+hausa, hausas 
+hausa, hausas 
+arab arab, arab arabs 
+arab, arabs / arabic, arabics 
+mossi, mossis 
+mossi, mossis 
+mossi, mossis 
+mossi, mossis 
+mossi, mossis 
+mossi, mossis 
+european, europeans 
+european, europeans 
+tailor, tailors 
+tailor, tailors 
+trader, traders 
+beggar, beggars 
+water-carrier, water-carriers 
+civil servant, civil servants 
+clever person, clever people 
+wise, wises / kind person, kind people 
+apprentice craftsman, apprentice craftsmen 
+apprentice craftsman, apprentice craftsmen 
+oudalan, oudalans 
+trader, traders 
+griot, griots 
+potter, potters / griot, griots 
+potter, potters / griot, griots 
+teacher, teachers 
+teacher, teachers 
+doctor, doctors 
+doctor, doctors 
+doctor, doctors 
+rebels, rebels 
+rebels, rebels 
+expert, experts / enthusiast, enthusiasts 
+metal-worker, metal-workers 
+builder, builders 
+sedentary people, sedentary peoples 
+owner, owners 
+owner, owners 
+car owner, car owners 
+car owner, car owners 
+shop owner, shop owners 
+shop owner, shop owners 
+good-for-nothing, goods-for-nothing 
+good-for-nothing, goods-for-nothing 
+good-for-nothing, goods-for-nothing 
+thief, thiefs 
+thief, thiefs 
+sorcerer, sorcerers 
+prostitute, prostitutes 
+prostitute, prostitutes 
+soldier, soldiers 
+soldier, soldiers 
+army, armies / raiding party, raiding parties 
+army, armies / raiding party, raiding parties 
+blacks, blacks 
+black people, black peoples 
+black people, black peoples 
+black people, black peoples 
+black people, black peoples 
+chief, chiefs 
+chief, chiefs 
+owner, owners / master, masters 
+owner, owners / master, masters 
+owner, owners / master, masters 
+leader, leaders 
+leader, leaders 
+workman, workmen / servant, servants 
+shepherd, shepherds / herder, herders 
+farmer, farmers / peasant, peasants 
+farmer, farmers / peasant, peasants 
+traveller, travellers / tourist, tourists 
+traveller, travellers / tourist, tourists 
+guard, guards 
+boaster, boasters 
+boaster, boasters 
+hunter, hunters 
+hunter, hunters 
+teacher, teachers 
+teacher, teachers 
+teacher, teachers 
+teacher, teachers 
+judge, judges 
+writer, writers / secretary, secretaries 
+healer, healers 
+healer, healers 
+prostitute, prostitutes 
+doer, doers 
+doer, doers 
+killer, killers / murderer, murderers 
+killer, killers / murderer, murderers 
+adulterer, adulterers 
+adulterer, adulterers 
+adulteress, adulteresses 
+adulteress, adulteresses 
+traitor, traitors 
+wrong-doer, wrong-doers 
+evil, evils 
+evil, evils 
+bridegroom, bridegrooms 
+worshipper, worshippers 
+fearer, fearers / fearful, fearfuls 
+fearer, fearers / fearful, fearfuls 
+fearer, fearers / fearful, fearfuls 
+fearer, fearers / fearful, fearfuls 
+servant, servants / messenger, messengers 
+servant, servants / messenger, messengers 
+gardener, gardeners / sower, sowers 
+student, students / reader, readers 
+student, students / reader, readers 
+maker, makers / repairer, repairers 
+maker, makers / repairer, repairers 
+eater, eaters 
+eater, eaters 
+drinker, drinkers 
+drinker, drinkers 
+rider, riders 
+rider, riders 
+sick, sicks 
+sick, sicks 
+blind, blinds 
+blind, blinds 
+deaf, deafs 
+deaf, deafs 
+cripple, cripples 
+mad, mads 
+mad, mads 
+mad, mads 
+possessed, possesseds 
+possessed, possesseds 
+sterile, steriles 
+sterile, steriles 
+sterile, steriles 
+sterile, steriles 
+dead, deads 
+dead, deads 
+red, reds 
+red, reds 
+black, blacks 
+black, blacks 
+liar, liars 
+liar, liars 
+strong, strongs 
+strong, strongs 
+greedy, greedies 
+profligate, profligates / destructive, destructives 
+violent, violents / pagan, pagans 
+rebellious, rebelliouses 
+rebellious, rebelliouses 
+rich, riches / lucky, luckies 
+rich, riches / lucky, luckies 
+prosperous, prosperouses 
+prosperous, prosperouses 
+trusted, trusteds / trustworthy, trustworthies 
+trustee, trustees 
+righteous, righteouses / honest, honests 
+righteous, righteouses / honest, honests 
+honourable, honourables / noble, nobles 
+honourable, honourables / noble, nobles 
+witness, witnesses 
+witness, witnesses 
+dependent, dependents / poor, poors 
+dependent, dependents / poor, poors 
+eminent, eminents / powerful, powerfuls 
+rich, riches 
+crafty, crafties / cunning, cunnings 
+crafty, crafties / cunning, cunnings 
+animal, animals 
+animal, animals 
+herds, herds / flocks, flocks 
+herds, herds / flocks, flocks 
+wealth, wealths / flocks, flocks 
+wealth, wealths / flocks, flocks 
+flock, flocks / fold, folds 
+flock, flocks / fold, folds 
+whole male, whole males 
+castrated male, castrated males 
+castrated male, castrated males 
+castrated male, castrated males 
+camel, camels 
+camel, camels 
+camel, camels 
+new-born camel, new-born camels 
+new-born camel, new-born camels 
+new-born camel, new-born camels 
+to 1 year, to 1 years 
+to 1 year, to 1 years 
+1-2 years, 1-2 years 
+1-2 years, 1-2 years 
+2-3 years, 2-3 years 
+2-3 years, 2-3 years 
+3-4 years, 3-4 years 
+young adult, young adults 
+old camel, old camels 
+camel, camels 
+saddle, saddles 
+saddle, saddles 
+decorated saddle, decorated saddles 
+cloth under saddle, cloths
+thong, thongs 
+thong, thongs
+strap, straps 
+metal ring, metal rings 
+womans saddle, womans saddles 
+womans saddle, womans saddles 
+hobbling rope, hobbling ropes 
+hobbling rope, hobbling ropes 
+mouth rope, mouth ropes 
+mouth rope, mouth ropes 
+cow, cows
+cattle / cows 
+cow, cows 
+bull, bulls 
+bull, bulls 
+bull, bulls 
+ox, oxen 
+calf, calves 
+calf, calves 
+calf, calves 
+calf, calves 
+large bull calf, large bull calves 
+large bull calf, large bull calves 
+young bull, young bulls 
+young bull, young bulls 
+heifer, heifers 
+heifer, heifers 
+old bull, old bulls / lion, lions 
+donkey, donkeys 
+donkey, donkeys 
+donkey, donkeys 
+donkey, donkeys 
+donkey, donkeys 
+donkey, donkeys 
+young donkey, young donkeys 
+young donkey, young donkeys 
+young donkey, young donkeys 
+large donkey, large donkeys 
+large donkey, large donkeys 
+horse, horses 
+mare, mares 
+horse, horses 
+mare, mares 
+foal, foals 
+foal, foals 
+good horse, good horses 
+good horse, good horses 
+bad horse, bad horses / nag, nags 
+red horse, red horses 
+sheep, sheep / ewe, ewes 
+sheep, sheep / ewe, ewes 
+ram, rams 
+ram, rams 
+castrated male, castrated males 
+castrated male, castrated males 
+woolly sheep, woolly sheep 
+woolly sheep, woolly sheep 
+lamb, lambs 
+lamb, lambs 
+young ram, young rams 
+goat, goats 
+goat, goats 
+goat, goats 
+goat, goats 
+goat, goats 
+goat, goats 
+goat, goats 
+goat, goats 
+kid, kids 
+young goat, young goats 
+young goat, young goats 
+young goat, young goats 
+old goat, old goats 
+cock, cocks 
+hen, hens 
+cock, cocks 
+hen, hens 
+chick, chicks 
+guinea fowl, guinea fowls 
+guinea fowl, guinea fowls 
+dog, dogs 
+dog, dogs 
+dog, dogs 
+dog, dogs 
+puppy, puppies 
+puppy, puppies 
+cat, cats 
+pig, pigs 
+wild animals, wild animals 
+wild animals, wild animals 
+fierce wild animal, fierce wild animals 
+fierce wild animal, fierce wild animals 
+fierce wild animal, fierce wild animals 
+fish, fish 
+lair, lairs 
+hyena, hyenas 
+hyena, hyenas 
+gazelle, gazelles 
+gazelle, gazelles 
+young gazelle, young gazelles 
+fawn, fawns 
+fawn, fawns 
+monitor lizard, monitor lizards 
+monitor lizard, monitor lizards 
+boar, boars / wild pig, wild pigs 
+boar, boars / wild pig, wild pigs 
+monkey, monkeys 
+jackal, jackals 
+jackal, jackals 
+wild cat, wild cats 
+small wild beast, small wild beasts 
+tortoise, tortoises 
+aardvark, aardvarks 
+aardvark, aardvarks 
+aardvark, aardvarks 
+grey fox, grey foxes / fennec, fennecs 
+grey fox, grey foxes / fennec, fennecs 
+goblin, goblins 
+lion, lions 
+lion, lions 
+lion cub, lion cubs 
+lion cub, lion cubs 
+elephant, elephants 
+giraffe, giraffes 
+giraffe, giraffes 
+hippotrague, hippotragues 
+hippotrague, hippotragues 
+dama gazelle, dama gazelles 
+dama gazelle, dama gazelles 
+fawn, fawns 
+fawn, fawns 
+antelope, antelopes 
+antelope, antelopes 
+oryx, oryxes 
+oryx, oryxes 
+crocodile, crocodiles 
+hippopotamus, hippopotamuses 
+hippopotamus, hippopotamuses 
+striped hyena, striped hyenas 
+striped hyena, striped hyenas 
+wild dog, wild dogs / wolf, wolves 
+wild dog, wild dogs / wolf, wolves 
+cheetah, cheetahs 
+cheetah, cheetahs 
+leopard, leopards / panther, panthers 
+serval, servals 
+serval, servals 
+white mouse, white mice 
+mouse, mice 
+mouse, mice 
+rat, rats 
+squirrel, squirrels 
+hedgehog, hedgehogs 
+hedgehog, hedgehogs 
+porcupine, porcupines 
+hare, hares / rabbit, rabbits 
+zorilla, zorillas 
+bat, bats 
+gerbil, gerbils 
+snake, snakes 
+snake, snakes 
+snake, snakes 
+snake, snakes 
+python, pythons 
+cobra, cobras 
+cobra, cobras 
+snake, snakes 
+snake, snakes 
+toad, toads 
+toad, toads 
+tadpole, tadpoles 
+tadpole, tadpoles 
+tadpole, tadpoles 
+tadpole, tadpoles 
+lizard, lizards 
+lizard, lizards 
+slender striped lizard, slender striped lizards 
+gecko, geckoes 
+chameleon, chameleons 
+chameleon, chameleons 
+crawlies 
+crawlies 
+bird, birds 
+bird, birds 
+senegal fire finch, senegal fire finches 
+senegal fire finch, senegal fire finches 
+millet-eater, millet-eaters 
+millet-eater, millet-eaters 
+pigeon, pigeons 
+white dove, white doves 
+ostrich, ostriches 
+ostrich anil, ostrich anils 
+pied-crow, pied-crows 
+pied-crow, pied-crows 
+egret, egrets 
+bustard, bustards 
+bustard, bustards 
+owl, owls 
+owl, owls 
+owl, owls 
+duck, ducks / egyptian goose, egyptian geese 
+duck, ducks / egyptian goose, egyptian geese 
+pot bellied duck, pot bellied ducks 
+large billed duck, large billed ducks 
+large billed duck, large billed ducks 
+black kite, black kites 
+black kite, black kites 
+vulture, vultures / eagle, eagles 
+vulture, vultures / eagle, eagles 
+small white vulture, small white vultures 
+small white vulture, small white vultures 
+white stork, white storks 
+white stork, white storks 
+sacred ibis, sacred ibises 
+pelican, pelicans 
+crane, cranes 
+crane, cranes 
+hornbill, hornbills 
+nest, nests 
+nest, nests 
+fly, flies 
+fly, flies 
+mosquito, mosquitoes 
+scorpion, scorpions 
+scorpion, scorpions 
+spider, spiders 
+spider, spiders 
+hunting spider, hunting spiders 
+hunting spider, hunting spiders 
+locust, locusts / grasshopper, grasshoppers 
+locust, locusts / grasshopper, grasshoppers 
+worm, worms / grub, grubs / caterpillar, caterpillars 
+ants, ants 
+ants, ants 
+ants, ants 
+ants, ants 
+termites 
+termites 
+lice, lices 
+lice, lices 
+mite, mites / weevil, weevils 
+tick, ticks 
+borer, borers 
+borer, borers 
+dung beetle, dung beetles 
+dung beetle, dung beetles 
+black beetle, black beetles 
+black beetle, black beetles 
+snail, snails 
+snail, snails 
+butterfly, butterflies / moth, moths 
+bee, bees / hornet, hornets 
+cricket, crickets / cicada, cicadas 
+wasp, wasps 
+dragonfly, dragonflies 
+dragonfly, dragonflies / wasp, wasps 
+body, bodies 
+body, bodies 
+body, bodies 
+body, bodies 
+bone, bones 
+long bone, long bones 
+small bone, small bones 
+muscle, muscles / member, members 
+muscle, muscles / member, members 
+muscle, muscles 
+muscle, muscles 
+joint, joints 
+joint, joints 
+nerve, nerves / vein, veins / tendon, tendons 
+nerve, nerves / vein, veins / tendon, tendons 
+head, heads 
+face, faces 
+hair, hairs 
+hair, hairs 
+hair, hairs 
+hair, hairs 
+hair, hairs 
+long hair, long hairs 
+long hair, long hairs 
+eye, eyes 
+eye, eyes 
+eyebrow, eyebrows 
+eyebrow, eyebrows 
+eyelid, eyelids 
+eyelid, eyelids 
+eyelash, eyelashes 
+eyelash, eyelashes 
+eyelash, eyelashes 
+ear, ears 
+ear, ears 
+nose, noses 
+nose, noses 
+nose, noses 
+nose angor, nose angors 
+mouth em, mouth ems 
+mouth imi, mouth imis 
+tooth, teeth 
+tooth, teeth 
+tongue, tongues 
+lip, lips 
+lip, lips 
+gums
+gums
+neck, necks 
+neck, necks 
+throat, throats 
+throat, throats 
+adams apple, adams apples 
+cheek, cheeks 
+cheek, cheeks 
+cheek, cheeks 
+cheek, cheeks 
+beard, beards / chin, chins 
+beard, beards / chin, chins 
+sideburns, sideburns / side of face, side of faces 
+forehead, foreheads 
+forehead, foreheads 
+skull, skulls 
+skull, skulls 
+skull, skulls 
+brain, brains / bone marrow, bone marrows 
+nape of neck, nape of necks 
+nape of neck, nape of necks 
+palate, palates 
+chest, chests 
+chest, chests 
+sternum, sternums 
+shoulder, shoulders 
+shoulder, shoulders 
+shoulder-blade, shoulder-blades 
+back, backs 
+back, backs 
+breast, breasts / nipple, nipples 
+breast, breasts / udder, udders 
+rib, ribs 
+rib, ribs 
+side, sides 
+side, sides 
+thorax, thoraxes 
+thorax, thoraxes 
+arm, arms / hand, hands 
+arm, arms / hand, hands 
+finger, fingers 
+finger, fingers 
+thumb, thumbs 
+thumb, thumbs 
+nail, nails 
+nail, nails 
+palm, palms 
+wrist, wrists 
+wrist, wrists 
+wrist, wrists 
+wrist, wrists 
+elbow, elbows / corner, corners 
+elbow, elbows / corner, corners 
+leg, legs / foot, feet 
+ankle, ankles 
+ankle, ankles 
+ankle, ankles 
+ankle, ankles 
+knee, knees 
+knee, knees 
+shin, shins 
+shin, shins 
+thigh, thighs 
+sole, soles 
+toe, toes 
+toe, toes 
+belly, bellies 
+belly, bellies 
+waist, waists 
+waist, waists 
+belly-button, belly-buttons 
+belly-button, belly-buttons 
+hip, hips 
+pelvis, pelvises 
+pelvis, pelvises 
+buttock, buttocks 
+buttock, buttocks 
+lumber region, lumber regions 
+lumber region, lumber regions 
+stomach muscles
+penis, penises 
+penis, penises 
+penis, penises 
+penis, penises 
+penis, penises 
+penis, penises 
+penis, penises 
+foreskin, foreskins 
+foreskin, foreskins 
+testicles 
+vagina, vaginas 
+vagina, vaginas 
+vagina, vaginas 
+pubic hair, pubic hairs 
+pubic hair, pubic hairs 
+anus, anuses 
+heart, hearts 
+heart, hearts 
+liver, livers 
+liver, livers 
+kidney, kidneys 
+stomach, stomachs 
+stomach, stomachs 
+intestine, intestines 
+lung, lungs 
+bladder, bladders 
+viscera, visceras 
+womb, wombs / loins
+womb, wombs / loins
+umbilical cord, umbilical cords 
+placenta, placentas 
+tail, tails 
+tail, tails 
+horn, horns 
+hump, humps 
+hump, humps 
+hoof, hoofs / claw, claws 
+hoof, hoofs / claw, claws 
+wing, wings 
+wing, wings 
+wing, wings 
+feather, feathers 
+hair, hairs 
+hair, hairs 
+foreleg, forelegs 
+mane, manes 
+mane, manes 
+carrion, carrions 
+carrion, carrions 
+breath, breaths 
+breath, breaths 
+blood, bloods 
+blood, bloods 
+sweat, sweats 
+sweat, sweats 
+tears
+tears 
+urine, urines 
+faeces
+faeces
+infantile expression, infantile expressions 
+human, humans / carnivore, carnivores 
+breaking wind, breaking winds 
+sneeze, sneezes 
+sneeze, sneezes 
+belch, belches 
+belch, belches 
+spittle, spittles / spit, spits 
+saliva, salivas / flavour, flavours 
+hiccups
+hiccups
+hiccups
+nosebleed, nosebleeds 
+nosebleed, nosebleeds 
+nasal mucus, nasal mucuses 
+bile, biles / gall bladder, gall bladders 
+bile, biles 
+phlegm, phlegms 
+phlegm, phlegms 
+pus, puses 
+pus, puses 
+dung, dungs 
+dung, dungs 
+cow dung, cow dungs 
+cow dung, cow dungs 
+pellets
+pellets
+horse, horses / donkey dung, donkey dungs 
+horse, horses / donkey dung, donkey dungs 
+cud, cuds 
+cud, cuds 
+contents of ruminants
+stomach, stomachs 
+venom, venoms 
+venom, venoms 
+illness, illnesses 
+illness, illnesses 
+fever, fevers 
+headache, headaches 
+cough, coughs 
+cough, coughs 
+pain, pains 
+pain, pains 
+pain, pains 
+severe pain, severe pains 
+severe pain, severe pains 
+injury, injuries / wound, wounds 
+injury, injuries / wound, wounds 
+injury, injuries / wound, wounds 
+open sore, open sores / wound, wounds 
+open sore, open sores / wound, wounds 
+boil, boils 
+hot area, hot areas 
+hot area, hot areas 
+feeling unwell, feeling unwells 
+health, healths 
+health, healths 
+health, healths 
+medicine, medicines / treatment, treatments 
+medicine, medicines / treatment, treatments 
+tablet, tablets 
+tablet, tablets 
+doctor, doctors / nurse, nurses / clinic, clinics 
+doctor, doctors / nurse, nurses / clinic, clinics 
+doctor, doctors / nurse, nurses / clinic, clinics 
+healer, healers 
+healer, healers 
+vaccination, vaccinations 
+vaccination, vaccinations 
+vaccination, vaccinations 
+vaccination, vaccinations 
+malaria, malarias 
+jaundice, jaundices 
+jaundice, jaundices 
+diarrhoea, diarrhoeas 
+diarrhoea, diarrhoeas 
+diarrhoea, diarrhoeas 
+dysentery, dysenteries 
+common cold, common colds 
+common cold, common colds 
+guinea worm, guinea worms 
+measles, measles 
+measles, measles 
+syphilis
+syphilis
+syphilitic skin lesions
+leprosy
+leprosy
+leprosy
+leprosy
+discomfort
+whooping cough
+intestinal worms
+intestinal worms
+arthritis, arthritises 
+arthritis, arthritises 
+tight chesty cough
+tight chesty cough
+tuberculosis
+rabies
+aids
+aids
+restricted breathing 
+conjunctivitis
+conjunctivitis
+blindness
+total deafness, 
+total deafness, 
+partial deafness
+food, foods / eating, eatings 
+food, foods / eating, eatings 
+food, foods / meal, meals 
+food, foods / meal, meals 
+provisions 
+provisions 
+provisions 
+food for guests
+food for guests 
+water, waters 
+left-overs
+left-overs
+odour of food, odours of foods
+odour of cooked meat, odours of cooked meats 
+fruit, fruits
+cereals, cereals
+millet, millets 
+millet, millets 
+sorghum, sorghums 
+rice, rices 
+wild fonio
+wild fonio
+wild fonio
+maize, maizes 
+millet bran, millet brans 
+millet bran, millet brans 
+husk, husks / coarse bran, coarse brans 
+flour, flours / powder, powders 
+flour, flours / powder, powders 
+wheat flour, wheat flours 
+wheat flour, wheat flours 
+porridge, porridges 
+porridge, porridges 
+sauce for, sauce for
+sauce for, sauce for
+town sauce, town sauces 
+milk, milks 
+milk, milks 
+curdled milk, curdled milks 
+butter, butter 
+butter, butter 
+millet drink, millet drinks 
+gruel
+gruel
+meat, meats 
+bean, beans
+salt, salts 
+salt, salts 
+tea
+leaf, leaves
+leaf, leaves
+sugar, sugars 
+sugar, sugars 
+lump, lumps 
+peanuts, peanuts
+dates, dates
+dates, dates 
+onion, onions 
+onion, onions 
+dried onion leaf, dried onion leaves 
+dried onion leaf, dried onion leaves 
+leaf, leaves
+baobab leaf, baobab leaves 
+egg, eggs 
+egg, eggs 
+mint, mints 
+mint, mints 
+honey, honeys 
+honey, honeys 
+cheese, cheeses 
+cheese, cheeses 
+grilled grain, grilled grains 
+boiled grain, boiled grains 
+boiled grain, boiled grains 
+donut, donuts / cake, cakes 
+pounded meat, pounded meats 
+pounded meat, pounded meats 
+cream, creams 
+colostrum, colostrums 
+colostrum, colostrums 
+set butter
+wild date, wild dates 
+jujube, jujubes 
+wild melon, wild melons 
+wild melon, wild melons 
+tigernut sedge, tigernut sedges 
+tigernut sedge, tigernut sedges 
+gum, gums / resin, resins 
+gum, gums / resin, resins 
+cake of jujube flour, cake of jujube flours 
+cake of jujube flour, cake of jujube flours 
+beer, beers 
+alcohol, alcohols 
+alcohol, alcohols 
+bread, breads 
+bread, breads 
+bread, breads 
+grease / fat 
+grease / fat 
+sweet potato, sweet potatoes 
+potato, potatoes 
+tomato, tomatoes 
+okra, okras 
+okra, okras 
+spice, spices / chilli, chillis 
+spice, spices / chilli, chillis 
+kola nut, kola nuts 
+citrus fruit, citrus fruits 
+mango, mangoes 
+cooking oil, cooking oils 
+coffee, coffees 
+english tea, english teas 
+pestle, pestles 
+pestle, pestles 
+mortar, mortars 
+bowl, bowls 
+wooden bowl, wooden bowls 
+wooden bowl, wooden bowls 
+large bowl, large bowls 
+gourd, gourds 
+small gourd, small gourds 
+gourd, gourds 
+small gourd, small gourds 
+milking bowl, milking bowls 
+spoon, spoons 
+spoon, spoons 
+tea things
+teapot, teapots 
+teapot, teapots 
+tea glass, tea glasses 
+brazier, braziers 
+basket, baskets 
+basket, baskets 
+measuring tin, measuring tins 
+measuring tin, measuring tins 
+measuring tin, measuring tins 
+tin, tins / box, boxes 
+plate, plates / bowl, bowls 
+large bowl, large bowls 
+cooking pot, cooking pots 
+small cooking pot, small cooking pots 
+cooking pot, cooking pots 
+stirring stick, stirring sticks 
+cup, cups / ladle, ladles / scoop, scoops 
+cup, cups / ladle, ladles / scoop, scoops 
+straw plate, straw plates 
+straw plate, straw plates 
+lid, lids 
+lid, lids 
+sieve, sieves 
+knife, knives 
+knife, knives 
+clay pot, clay pots 
+clay pot, clay pots 
+clay pot, clay pots 
+water skin, water skins 
+water skin, water skins 
+old water skin, old water skins 
+old water skin, old water skins 
+skin, skins 
+skin, skins 
+skin, skins 
+stopper, stoppers 
+well bucket, well buckets / scoop, scoops 
+well bucket, well buckets / scoop, scoops 
+bucket, buckets 
+bag, bags 
+leather bag, leather bags 
+leather bag, leather bags 
+sack, sacks 
+bag, bags / satchel, satchels 
+bag of rennet, bag of rennets 
+funnel, funnels 
+basket, baskets 
+basket, baskets 
+glass bottle, glass bottles 
+glass bottle lulu, glass bottle lulus 
+box, boxes / bottle, bottles / jar, jars 
+box, boxes / bottle, bottles / jar, jars 
+large metal bowl, large metal bowls 
+forge, forges 
+tools, toolss 
+knife, knives 
+knife, knives 
+axe, axes 
+axe, axes 
+adze, adzes 
+adze, adzes 
+hammer, hammers 
+hammer, hammers 
+punch, punches 
+punch, punches 
+punch, punches 
+punch, punches 
+cold chisel, cold chisels 
+cold chisel, cold chisels 
+scoring knife, scoring knives 
+scoring knife, scoring knives 
+pliers, pliers / tongs, tongss / tweezers, tweezerss 
+file, files 
+awl, awls / big needle, big needles 
+awl, awls / big needle, big needles 
+awl, awls 
+bellows, bellowss 
+bellows, bellowss 
+scriber, scribers 
+anvil, anvils 
+anvil, anvils 
+tool box, tool boxes 
+tool box, tool boxes 
+dye, dyes 
+body of guitar, body of guitars 
+violin, violins 
+violin, violins 
+flute, flutes 
+flute, flutes 
+flute, flutes 
+flute, flutes 
+drum, drums 
+gourd, gourds 
+drum of command, drum of commands 
+drumstick, drumsticks 
+drumstick, drumsticks 
+bugle, bugles / trumpet, trumpets 
+rattle, rattles 
+fulani bed, fulani beds 
+slats, slatss 
+slats, slatss 
+tent pole, tent poles 
+tent pole, tent poles 
+tent peg, tent pegs 
+tent peg, tent pegs 
+handle, handles / haft, hafts 
+conical cage, conical cages 
+walking stick, walking sticks 
+walking stick, walking sticks 
+stand, stands 
+stand, stands 
+frame, frames 
+fork, forks 
+fork, forks / pillar, pillars 
+fork, forks / pillar, pillars 
+support, supports 
+thick supporting arc, thick supporting arcs 
+thick supporting arc, thick supporting arcs 
+thin supporting arc, thin supporting arcs 
+cross woods
+cross woods
+bed, beds 
+bed, beds 
+fork, forks 
+fork, forks 
+fork, forks 
+support pole, support poles 
+support pole, support poles 
+cross poles
+cross poles
+bed mat, bed mats 
+bed mat, bed mats 
+pillow support, pillow supports 
+weapon, weapons 
+weapon, weapons 
+stick, sticks / staff, staffs 
+stick, sticks / staff, staffs 
+sword, swords 
+spear, spears 
+spear, spears 
+javelin, javelins / spear, spears 
+dagger, daggers 
+dagger, daggers 
+bow, bows 
+bow, bows 
+arrow, arrows 
+arrow, arrows 
+hoe, hoes / head of hoe, head of hoes 
+head, heads 
+hoe, hoes 
+hoe, hoes 
+hoe, hoes 
+metal bit, metal bits 
+nail, nails / spring, springs / bar, bars 
+rope, ropes 
+guy rope, guy ropes 
+tying strip, tying strips
+tying strip, tying strips 
+millet stalk wall, millet stalk walls 
+millet stalk wall, millet stalk walls 
+windbreak mat, windbreak mats 
+windbreak mat, windbreak mats 
+mat, mats 
+mat, mats 
+mat, mats 
+bed mat, bed mats 
+bed mat, bed mats 
+hanging decorative mat, hanging decorative mats 
+hanging basket, hanging baskets 
+panniers
+panniers 
+straw hut, straw huts 
+grain store, grain stores / hut, huts 
+grain store, grain stores 
+grain store, grain stores 
+temporary shelter, temporary shelters 
+cushion, cushions 
+cushion, cushions 
+cushion, cushions 
+strip, strips 
+sack, sacks 
+sack, sacks 
+bag, bags / sack, sacks 
+bag, bags / sack, sacks 
+bag, bags / sack, sacks 
+camel bag, camel bags 
+saddle, saddles 
+thong, thongs / sandal strap, sandal straps 
+thong, thongs / sandal strap, sandal straps 
+scabbard, scabbards 
+tent, tents 
+tent, tents 
+pen, pens 
+pen, pens 
+paper, papers 
+letter, letters / certificate, certificates 
+writing tablet, writing tablets 
+book, books 
+mirror, mirrors / pane, panes / spectacles
+mirror, mirrors / pane, panes / spectacles
+soap, soaps 
+kettle, kettles 
+razor, razors 
+razor, razors 
+lamp, lamps 
+lamp, lamps 
+trunk, trunks 
+trunk, trunks 
+trunk, trunks 
+brush, brushes 
+brush, brushes 
+brush, brushes 
+well bucket, well buckets / scoop, scoops 
+well bucket, well buckets / scoop, scoops 
+chair, chairs / bench, benches / stool, stools 
+chair, chairs / bench, benches / stool, stools 
+mosquito net, mosquito nets 
+mosquito net, mosquito nets 
+bed roll, bed rolls 
+bed roll, bed rolls 
+blanket, blankets 
+blanket, blankets 
+trap, traps 
+trap, traps 
+gun, guns 
+gun, guns 
+gun, guns 
+bullet, bullets 
+handcuffs / shackles
+handcuffs / shackles
+padlock, padlocks / lock, locks 
+padlock, padlocks / lock, locks 
+key, keys 
+umbrella, umbrellas / banner, banners 
+umbrella, umbrellas / banner, banners 
+door, doors / lid, lids 
+door, doors / lid, lids 
+straw lid, straw lids / cassette, cassettes 
+battery, batteries 
+battery, batteries 
+town, towns 
+town, towns 
+village, villages / small town, small towns 
+village, villages / small town, small towns 
+village, villages 
+camp, camps 
+camp, camps 
+camp / group of homes
+home, homes / house, houses / room, rooms 
+building, buildings 
+building, buildings 
+roof, roofs 
+roof, roofs 
+courtyard, courtyards / wall, walls 
+straw house, straw houses 
+mud house, mud houses 
+straw house, straw houses 
+grain store, grain stores 
+grain store, grain stores 
+grain store, grain stores 
+tower, towers 
+tower, towers 
+market, markets 
+market, markets 
+market, markets / price, prices 
+market, markets 
+fence, fences / enclosure, enclosures 
+fence, fences / enclosure, enclosures 
+barrier, barriers 
+barrier, barriers 
+lean-to, lean-toes 
+lean-to, lean-toes 
+pit latrine, pit latrines 
+swept area, swept areas 
+swept area, swept areas 
+road, roads / path, paths 
+road, roads / path, paths 
+street, streets / road, roads 
+beaten track, beaten tracks 
+beaten track, beaten tracks 
+bridge, bridges / ford, fords 
+ford, fords 
+ford, fords 
+ford, fords 
+well, wells / hole, holes 
+mount, mounts / vehicle, vehicles 
+mount, mounts / vehicle, vehicles 
+car, cars / lorry, lorries 
+car, cars / lorry, lorries 
+moped, mopeds / motorbike, motorbikes 
+bicycle, bicycles 
+aeroplane, aeroplanes 
+aeroplane, aeroplanes 
+aeroplane, aeroplanes 
+boat, boats 
+boat, boats 
+pirogue, pirogues 
+pirogue, pirogues 
+cemetery, cemeteries / grave, graves 
+cemetery, cemeteries / grave, graves 
+grave, graves / tomb, tombs 
+abandoned camp, abandoned camps 
+abandoned camp, abandoned camps 
+battlefield, battlefields 
+battlefield, battlefields 
+football pitch, football pitches 
+runway, runways / airfield, airfields 
+material, materials / cloth, cloths 
+cloth, cloths / clothing
+clothing 
+clothing 
+clothing 
+boubou, boubous 
+boubou, boubous 
+boubou, boubous 
+undershirt, undershirts / vest, vests 
+shirt, shirts 
+shirt, shirts 
+shirt, shirts / blouse, blouses 
+trousers, trousers 
+trousers, trousers 
+trouser cord, trouser cords 
+trouser cord, trouser cords 
+belt, belts / girdle, girdles 
+wrap skirt, wrap skirts 
+wrap skirt, wrap skirts 
+melouf, meloufs 
+melouf, meloufs 
+flip flop, flip flops / sandal, sandals 
+flip flop, flip flops / sandal, sandals 
+flip flop, flip flops / sandal, sandals 
+flip flop, flip flops / sandal, sandals 
+turban, turbans 
+indigo material in strips, indigo material in stripss 
+indigo turban, indigo turbans 
+indigo turban, indigo turbans 
+headscarf, headscarves / veil, veils 
+headscarf, headscarves / veil, veils 
+headscarf, headscarves / veil, veils 
+headscarf, headscarves / veil, veils 
+headscarf, headscarves / veil, veils 
+small headscarf, small headscarves
+hat, hats / helmet, helmets 
+hat, hats / helmet, helmets 
+pocket, pockets 
+pocket, pockets 
+bazin material, bazin materials 
+bazin material, bazin materials 
+hem, hems 
+tear, tears 
+patch, patches 
+tobacco pouch, tobacco pouches 
+tobacco pouch, tobacco pouches 
+neck wallet, neck wallets 
+waist bag, waist bags 
+tube, tubes 
+cloth, cloth 
+old clothes
+old clothes
+jewellery
+jewellery
+decoration, decorations 
+decoration, decorations 
+earring, earrings 
+earring, earrings 
+ring, rings 
+ring, rings 
+bracelet, bracelets 
+bracelet, bracelets 
+necklace, necklaces 
+chain, chains 
+coin, coins 
+red jewel, red jewels / green jewel, green jewels
+white necklace, white necklaces 
+perfume, perfumes 
+perfume, perfumes 
+perfume, perfumes 
+perfume, perfumes 
+henna, hennas 
+henna, hennas 
+henna, hennas 
+tree, trees 
+bush, bushes / small thorn tree, small thorn trees 
+bush, bushes / small thorn tree, small thorn trees 
+small thorn bush, small thorn bushes 
+small thorn bush, small thorn bushes 
+thorn, thorns 
+thorn, thorns 
+leaf, leaves 
+leaf, leaves 
+leaf, leaves 
+leaf, leaves 
+root, roots 
+branch, branches 
+branch, branches 
+bud, buds / blossom, blossoms 
+bark, barks 
+bark, barks 
+trunk, trunks / stump, stumps 
+fallen trunk, fallen trunks 
+shoot, shoots / budding branch, budding branches 
+shoot, shoots / budding branch, budding branches 
+shoot, shoots / budding branch, budding branches 
+shoot, shoots / budding branch, budding branches 
+gum, gums / resin, resins 
+flesh, fleshes 
+flesh, fleshes 
+hole, holes 
+hole, holes 
+pod, pods 
+jujube tree, jujube trees 
+jujube, jujubes 
+wild date tree, wild date trees 
+wild date, wild dates 
+nut, nuts 
+gum tree, gum trees 
+gum tree, gum trees 
+pod, pods 
+resin, resins 
+large, larges 
+gum tree, gum trees 
+gum tree, gum trees 
+pod, pods 
+pod, pods 
+pod, pods 
+gum tree, gum trees 
+gum tree, gum trees 
+gum tree, gum trees 
+gum tree, gum trees 
+gum tree, gum trees 
+gum tree, gum trees 
+gum tree, gum trees 
+baobab, baobabs 
+baobab, baobabs 
+leaf, leaves 
+fruit, fruits 
+fruit, fruits 
+neem, neems 
+doum palm, doum palms 
+doum palm, doum palms 
+frond, fronds 
+fruit, fruits 
+stone, stones 
+date palm, date palms 
+date palm, date palms 
+date, dates 
+date, dates 
+spurge bush, spurge bushes 
+spurge bush, spurge bushes 
+light wood, light woods 
+sodom apple, sodom apples 
+sodom apple, sodom apples 
+myrrh tree, myrrh trees 
+myrrh tree, myrrh trees 
+resin, resins 
+resin, resins 
+broad leaf tree, broad leaf trees 
+leafy fruit tree, leafy fruit trees 
+leafy fruit tree, leafy fruit trees 
+leafy tree, leafy trees 
+bushy tree, bushy trees 
+bushy tree, bushy trees 
+ripe fruit, ripe fruits 
+green fruit, green fruits 
+green fruit, green fruits 
+large tree, large trees 
+bush, bushes 
+bush, bushes 
+tamarind, tamarinds 
+karite butter, karite butter 
+plant, plants 
+sown plant, sown plants / garden, gardens 
+planting tool
+planting tool
+straw, straws / grass, grasses / weed, weeds 
+straw, straws / grass, grasses / weed, weeds 
+greenery, greeneries 
+greenery, greeneries / weed, weeds 
+greenery, greeneries / weed, weeds 
+plants / weeds
+plants / weeds 
+millet, millets 
+stalk, stalks 
+stalk, stalks 
+shoots
+shoots 
+bit of stalk, bit of stalks 
+bit of stalk, bit of stalks 
+head, heads 
+seed, seeds 
+seed, seeds 
+grain, grains / seed, seeds 
+grain, grains 
+grain, grains 
+chaff, chaffs 
+chaff, chaffs 
+bean, beans 
+bean pods 
+sorghum, sorghums 
+sorghum, sorghums 
+panicum laetum, panicum laetums 
+wild fonio, wild fonios 
+grass, grasses 
+grass, grasses 
+grass, grasses 
+grass, grasses 
+sandbur, sandburs / cram cram, cram crams 
+cenchrus biflorus, cenchrus bifloruses 
+reed, reeds 
+reed, reeds 
+lotus, lotuses / water-lily, water-lilies 
+lotus, lotuses / water-lily, water-lilies 
+puncture vine, puncture vines 
+puncture vine, puncture vines 
+soft spiky seed, soft spiky seeds
+plant
+plant, plants 
+mushroom
+mushroom 
+fungus 
+fungus 
+heat / hot 
+heat / hot 
+cold 
+wind, winds 
+rain, rains 
+rain, rains 
+cloud, clouds 
+cloud, clouds 
+thunder 
+thunder 
+lightning 
+lightning 
+lightning 
+dust storm, dust storms 
+dust storm, dust storms 
+sand storm, sand storms 
+dust devil, dust devils / willy willy, willy willies 
+dust devil, dust devils / willy willy, willy willies 
+rainbow, rainbows 
+rainbow, rainbows 
+rainbow, rainbows 
+rainbow, rainbows 
+overcast
+cool humid air, cool humid airs 
+drought, droughts 
+hail
+hail 
+land, lands / earth, earths / homeland, homelands 
+land, lands / earth, earths 
+homeland, homelands 
+bush, bushes / countryside, countrysides 
+bush, bushes / countryside, countrysides 
+valley, valleys 
+bush, bushes / countryside, countrysides 
+wilderness / desert, deserts 
+rock, rocks / stone, stones / small hill, small hills 
+rock, rocks / stone, stones / small hill, small hills 
+mountain, mountains 
+mountain, mountains 
+hill, hills 
+hill, hills 
+hill, hills 
+small hill, small hills 
+small hill, small hills 
+small hill, small hills 
+small hill, small hills 
+small hill, small hills 
+small hill, small hills 
+field, fields 
+field, fields 
+field, fields 
+sand dune, sand dunes 
+sand dune, sand dunes 
+sand, sands 
+sand, sands 
+hot sand, hot sands 
+hot sand, hot sands 
+flat ground, flat grounds 
+wadi, wadis / ravine, ravines 
+wadi, wadis / ravine, ravines 
+sandy wadi, sandy wadis 
+sandy wadi, sandy wadis 
+river, rivers 
+river, rivers 
+lake, lakes 
+lake, lakes 
+lake, lakes / valley, valleys 
+lake, lakes / valley, valleys 
+valley, valleys / forest, forests 
+valley, valleys / forest, forests 
+valley, valleys / pasture, pastures 
+valley, valleys / pasture, pastures 
+pasture, pastures 
+pasture, pastures 
+pasture, pastures / shepherding, shepherdings 
+pasture, pastures / shepherding, shepherdings 
+fresh pasture, fresh pastures 
+puddle, puddles / low ground, low grounds 
+puddle, puddles / low ground, low grounds 
+low ground, low grounds / dip, dips 
+low ground, low grounds / dip, dips 
+water-hole, water-holes 
+water-hole, water-holes 
+water-hole, water-holes 
+water-hole, water-holes 
+river-bank, river-banks / lake-side, lake-sides 
+river-bank, river-banks / lake-side, lake-sides 
+river-bank, river-banks / lake-side, lake-sides 
+flood plain, flood plains / lake-side, lake-sides 
+flood plain, flood plains / lake-side, lake-sides 
+clean area by water, clean area by waters 
+dried up lake, dried up lakes 
+wave, waves 
+flood, floods / flow, flows 
+flood, floods / flow, flows 
+tracks 
+tracks 
+termite mound, termite mounds 
+termite mound, termite mounds 
+salty earth, salty earths 
+soft earth, soft earths / sand, sands 
+sun
+sun 
+sun 
+moon, moons 
+moon, moons 
+star, stars 
+star, stars 
+venus 
+planet
+pleiades
+pleiades
+aldebaran
+orion 
+scorpio
+scorpio 
+great bear 
+great bear 
+milky way 
+milky way 
+liquid, liquids 
+white liquid, white liquids 
+white liquid ax, white liquid axes 
+oil, oils 
+oil, oils 
+grease 
+grease 
+paraffin 
+paraffin 
+wood, woods 
+dry wood, dry woods 
+dry wood, dry woods 
+plank, planks 
+iron / metal, metals 
+iron / metal, metals 
+gold 
+gold 
+silver / money 
+silver / money
+copper 
+copper 
+bronze / brass 
+aluminium 
+rust / oxidisation
+rust / oxidisation 
+stone, stones 
+stone, stones 
+glass 
+glass 
+glass / mirror, mirrors / spectacles 
+glass / mirror, mirrors / spectacles 
+plastic, plastics 
+cloth, cloths / material, materials 
+thread, threads 
+cotton / cotton seeds 
+wool, wools 
+wool, wools 
+hide, hides 
+leather, leathers 
+skin, skins 
+skin, skins 
+charcoal, charcoals 
+burning coal, burning coals 
+burning coal, burning coals 
+ash, ashes 
+ash, ashes 
+potash 
+potash 
+potash 
+mud 
+mud 
+clay, clays 
+dust, dusts 
+dust, dusts 
+dust, dusts 
+dust, dusts 
+dust, dusts 
+darkness 
+darkness 
+light, lights 
+light, lights 
+sunbeam, sunbeams 
+sunbeam, sunbeams 
+fire, fires 
+fire temse, fire temses 
+smoke 
+smoke 
+smoke / steam, steams 
+flint, flints 
+metal for striking, metal for strikings 
+spark, sparks 
+ice, ices 
+ice, ices 
+poison, poisons 
+poison, poisons 
+poison, poisons / sorcery, sorceries 
+religion, religions 
+religion, religions 
+prophet, prophets 
+prophet, prophets 
+apostle, apostles / servant, servants 
+apostle, apostles / servant, servants 
+saint, saints / holy man, holy men 
+saint, saints / holy man, holy men 
+preaching, preachings 
+preaching, preachings 
+miracle, miracles 
+miracle, miracles 
+miracle, miracles 
+god
+god 
+god 
+the creator 
+the lord 
+the lord 
+the eternal 
+the eternal 
+satan
+devil / strong emotion 
+genie, genies / spirit, spirits 
+genie, genies / spirit, spirits 
+angel, angels 
+angel, angels 
+prayer, prayers 
+prayer, prayers 
+prayer, prayers 
+prayer, prayers 
+prayer, prayers 
+sacrifice, sacrifices 
+sacrifice, sacrifices 
+sacrifice, sacrifices 
+almsgiving, almsgivings 
+tithe, tithes 
+tithe, tithes 
+tithe, tithes 
+fasting, fastings 
+fasting, fastings 
+teacher, teachers 
+teacher, teachers 
+quranic student, quranic students 
+quranic school, quranic schools 
+quranic school, quranic schools 
+reading, readings / study, studies 
+reading, readings / study, studies 
+pilgrim, pilgrims 
+pilgrim, pilgrims 
+ritual ablutions, ritual ablutions 
+mosque, mosques 
+place of worship, places of worship 
+place of prayer 
+place of prayer 
+worshipper, worshippers 
+rosary / prayer beads 
+rosary / prayer beads 
+law, laws / judgement, judgements 
+law, laws / judgement, judgements 
+law, laws / commandment, commandments 
+repentance, repentances 
+repentance, repentances 
+repentance, repentances 
+forgiveness, forgivenesses 
+forgiveness, forgivenesses 
+forgiveness, forgivenesses 
+sin, sins 
+sinner, sinners 
+transgressor, transgressors 
+transgressor, transgressors 
+apostate, apostates / illiterate, illiterates 
+hypocrite, hypocrites 
+recompense, recompenses / justice, justices 
+reward, rewards 
+reward, rewards 
+reward, rewards 
+good work, good works 
+good work, good works 
+good work, good works 
+good work, good works 
+evil work, evil works 
+evil work, evil works 
+balance, balances / account, accounts 
+the day of judgement 
+the day of judgement 
+the afterlife 
+heaven, heavens / sky, skies 
+heaven, heavens / sky, skies 
+paradise 
+hell-fire 
+hell 
+punishment, punishments 
+punishment, punishments 
+evil, evils 
+evil, evils 
+crime, crimes / injustice, injustices 
+crime, crimes / injustice, injustices 
+hypocricy, hypocricies 
+salvation, salvations 
+saviour, saviours 
+salvation, salvations / protection, protections 
+protection, protections / defence, defences 
+protection, protections / defence, defences 
+righteous person, righteous people 
+righteousness, righteousnesses 
+righteousness, righteousnesses 
+righteousness, righteousnesses 
+mercy, mercies 
+mercy, mercies / pity, pities / grace, graces 
+mercy, mercies / pity, pities / grace, graces 
+freedom, freedoms / grace, graces 
+freedom, freedoms / grace, graces 
+glory, glories / grace, graces 
+glory, glories / grace, graces 
+grace, graces 
+grace, graces 
+faith, faiths 
+faith, faiths 
+faith, faiths 
+faith, faiths 
+blessing, blessings 
+blessing, blessings 
+blessing, blessings 
+peace, peaces 
+peace 
+peace, peaces 
+peace, peaces 
+hope, hopes / value, values 
+authority, authorities / power, powers 
+authority, authorities / power, powers 
+rule, rules / authority, authorities 
+rule, rules / authority, authorities 
+rule, rules / power, powers 
+power, powers 
+power, powers 
+truth, truths 
+lie, lies 
+doubt, doubts 
+soul / spirit / life / self 
+breath, breaths / spirit, spirits 
+breath, breaths / spirit, spirits 
+oath, oaths 
+oath, oaths 
+vow, vows 
+oath, oaths / vow, vows / curse, curses 
+oath, oaths / vow, vows / curse, curses 
+custom, customs 
+custom, customs / origin, origins 
+custom, customs / origin, origins 
+tradition, traditions / hadith, hadiths 
+covenant, covenants / promise, promises 
+1st surah
+1st surah 
+prayer mat, prayer mats 
+adam 
+adam 
+eve 
+noah 
+noah 
+abraham 
+moses 
+moses
+torah 
+david 
+david 
+psalms 
+psalms 
+solomon 
+mary 
+john
+jesus 
+gospel 
+messiah 
+messiah 
+mohammed 
+mohammed 
+quran 
+quran 
+mecca 
+mecca 
+muslim, muslims 
+genealogy, genealogies 
+genealogy, genealogies 
+idol, idols 
+idol, idols 
+curse, curses / insult, insults 
+magic 
+magic 
+marabouts magic 
+magic word, magic words 
+sorcery / curse, curses 
+sorcery / curse, curses 
+sorcerer, sorcerers 
+witch, witches 
+witch, witches 
+evil eye, evil eyes 
+evil eye, evil eyes 
+evil eye, evil eyes 
+evil eye, evil eyes 
+divination 
+divination 
+diviner, diviners 
+diviner, diviners 
+black magic toru 
+possession-cult dancing 
+possession-cult dancing 
+possession-cult dancing 
+possession-cult dancing 
+possession-cult dancing 
+musician, musicians 
+musician, musicians 
+incense healing, incense
+omen
+omen 
+presage, presages 
+presage, presages 
+party, parties / festivities / game, games 
+religious festival, religious festivals 
+religious festival, religious festivals 
+dancing, dancings 
+dancing, dancings 
+bride-price, bride-prices 
+betrothal, betrothals 
+betrothal, betrothals 
+betrothal, betrothals / marriage, marriages 
+betrothal, betrothals / marriage, marriages 
+betrothal, betrothals / marriage, marriages 
+betrothal, betrothals / marriage, marriages 
+marriage
+marriage, marriages 
+wedding 
+confinement, confinements 
+naming ceremony 
+naming ceremony 
+naming ceremony, naming ceremonies 
+circumcision, circumcisions 
+circumcision, circumcisions 
+divorce, divorces / separation, separations 
+divorce, divorces / separation, separations 
+widow
+place of mourning 
+money / silver 
+money / silver 
+goods / flock, flocks 
+goods / flock, flocks 
+wealth / luck 
+wealth / luck 
+wealth / prosperity 
+wealth / prosperity 
+gain / luck 
+price, prices / value, values 
+price / value 
+market, markets 
+payment, payments 
+payment, payments 
+trade, trades 
+business, businesses 
+business, businesses 
+middleman 
+hire, hires / salary, salaries / rent, rents 
+wage, wages 
+profit, profits 
+profit, profits 
+profit, profits 
+loss, losses / lost animal, lost animals 
+loss, losses / lost animal, lost animals 
+account / figures 
+fine, fines / penalty, penalties 
+tribute, tributes / tax, taxes 
+colonial tax, colonial tax 
+contribution, contributions 
+contribution, contributions 
+gift / giving 
+gift, gifts / giving, givings 
+gift, gifts / giving, givings 
+gift, gifts / giving, givings 
+gift 
+gift, gifts
+gift, gifts 
+gift, gifts 
+love gifts 
+friendship gifts 
+gift for reconciliation, gift for reconciliations 
+gift for reconciliation, gift for reconciliations 
+gift for reconciliation 
+loan, loans / debt, debts 
+loan, loans / debt, debts 
+repayment, repayments 
+usufruct, usufructs 
+forfeit
+cow, cows 
+cowries 
+cowries 
+caravan, caravans 
+game, games / play, plays 
+amusements 
+amusements 
+dice 
+dice 
+strategy game 
+hide and seek 
+hide and seek 
+jacks 
+mancala / awari 
+hockey, hockeys 
+hockey, hockeys 
+hockey stick, hockey sticks 
+ball, balls 
+ball, balls 
+fencing / mock fight, mock fights 
+racing / races, racess 
+racing / races, racess 
+speed 
+wrestling 
+wrestling 
+state, states / character, characters 
+conduct / character, characters 
+conduct / character, characters 
+character, characters / state, states 
+character, characters / state, states 
+situation, situations / subject, subjects 
+habit, habits / taste, tastes 
+intelligence, intelligences 
+attention, attentions / intention, intentions 
+understanding, understandings 
+knowledge, knowledges 
+knowledge, knowledges 
+recognition, recognitions 
+recognition, recognitions 
+consciousness 
+consciousness, consciousnesses 
+consciousness, consciousnesses 
+worry, worries / sad thought, sad thoughtss 
+thought, thoughts 
+anxiety, anxieties 
+patience, patiences 
+patience, patiences 
+wisdom / honour 
+honour / reserve 
+reserve, reserves / doubt, doubts 
+shame, shames / reserve, reserves 
+shame, shames / reserve, reserves 
+grief, griefs / depression, depressions 
+nostalgia / loneliness 
+nostalgia / loneliness 
+nostalgia / loneliness 
+anger 
+wrath, wraths 
+wrath, wraths 
+fear, fears / anxiety, anxieties 
+fear, fears 
+fear, fears 
+fear, fears 
+fear, fears 
+joy, joys 
+joy, joys 
+pain / suffering 
+health / strength
+health / well-being 
+health / well-being 
+health / well-being 
+trembling, tremblings 
+trembling, tremblings 
+trembling, tremblings 
+trembling, tremblings 
+trembling, tremblings 
+name, names / noun, nouns 
+news 
+question, questions 
+greeting, greetings 
+greeting, greetings 
+leave-takings 
+leave-takings 
+speech, speeches / language, languages 
+speech, speeches / language, languages 
+word, words / phrase, phrases 
+word, words / phrase, phrases 
+word, words / saying, sayings 
+language, languages / dialect, dialects 
+conversation, conversations / chat, chats 
+conversation, conversations / chat, chats 
+conversation, conversations / chat, chats 
+conversation, conversations / chat, chats 
+conversation, conversations / chat, chats 
+conversation, conversations / chat, chats 
+story, stories 
+story, stories / poem, poems 
+story, stories / song, songs / riddle, riddles 
+story, stories / song, songs / riddle, riddles 
+song, songs / poem, poems 
+song, songs / poem, poems 
+historical tales 
+historical tales 
+proverb, proverbs 
+proverb, proverbs 
+proverb, proverbs / riddle, riddles 
+proverb, proverbs 
+parable, parables 
+argument, arguments / discussion, discussions 
+argument, arguments / discussion, discussions 
+argument, arguments / discussion, discussions 
+argument, arguments / discussion, discussions 
+argument, arguments / discussion, discussions 
+argument, arguments / opposition, oppositions 
+argument, arguments / opposition, oppositions 
+rant, rants 
+rant, rants 
+rebuke, rebukes 
+reproach, reproaches / blame 
+reproach, reproaches / blame 
+snub, snubs 
+praise, praises 
+renown / fame 
+prohibition, prohibitions / warning, warnings 
+warning cry, warning cries 
+warning cry, warning cries 
+alphabet, alphabets 
+alphabet, alphabets 
+berber alphabet 
+letter, letters / amulet, amulets / map, maps 
+letter, letters / amulet, amulets 
+letter, letters / amulet, amulets 
+voice, voices / noise, noises 
+voice, voices / noise, noises 
+noise, noises 
+noise, noises 
+noise, noises 
+shouting 
+shouting 
+comedy / loose talk 
+comedy / loose talk 
+threats 
+threats
+threats 
+threats 
+wail, wails / mourning cry, mourning cries 
+wail, wails 
+wail, wails 
+trill, trills 
+trill, trills 
+exaggeration, exaggerations 
+exaggeration, exaggerations 
+delirium 
+senility / delirium 
+hand signal, hand signals 
+hand signal, hand signals 
+thing, things 
+thing, things 
+things / equipment 
+tools / utensils 
+tools / utensils 
+part, parts / side, sides / half, halves 
+part, parts / side, sides / half, halves 
+half, halves / part, parts 
+share, shares / portion, portions 
+share, shares / portion, portions 
+side, sides 
+side, sides 
+right, rights 
+right, rights 
+left, lefts 
+left, lefts 
+left, lefts 
+world, worlds 
+solution, solutions 
+cause, causes / reason, reasons 
+cause, causes / reason, reasons 
+cause, causes / reason, reasons 
+cause, causes / reason, reasons 
+what is important 
+impossible 
+independence 
+independence 
+the necessary 
+opportunity, opportunities 
+opportunity, opportunities 
+pretext, pretexts 
+pretext, pretexts 
+confidence, confidences 
+searching 
+searching 
+act of hostility, acts of hostility 
+living together unmarried 
+fame / renown 
+fame / renown 
+fame / renown 
+fame / renown
+coincidence, coincidences 
+maintenance, maintenances 
+maintenance, maintenances 
+abuse, abuses / maltreatment, maltreatments 
+abuse, abuses / maltreatment, maltreatments 
+support, supports 
+alliance 
+task, tasks / errand, errands / work, works 
+task, tasks / errand, errands / work, works 
+task, tasks / errand, errands / work, works 
+work, works 
+doing, doings / act, acts 
+doing, doings / act, acts 
+arrival, arrivals 
+arrival, arrivals 
+departure, departures 
+departure, departures 
+departure, departures 
+going, goings 
+going, goings 
+walking, walkings 
+beginning, beginnings 
+end, ends 
+existence, existences 
+existence, existences 
+existence, existences 
+possession, possessions 
+perfection, perfections 
+likeness 
+likeness 
+preference, preferences 
+inheritance, inheritances 
+crime, crimes 
+crime, crimes 
+theft, thefts 
+surprise, surprises / betrayal, betrayals 
+surprise, surprises / betrayal, betrayals 
+fighting, fightings 
+lifting up 
+reduction, reductions 
+difference, differences / separation, separations 
+disappointment, disappointments 
+disappointment, disappointments 
+itching 
+itching 
+laziness / hesitation, hesitations 
+weeding, weedings 
+weeding, weedings 
+getting / earning, earnings 
+getting / earning, earnings 
+attempt, attempts 
+bringing, bringings / load, loads 
+drawing, drawings 
+weight, weights 
+weight, weights 
+weight, weights 
+importance / size 
+importance / size 
+ease / cheapness 
+ease / cheapness 
+agreement, agreements 
+agreement, agreements 
+agreement, agreements 
+agreement, agreements 
+help 
+help 
+laughter, laughters 
+laughter, laughters 
+bravery, braveries 
+bravery, braveries 
+journey, journeys 
+journey, journeys 
+hunger, hungers 
+thirst, thirsts 
+lack, lacks / loss, losses 
+rubbish, rubbishes 
+rubbish, rubbishes 
+beauty, beauties 
+friendship, friendships 
+friendship, friendships 
+love, loves / will, wills / need, needs 
+love, loves / will, wills / need, needs 
+tax, taxes / tribute, tributes 
+death, deaths 
+death, deaths 
+life, lives 
+life, lives 
+chiefdom, chiefdoms 
+daring / cheekiness 
+jealousy, jealousies 
+jealousy, jealousies 
+vomiting
+insult, insults 
+insult, insults 
+insult, insults 
+insult, insults 
+proof, proofs 
+direction, directions / bearing, bearings 
+direction, directions 
+direction, directions 
+north 
+north 
+north 
+south
+south 
+east 
+east
+east 
+west 
+west 
+colour, colours / markings 
+male, males 
+male, males 
+masculinity, masculinities 
+female, females 
+female, females 
+clan, clans / species / type, types 
+clan, clans / species / type, types 
+likeness / species / type, types 
+team, teams / group, groups / class, classes 
+team, teams / group, groups / class, classes 
+top, tops / surface, surfaces / roof, roofs 
+bottom, bottoms / base, bases 
+bottom, bottoms / base, bases 
+side, sides 
+inside, insides / centre, centres 
+outside, outsides 
+outside, outsides 
+height, heights 
+length, lengths 
+length, lengths 
+width, widths 
+width, widths 
+depth, depths 
+depth, depths 
+span, spans 
+cubit, cubits 
+cubit, cubits 
+line, lines / row, rows 
+length of life 
+length of life 
+sign, signs / symptom, symptoms 
+indication, indications 
+sign, signs / symptom, symptoms 
+indication, indications 
+sign, signs 
+meaning, meanings 
+photo, photos / shadow, shadows 
+taste, tastes / flavour, flavours 
+odour, odours / fragrance, fragrances 
+strong odour, strongs odours 
+strong odour, strongs odours
+dirt / dirtiness 
+triangle, triangles 
+triangle, triangles 
+sphere, spheres / ball, balls 
+sphere, spheres / ball, balls 
+circle, circles 
+circle, circles 
+circle, circles 
+wheel, wheels / bearing, bearings 
+police chief, police chiefs 
+prefect, prefects 
+maire, maires 
+police, polices 
+police, polices 
+gendarme, gendarmes 
+soldier, soldiers 
+soldier, soldiers 
+soldier, soldiers 
+customs 
+president, presidents 
+schoolteacher, schoolteachers 
+schoolteacher, schoolteachers 
+quarter, quarters 
+school, schools 
+pound, pounds 
+prison, prisons 
+office, offices 
+role, roles / function, functions 
+identity card, identity cards 
+tobacco, tobaccos 
+wallet, wallets 
+football, footballs 
+table, tables / market stall, market stalls 
+shop, shops 
+radio, radios / tape player, tape players 
+cassette, cassettes 
+battery, batteries 
+razor blade, razor blades 
+donkey cart, donkey carts 
+motorbike, motorbikes / moped, mopeds 
+mattress, mattresses 
+spade, spades 
+barrel, barrels 
+barrel, barrels 
+match, matches 
+match, matches 
+cab, cabs 
+photograph, photographs / picture, pictures 
+moving image, moving images 
+handpump, handpumps 
+handpump, handpumps 
+motorised pump, motorised pumps 
+machine, machines 
+machine, machines 
+plastic bottle, plastic bottles 
+sheet metal, sheet metals 
+tomato, tomatoes 
+cabbage, cabbages 
+coffee, coffees 
+citrus fruit, citrus fruits 
+potato, potatoes 
+lettuce, lettuces 
+metre, metres 
+kilometre, kilometres 
+gram, grams 
+100 grams 
+kilogram, kilograms 
+hour, hours / time, times 
+minute, minutes 
+clock, clocks / watch, watches 
+original, originals 
+lie, lies 
+catholic, catholics 
+flower, flowers 
+lamp, lamps / torch, torches 
+bucket, buckets 
+clinic, clinics / health worker, health workers 
+clinic, clinics / health worker, health workers 
+pick-axe, pick-axes 
+carrot, carrots 
+wood, woods 

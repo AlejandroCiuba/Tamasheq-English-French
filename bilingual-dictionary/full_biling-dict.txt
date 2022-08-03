@@ -1,0 +1,2475 @@
+man ăhalǝs meddăn
+man alǝs meddăn
+woman tamăṭṭ ḍeḍen
+woman tanṭuṭ tiḍoḍen
+child ara aratăn
+child tarat taraten
+child bărar bărarăn
+child tabărart tibăraren
+noble child alyaḍ ilyaḍăn
+noble child talyaṭṭ tilyaḍen
+noble child abăraḍ ibăraḍăn
+noble child tabăraṭ tibăraḍen
+slave child askiw iskiwăn
+slave child taskiwt tiskiwen
+slave child aškǝw iškiwăn
+slave child taškut tiškiwen
+someone ăwadǝm
+so and so măndam
+so and so tamăndam
+so and so tamăndamt
+people ăddinăt
+people ăytedăm
+anyone / whoever ere
+anyone / whoever ir
+crowd / gathering ălžămaɣăt ălžămaɣăten
+people / crowd tamǝtte timǝttawen
+people / crowd tamătte timăttiwen
+friend amidi imidawăn
+friend tamidit timidawen
+old man / elder amɣar imɣarăn
+old man / elder aɣmar iɣmarăn
+old woman tamɣart timɣaren
+old woman taɣmart tiɣmaren
+adolescent ămawaḍ imawaḍăn
+adolescent tămawaṭ timawaḍen
+neighbour anhăraǵ anhăraǵăn
+neighbour tanhărakk tanhăraǵen
+neighbour anărag inăragăn
+neighbour tanărak tinăragen
+guest ănaftaɣ inaftaɣăn
+guest tănaftaqq tinaftaɣen
+guest amăǵar imăǵarăn
+guest amăgar imăgarăn
+guest tamăǵart timăǵaren
+guest tamăgart timăgaren
+enemy ašănǵo išǝnǵa
+enemy azăngo izǝnga
+twin ekne aknewăn
+twin ekne iknewăn
+twin ekne eknewăn
+family ălɣăyal ălɣăyalăn
+people ăddinăt 
+people ăytedăm 
+your family ălɣăyal-năwăn
+your family ăddinăt-năwăn
+your family ăytedăm-năwăn
+father abba abbatăn
+father ǝbba ǝbbatăn
+mother anna annaten
+mother ǝnna ǝnnaten
+father ti tăy
+father ši tăy
+mother ma matt
+mother ma mătt
+your father ti-k
+your fathers tăy-wăn
+saidous father ti-s ǝn-săydu
+parent / ancestor ămaraw imarawăn
+brother ăŋŋa ayǝt-ma
+sister wălăt-ma šăt-ma
+sister wǝlǝt-ma ăššet-ma
+older brother amăqqar imăqqarăn
+younger brother amăḍray imăḍrayăn
+older sister tamăqqart timăqqaren
+younger sister tamăḍrayt timăḍrayen
+husband / man ăhalǝs meddăn
+husband / man alǝs meddăn
+wife hănn
+wife / woman tamăṭṭ ḍeḍen
+wife / woman tanṭuṭ tiḍoḍen 
+my wife hănn-i
+my wife hănn-e
+your wife hănn-ik
+your wife hănn-ek
+saidous wife hănn-is ǝn-săydu
+saidous wife hănn-es ǝn-săydu
+saidous wife tamăṭṭ tan săydu
+saidous wife tanṭuṭ tan săydu
+their husbands meddăn-năsnăt
+son ror mǝddan
+son rur măddan
+daughter ell iss
+daughter ell ešš
+co-wife / rival takna takniwen
+co-wife / rival takna taknaten
+concubine tawăyhăt tiwăyhăten
+concubine tewăhăyt tiwăhăyen
+crossed cousin ăbabaš ibubaš
+crossed cousin ăbobăz ibobazăn
+maternal uncle ăŋŋăt-ma
+nephew teǵăše tiǵǝšš
+nephew tegăze tigǝzz
+male in-law aḍăggal iḍulan
+male in-law ăḍaggal iḍulan 
+female in-law taḍăggalt tiḍulen
+female in-law tăḍaggalt tiḍulen
+brother-in-law alǝggǝs ilusan
+brother-in-law alǝggus ilusan
+sister-in-law talǝggǝst tilusen
+sister-in-law talǝggust tilusen
+father amɣar imɣarăn
+mother tamɣart timɣaren
+relative ašăqqaɣ išăqqaɣăn
+relative ašǝqqaɣ išǝqqaɣăn
+kin temeṭṭ
+orphan aǵuhel iǵuhelăn
+orphan aguhel iguhelăn
+stepson ăǵolăy iǵolăyăn
+stepson ăgola igolan
+stepdaughter tăǵolăyt tiǵolăyen
+stepdaughter tăgolăyt tigolăyen
+descendant ahăya ihăyawăn
+descendant tahăyawt tihăyawen
+descendant tahăyăwt tihăyăwen
+ancestor emătterǝw imătterǝwăn
+ancestor amǝttirǝw imǝttiraw
+bellah akli eklan
+bellah taklit tiklaten
+bellah taklit taklaten
+craftsman enhăḍ inhăḍăn
+craftsman enăḍ inăḍăn
+craftswoman tenhăṭ tinhăḍen
+craftswoman tenăṭ tinăḍen
+herder / vassal amăɣid imɣad
+herder / vassal amǝɣid imǝɣad
+herder / vassal tamăɣitt timɣad
+herder / vassal tamǝɣit timǝɣad 
+religious ăw ǝssuk kǝl ǝssuk
+religious tǝw ǝssuk šăt ǝssuk
+religious wǝlǝt ǝssuk ăššet ǝssuk
+noble ămašăɣ imušaɣ
+noble ămažǝɣ imažǝɣăn
+noble tămašăq timušaɣ
+noble tǝmažǝq timažǝɣen
+free-born / noble elăll ilăllan
+free-born / noble telăllit tilăllaten
+free-born / noble alǝlli ilăllan
+free-born / noble talǝllit tilăllaten
+clan tawset tiwsaten
+clan tăwšet tăwšeten
+fulani ăfullan ifullanăn
+fulani ǝfollan ifollanăn
+fulani / fulfulde tăfullant tifullanen
+fulani / fulfulde tǝfollant tifollanen
+songhay ehăt ihătan
+songhay ehǝti ihătan
+songhay tehătit tihătaten
+songhay tehǝtit tihătaten
+hausa esăwăɣ isăwăɣăn
+hausa tesăwăqq tisăwăɣen
+arab arab arabăn
+arab / arabic tarabt taraben
+mossi ămosi imosităn
+mossi ămoši imošităn
+mossi mosi mosităn
+mossi moši mošităn
+mossi tămosit timositen
+mossi tămošit timošiten
+european ăkafăr ikufar
+european ăkafǝr ikufar
+tailor ăw măsin 
+tailor ăw măšin
+trader ăw-mamăla kăl-mamăla
+beggar ăw-garibu kăl-garibu
+water-carrier ăw-gărwatăn kăl-gărwatăn
+civil servant ăw-sărwis kăl-sărwis
+clever person ăw-tăyǝtte kăl-tăyǝtte
+wise / kind person ăw-sărho kăl-sărho
+apprentice craftsman ăwănhăḍ ăwănhăḍăn
+apprentice craftsman ăwnăḍ ăwnăḍăn
+oudalan udal kǝl-udalăn
+trader ăttažer ăttažerăn
+griot aggu aggutăn
+potter / griot ămabbu ămabbutăn
+potter / griot mabbu mabbutăn
+teacher ălfăqqi ălfăqqităn
+teacher ǝlfǝqqi ǝlfǝqqităn
+doctor lăxtor lăxtortăn
+doctor lăqtor lăqtortăn
+doctor lăktor lăktortăn
+rebels ăšomăr išumar
+rebels ăšamur išumar
+expert / enthusiast ăššažeɣ ăššažeɣăn
+metal-worker atăga ităgatăn 
+builder ălbănna ălbănnatăn
+sedentary people awǝnnan iwǝnnanăn
+owner măss mǝssaw
+owner măšš mǝššaw
+car owner măss-is ǝn-torǝft
+car owner măšš-iš ǝn-turǝft
+shop owner măss-is ǝn-măngăza
+shop owner măšš-iš ǝn-măngăza
+good-for-nothing erk-ăwadǝm erk-ăddinat
+good-for-nothing erk-ăwadǝm erk-ăytedăm
+good-for-nothing ăwadǝm ǝn-bănnan
+thief emăkrăḍ imăkrăḍăn
+thief ebăydăg ibăydăgăn
+sorcerer emăššăɣăw imăššăɣăwăn
+prostitute tawăykurut tiwăykuruten
+prostitute tălkăxbat tălkăxbaten
+soldier ăssărdasi ǝssărdusa
+soldier ăssărdasi ăssărdasităn
+army / raiding party eǵhăn aǵhanăn
+army / raiding party egăn igǝnăn
+blacks imikwălăn
+black people ăddinăt win mikwălăn 
+black people ăddinăt wi kăwalnen
+black people ăytedăm win mikwălăn 
+black people ăytedăm wi kăwalnen
+chief ămănokal imănokalăn
+chief amǝnokal imǝnokalăn
+owner / master emăli imălan 
+owner / master emǝli imălan
+owner / master ămakraš imakrašăn
+leader ămizăr imizărăn
+leader amizăr imizărăn
+workman / servant emăššăɣăl imăššăɣălăn
+shepherd / herder amăḍan imăḍanăn
+farmer / peasant ămaǵyak imaǵyakăn
+farmer / peasant ămagyak imagyakăn
+traveller / tourist ămăssakul imǝssukal
+traveller / tourist amăššakul imǝššukal
+guard ămagaẓ imagaẓăn
+boaster anăsbăraǵ inăsbăraǵăn
+boaster anăsbărag inăsbăragăn
+hunter ămăhayyu imǝhuyya
+hunter ănagmar inagmarăn
+teacher enăsselmǝd inăsselmǝdăn
+teacher anǝsselmǝd inǝsselmǝdăn
+teacher emăsăɣăr imăsăɣran
+teacher amǝsseɣri imǝssǝɣra
+judge ămašraɣ imašraɣăn
+writer / secretary ănaktib inaktibăn
+healer enăssăfăr inăssăfărăn
+healer anăsmăgăl inăsmăgălăn
+prostitute tenăxxărămt tinăxxărămen
+doer emăǵǵ imăǵǵan
+doer amǝggi imăggan
+killer / murderer emănɣ imănɣan
+killer / murderer amǝnɣi imănɣan
+adulterer emăzni imăznan
+adulterer amǝzni imăznan
+adulteress temăznit timăznaten
+adulteress tamǝznit timăznaten
+traitor ămaɣdar imaɣdarăn
+wrong-doer ănaḍlam inaḍlamăn
+evil enăllăbăs inăllăbăsăn
+evil anăllăbăs inăllăbăsăn
+bridegroom ămaẓlay imaẓlayăn
+worshipper ănaɣbad inaɣbadăn
+fearer / fearful ămaksaḍ imaksaḍăn
+fearer / fearful ămăksoḍ imăksoḍăn 
+fearer / fearful ămiksăḍ imiksăḍăn
+fearer / fearful ămaxsad imaxsadăn
+servant / messenger ănămmašal inămmašalăn
+servant / messenger anămmazal inămmazalăn
+gardener / sower anăsdamu inǝsduma
+student / reader emăɣri imăɣran
+student / reader emǝɣri imăɣran
+maker / repairer emăkni imăknan
+maker / repairer emǝkni imăknan
+eater emăkš imăkšan
+eater amǝkši imăkšan
+drinker emăsăw imăswan
+drinker emǝswi imăswan
+rider ămănay imănayăn
+rider amăwan imăwanăn
+sick ămarhin imarhinăn
+sick ămirăn imirănăn
+blind emădderɣǝl imǝddorɣal
+blind amǝdderɣǝl imǝddǝrɣal
+deaf amẓaǵ imẓaǵăn
+deaf amẓag imẓagăn
+cripple anăbdon inǝbdan
+mad enăffărešše inǝffǝrušša
+mad enăffărăšše inǝffǝrǝšša
+mad emeskel imeskelăn
+possessed amăggaru imǝggora
+possessed amăggaru imǝggura
+sterile emăǵǵeǵri imǝǵǵuǵra
+sterile amǝggegri imǝggǝgra
+sterile temăǵǵeǵrit timǝǵǵuǵra
+sterile tamǝggegrit timǝggǝgra
+dead enămmettǝn inǝmmuttan
+dead anǝmmettǝn inǝmmǝttan
+red ămišwăɣ imišwăɣăn
+red amizwăɣ imizwăɣăn
+black ămikwăl imikwălăn
+black amikwăl imikwălăn 
+liar ănăsbahu inǝsbuha
+liar anăsbahu inǝsbuha
+strong emăṣṣehi imăṣṣuha
+strong emăṣṣehi imǝṣṣuha
+greedy ămaxlad imaxladăn
+profligate / destructive ămaxšad imaxšadăn
+violent / pagan anăkfor inǝkfar
+rebellious enăbbedăr inǝbbudar
+rebellious anǝbbedǝr inǝbbudar
+rich / lucky anăsbăɣor inǝsbăɣar
+rich / lucky anăsbăɣor inǝsbǝɣar
+prosperous amărrǝzăɣ imărruzaɣ
+prosperous amǝrrǝzǝɣ imǝrrǝzǝɣăn
+trusted / trustworthy ănaflis inǝflas
+trustee ănaɣlaf inaɣlafăn
+righteous / honest ămaɣdal imaɣdalăn
+righteous / honest ămeɣăd imeɣădăn
+honourable / noble emăssărhe imǝssărha
+honourable / noble amăssărhe imǝssǝrha
+witness taǵuhe tiǵuhawen
+witness tǝgǝyya tigǝyyawen
+dependent / poor talăqqe tilăqqewen
+dependent / poor talǝqqe tilǝqqawen
+eminent / powerful tămara timariwen
+rich terše taršiwen
+crafty / cunning termit termiten
+crafty / cunning termit termiten
+animal ămudăr imudărăn
+animal amudăr imudărăn
+herds / flocks arǝzzeǵ irǝzzeǵăn
+herds / flocks arǝzzeg irǝzzegăn
+wealth / flocks ehăre ihărawăn
+wealth / flocks ehăre ihǝrwan
+flock / fold asǵǝn isǵan
+flock / fold asǝgǝn isǝgan 
+whole male ămalǝy imulay
+castrated male ăǵorh iǵorhawăn
+castrated male ăgur igurawăn 
+castrated male igărrăn
+camel amnǝs imnas
+camel taḷǝmt taḷmen
+camel taḷǝmt toḷmen
+new-born camel awăra iwăran
+new-born camel tawărayt tiwărayen
+new-born camel tawărăyt tiwărăyen
+to 1 year alăgoḍ ilogaḍăn
+to 1 year alăgoḍ ilǝgaḍ
+1-2 years ămugăy imugăyăn
+1-2 years amugăy imugăyăn
+2-3 years akărkor ikǝrkar
+2-3 years akǝrkur ikǝrkar
+3-4 years ăsaka isakan
+young adult aɣlam iɣlamăn
+old camel arǝggan irǝgganăn
+camel tackcamel tackcamel tackcamel tack
+saddle tărik tiriken
+saddle tǝrik tiriken
+decorated saddle tamẓakk timẓagen
+cloth under saddle amăsloɣ imǝslaɣ
+thong to tie saddle tăsasǝst tisusas
+thong to tie saddle ăsasǝs isusas
+strap under belly tattolt tattolen
+metal ring tawinǝst tiwinas
+womans saddle tăxawit tixiwa
+womans saddle tǝxawit tixiwa
+hobbling rope tefărt tefren
+hobbling rope teffart tifren
+mouth rope tarihet tiriha
+mouth rope ăkala ikalan
+cow tas
+cattle / cows iwan
+cow tast šitan
+bull esu aswanăn
+bull esăw isăwwăn 
+bull ămaka imakan
+ox awdes iwdesăn
+calf ehădăl ihădălăn
+calf edăll idăllăn
+calf ăloki ilokǝyăn
+calf ebărkăw ibărkăwăn
+large bull calf ašǵăr išǵarăn
+large bull calf azgăr izǝgran
+young bull ehări ihăran
+young bull ehǝri ihăran
+heifer tăhaɣit tihaɣwen
+heifer taɣit tiɣwen
+old bull / lion ebăɣăw ibǝɣwan
+donkey ešeḍ išeḍăn
+donkey tešeṭṭ tišeḍen
+donkey ažăḍ ižăḍan
+donkey ažăḍ ǝẓẓan
+donkey tažăṭṭ tižăḍen
+donkey tažăṭṭ tǝẓẓen
+young donkey ăhulel ihulelăn
+young donkey ăẓa iẓatăn
+young donkey ăẓa iẓăwwăn
+large donkey ahănɣărrăy ihănɣărrăyăn
+large donkey anɣer anɣerăn
+horse ebăǵe ibăǵawăn
+mare tebăǵăwt tibăǵawen
+horse ebăge ibǝgwan
+mare tebăgăwt tibǝgwen
+foal ăhugg ihuggăn
+foal ăhug ihăggăn
+good horse ayǝs iyyǝsan
+good horse ăys ǝggǝsăn
+bad horse / nag efăkre ifăkrăwăn
+red horse ahăras ihărasăn
+sheep / ewe tehăle tihatten
+sheep / ewe tilăy
+ram ekrăr akrarăn
+ram ekrăr ekrarăn
+castrated male abăǵoǵ ibǝǵaǵ
+castrated male abăgog ibǝgag 
+woolly sheep akǝndǝm ikǝndǝmăn
+woolly sheep akǝndǝm ikǝndam
+lamb akrǝwat ikrǝwatăn
+lamb akǝrwat ikǝrwatăn
+young ram ebăkăr ibǝkran
+goat taɣat ulli
+goat teɣse taɣsiwen 
+goat teɣse wǝlli
+goat ăšolăɣ išulaɣ
+goat ašăɣol išɣal
+goat ăžolăɣ ižulaɣ
+goat ažăɣol ižǝɣal
+goat ăžaɣul ižǝɣal
+kid eɣăyd iɣăydăn
+young goat esăǵăy isăǵăyăn
+young goat esăgăy isăgăyăn
+young goat abăryom ibǝryam
+old goat erădeɣ irǝdɣan
+cock ekăz ikăzan
+hen tekăzit tikăzaten
+cock ekǝži ikăžan
+hen tekǝžit tikăžaten
+chick aswet aswetăn
+guinea fowl taylalt taylalen
+guinea fowl tăylalt tăylalen
+dog edi iyăḍan
+dog tedit tiyăḍen
+dog idi iḍan
+dog tidit tiḍen
+puppy aykar aykarăn
+puppy ăykar ăykarăn
+cat muss mussăten
+pig ǝlxǝnžăr ǝlxǝnžărăn
+wild animals imudărăn wi-n tăkoyt
+wild animals imudărăn wi-n ǝsuf
+fierce wild animal awăqqas iwăɣsan
+fierce wild animal awăqqas iwǝɣsan
+fierce wild animal ăxxu ăxxutăn
+fish emăn imănan
+lair tăhala tihaliwen
+hyena tăšori tišorǝyawǝnen
+hyena tǝžori tižorǝyawen
+gazelle edăm idăman
+gazelle edǝmi idăman
+young gazelle ăbugara ibugaratăn
+fawn ašǝnkăḍ išǝnkaḍ
+fawn ažǝnkǝḍ ižǝnkaḍ
+monitor lizard ăbaǵǝn ibuǵan
+monitor lizard ăbagǝn ibugan
+boar / wild pig agăngăra igăngăratăn
+boar / wild pig aẓebăra iẓebăratăn
+monkey kăya kăyatăn
+jackal ebǝggi ibăggan
+jackal in-tănɣen ǝdd-in-tănɣen
+wild cat taɣda taɣdiwen
+small wild beast bărwăqqas bărwăqqasăn
+tortoise efărɣăs ifărɣăsăn
+aardvark adhǝǵ idhǝǵan
+aardvark adhǝg idhǝgan
+aardvark adbǝg idbǝgan
+grey fox / fennec ešăgăš išăgăšăn
+grey fox / fennec ezăgăz izăgăzăn
+goblin in-tăbrăybărăy
+lion ăhăr ehran
+lion ăhăr ihărrăn
+lion cub ăleḍas ileḍasăn
+lion cub ǝliḍas iliḍasăn
+elephant elu elwan
+giraffe amdăɣ imdăɣan
+giraffe amdǝɣ imdăɣan
+hippotrague ašămol išmal
+hippotrague ažămol ižmal
+dama gazelle enher inherăn
+dama gazelle ener inerăn
+fawn alămom ilmam
+fawn alămom ilǝmam
+antelope edăr idăran
+antelope edǝri idăran
+oryx ešămm išămmăn
+oryx ezăm izămmăn
+crocodile ăɣata iɣatan
+hippopotamus ăǵamba iǵamban
+hippopotamus ăgamba igamban
+striped hyena ăridal iridalăn
+striped hyena aridal iridalăn
+wild dog / wolf taɣǝssit teɣǝss
+wild dog / wolf taɣǝst tiɣǝss
+cheetah ahdal ihdalăn
+cheetah adal adalăn
+leopard / panther wašil wašilăn
+serval mayas mayasăn
+serval ămayas imayasăn
+white mouse temăllelut timǝllula
+mouse ăkor ikarrăn
+mouse ǝkoṭăy ikoṭăyăn
+rat ăkundăr ikundărăn 
+squirrel ăkolăn ikolănăn
+hedgehog tekănessit tikǝnessa
+hedgehog tekǝneššit tikǝneššiten
+porcupine temăɣăyt timăɣăyen
+hare / rabbit temărwălt timărwălen
+zorilla fǝkǝdǝrru fǝkǝdǝrrutăn
+bat afărtătta ifărtăttan
+gerbil eḍǝwi iḍăwan
+snake taššalt taššalen
+snake taššălt taššalen
+snake taššelt taššelen
+snake taššolt taššelen
+python tanăɣwăt tanăɣwăten
+cobra emăǵăl imăǵălăn
+cobra emăgăl imăgălăn
+snake aɣan n-ăkal
+snake aɣan n-ămăḍal
+toad eǵăr iǵăran
+toad egǝru igăran
+tadpole ašnăɣ išnăɣăn
+tadpole aznǝɣ iznǝɣăn
+tadpole ešănăɣnăɣ išănăɣnăɣăn
+tadpole ezănăɣnăɣ izănăɣnăɣăn
+lizard emăǵăydăr imăǵăydărăn
+lizard abǝgǝngǝnu ibǝgǝngǝnăn
+slender striped lizard temăkălkălt timăkălkălen
+gecko emătăɣtăɣ imătăɣtăɣăn
+chameleon tăhawt tihawen
+chameleon tawǝt tawǝten
+crawlies iškukareḍăn
+crawlies mǝlulăn
+bird egăḍeḍ igḍaḍ
+bird agǝḍiḍ igǝḍaḍ
+senegal fire finch takăbort tikbar
+senegal fire finch takăbort tikǝbar
+millet-eater tošǝmba tošǝmbaten
+millet-eater tuzǝnba tuzǝnbaten 
+pigeon tedăbert tidǝbren
+white dove tedăbert măllăt tidǝbren măllôlnen
+ostrich anăhil inhal
+ostrich anil inyal
+pied-crow ăẓayǝǵ eẓuyaǵ
+pied-crow aɣrut iɣrutăn
+egret ebelbel ibelbelăn
+bustard ăgayǝs iguyas
+bustard takrewt takrewen
+owl bǝwwen bǝwwenăn
+owl agăžol igžal
+owl agăžol igǝžal
+duck / egyptian goose takǝnšamǝnt tikǝnšuman
+duck / egyptian goose takǝnžamǝmt tikǝnžumam
+pot bellied duck ekăk ikăkan
+large billed duck tinn-ăkumkum
+large billed duck tinn-ǝkǝmkum
+black kite ălollam ilollămăn
+black kite ǵăbu ǵăbutăn
+vulture / eagle eǵădăr iǵǝdran
+vulture / eagle egădăr igǝdran
+small white vulture tăɣălge tiɣălgiwen
+small white vulture tăɣalge tiɣalgiwen
+white stork aɣăllănǵom iɣǝllănǵam
+white stork aɣăllăngom iɣǝllǝngam
+sacred ibis in-tătăwt ǝdd-in-tătăwt
+pelican taɣălbămbo tiɣălbămbotăn
+crane tenekk tineǵen
+crane tenek tinegen
+hornbill ămukăs imukăsăn
+nest asăkok iskak
+nest asăkok isǝkak
+fly ešš eššan
+fly iži ižan
+mosquito tădast
+scorpion teẓerdǝmt teẓordam
+scorpion tăẓardǝmt tiẓǝrdam
+spider sawras sawrasăn
+spider saras sarasăn 
+hunting spider eɣerdǝm iɣerdǝmăn
+hunting spider ǝɣardǝm iɣǝrdam
+locust / grasshopper ămaggad imaggadăn
+locust / grasshopper ažwal ižwalăn
+worm / grub / caterpillar tawǝkke tiwǝkkawen
+ants anǝlluǵ inǝlǵan
+ants anǝllug inǝlgan
+ants tayǝṭṭuft tayṭǝfen
+ants kǝdǝdǝkkum
+termites temedhe
+termites tămade
+lice tillik tilken
+lice tillek tilken
+mite / weevil tukmat tukmaten
+tick tǝsǝlluft tisǝlfen
+borer kǝsis kǝsisăn
+borer kǝšiš kǝšišăn
+dung beetle ăɣšinšăr eɣšinšărăn
+dung beetle ažǝnžǝr ižǝnžǝrăn
+black beetle takinkărt tikinkăren
+black beetle tekănkărt tikănkăren
+snail azărɣǝdu izărɣǝdutăn
+snail ažǝrɣǝdu ižǝrɣǝdutăn
+butterfly / moth ǝw-ǝssuk kǝl-ǝssuk
+bee / hornet ezămbăw izămbăwăn
+cricket / cicada waẓiẓ waẓiẓăn
+wasp taggǝmt taggǝmen
+dragonfly tašišwa tišišwaten
+dragonfly / wasp tažǝžwa tižǝžwaten
+body taɣǝssa tiɣǝswen
+body taɣǝssa tiɣǝswen
+body tafǝkka tifǝkwen
+body tafǝkka tifǝkkawen
+bone eɣăs iɣăsan
+long bone aduf idufăn 
+small bone taduft tidufen
+muscle / member taslăṭṭ tisǝllaḍ
+muscle / member taslǝṭ tisǝllaḍ
+muscle tamǝnkeṭṭ timǝnkaḍ
+muscle tamǝnkiṭ timǝnkaḍ
+joint ǝzǝmmaz izǝmmuz
+joint ǝžǝmmaž ižǝmmǝž
+nerve / vein / tendon aẓar aẓarăn
+nerve / vein / tendon aẓar iẓǝrwan
+head eɣăf iɣăfawăn
+face idǝm idmawăn
+hair emẓăd amẓadăn
+hair amžaḍ amžaḍăn
+hair emžăḍ emžăḍăn
+hair ašǝkkoḍ išǝkkaḍ
+hair ažǝkkoḍ ižǝkkaḍ
+long hair ăšǝyyuf išuyyaf
+long hair tažif tižifawen
+eye teṭṭ teṭṭawen
+eye šăṭṭ šeṭṭawen
+eyebrow enhăr anharăn
+eyebrow anar anarăn
+eyelid ăbilhăṭṭ ibilhăḍăn
+eyelid ăbelăḍ ibelăḍăn
+eyelash elew ilewăn
+eyelash alaw alawăn
+eyelash ălag ilăggăn
+ear tamăẓẓukk timăẓẓugen
+ear tamǝẓẓuk timǝẓẓugen
+nose tenšărt tinšar
+nose tenžărt tinžar
+nose anǵor anǵorăn
+nose angor angorăn
+mouth em imawăn
+mouth imi imawăn
+tooth esen isenăn
+tooth ešen išenăn
+tongue ilǝs ilsawăn
+lip aḍăloy iḍlay
+lip aḍăloy iḍǝlay
+gums tihăyniwen
+gums tăynawen 
+neck er erawăn
+neck iri irawăn
+throat aǵorš iǵoršawăn
+throat agurzăy igurzăyăn
+adams apple tăkorsăyt tikorsăyen
+cheek tăgomăst tigomăsen
+cheek tazɣa tazɣiwen
+cheek ăgeẓ igaẓẓăn
+cheek ǝgiẓ igăẓẓăn
+beard / chin tămart timarren
+beard / chin tămart timărren
+sideburns / side of face akărar ikărarăn
+forehead tekănnărt tikănnăren
+forehead tumme tummawen
+skull takărkort tikǝrkar
+skull takărkort tikărkoren
+skull takǝyya tikǝyyawen
+brain / bone marrow akǝlkǝl ikǝlkǝlăn
+nape of neck egărăḍ igărḍan
+nape of neck egărăḍ igărăḍăn
+palate anɣa anɣatăn
+chest admăr idmarăn
+chest iǵǝrǵar
+sternum tadmărt tidmaren
+shoulder ăẓerh eẓerhan
+shoulder ăẓir iẓerăn
+shoulder-blade tagǝrgist tigǝrgas
+back ărori irorǝyawǝnăn
+back ăruru iroran
+breast / nipple efăf ifăfan
+breast / udder teẓe taẓiwen
+rib eɣărdes iɣărdăššăn
+rib eɣărdes iɣǝrdǝššăn
+side tasăǵa tisǝǵwen
+side tasăga tisǝgwen
+thorax tarăǵa tirǝǵwen
+thorax tarăga tirǝgwen 
+arm / hand ăfus ifăssăn
+arm / hand ǝfus ifăssăn
+finger assǝkăḍ issǝkaḍ
+finger aḍaḍ iḍǝḍwan
+thumb egmăš agmašăn
+thumb egmăz igǝmzan
+nail eskăr askarăn
+nail eškăr iškarăn
+palm tedekǝlt tidukal
+wrist taǵǝltǝmt tiǵultam
+wrist tagǝltǝmt tigultam
+wrist tasănḍărt tisănḍăren
+wrist tasǝnḍǝrt tisǝnḍar
+elbow / corner taɣmărt tiɣǝmmar
+elbow / corner taɣmǝrt tiɣǝmmar
+leg / foot aḍăr iḍarăn
+ankle aǵoš aǵošăn
+ankle agoz agozăn
+ankle tamẓăẓẓǝt timẓăẓẓǝten
+ankle tawǝẓǝẓẓut tiwǝẓǝẓẓuten
+knee ăfud ifaddăn
+knee ǝfud ifăddăn
+shin elăɣ elɣan
+shin elǝɣ elɣan
+thigh taɣma taɣmiwen
+sole etăfăr itǝfran
+toe tinse tinsawen
+toe tinše tinšawen
+belly tăsa tisatten
+belly tadist tidǝswen
+waist teǵăše tiǵǝšwen
+waist tegăze tigǝzwen
+belly-button tăbutut tibututen
+belly-button tabutut tibututen
+hip aɣǝbber iɣǝbberăn
+pelvis tătoɣăst titoɣăsen
+pelvis tǝtoɣăst titoɣăsen 
+buttock tabǝlloṭṭ tibǝlloḍen
+buttock tǝzuk tizuken
+lumber region isǝǵbas
+lumber region isǝgbas
+stomach muscles ălatum ilutam
+penis ăbada ibadan
+penis arǵal arǵalăn
+penis argal irgalăn
+penis ašamboḍ išǝmbaḍ
+penis ažambuḍ ižǝmbaḍ
+penis tadǝmbut tidǝmba
+penis ăẓiw ăẓiwăn
+foreskin aǵămbor iǵǝmbar
+foreskin agămbur igǝmbar
+testicles tasădalt tisădalen
+vagina tasăssarut tisǝssiraw
+vagina akǝḍil ikăḍlan
+vagina ăwahi iwahităn
+pubic hair ăšinšăḍ išinšăḍăn
+pubic hair ažǝnžǝḍ ižǝnžaḍ
+anus teẓẓ teẓẓawen
+heart ulh ulhawăn
+heart ǝwǝl iwăllăn
+liver awsa awsatăn
+liver tăsa tisătten
+kidney tagẓǝlt tigǝẓẓal
+stomach tarfa tarfiwen
+stomach abărkot
+intestine adan adanăn
+lung tarut taruten
+bladder tasăyast tisăyasen
+viscera isǝkwa
+womb / loins iǵǝllan
+womb / loins igǝlla 
+umbilical cord temeṭṭ
+placenta timeḍen
+tail ašiwa išiwatăn
+tail telănkăwt tilănkăwen
+horn isǝk iskawăn
+hump tašămamt tišămamen
+hump tuhe tuhawen
+hoof / claw askar askarăn
+hoof / claw eškăr aškarăn
+wing afrew afrewăn
+wing afrut ifrutăn
+wing tǝfakfak tifakfaken
+feather tăsaggat tisaggaden
+hair iššar
+hair izǝzar
+foreleg tahit tihiw
+mane ăẓagg eẓaggăn
+mane ăẓag iẓăggăn
+carrion tamăɣsoyt timăɣsa
+carrion tamăɣsoyt timǝɣsa
+breath unfas unfasăn
+breath tunfast tunfasen
+blood ašni išnităn
+blood azni iznităn
+sweat tide tidawen
+sweat tarraft tarrafen
+tears ameṭṭ imeṭṭawăn
+tears amǝṭṭ imǝṭṭawăn
+urine ăwas iwăssăn
+faeces asbǝkki isbǝkkităn
+faeces ašbǝkki išbǝkkităn
+infantile expression kăkka
+human / carnivore eḍer iḍerăn
+breaking wind taxădast tixădasen
+sneeze tusrek tusreken
+sneeze tušrek tušreken 
+belch tuǵrekk tuǵreken
+belch tugrek tugreken
+spittle / spit tisutaf
+saliva / flavour emătăm imǝtman
+hiccups ahănăqqa ihǝnăqqa
+hiccups tahnăqqet tihnăqqa
+hiccups tahǝnǝqqet tihǝnǝqqa
+nosebleed ahunšăr ihǝnšorăn
+nosebleed enžăr enžărăn
+nasal mucus inšerăn
+bile / gall bladder ăgg-eẓe
+bile eẓăy iẓăyyăn
+phlegm tašănɣešt tišănɣaš
+phlegm tazǝnɣezt tizǝnɣaz
+pus arǝssoḍ
+pus arǝssuḍ
+dung asbǝkki ǝn
+dung ašǝbǝkki ǝn
+cow dung temărɣit timărɣ
+cow dung tafǝrkit tifǝrkităn
+pellets aɣǝrraǵ eɣǝrraǵăn
+pellets aɣǝrrag iɣǝrragăn
+horse / donkey dung amǝzzor imǝzzorăn
+horse / donkey dung amǝzzur imǝzzurăn
+cud aǵǝl iǵlităn
+cud agli iglităn
+contents of ruminants esăk eskawăn
+stomach
+venom erăhăynăn irăhăynănăn
+venom erăynăn irăynănăn
+illness torhǝnna torhǝnnawen
+illness tărint tirinen
+fever tenăde tinǝdd
+headache tewăte n-ăɣăf tiwit n-ăɣăf
+cough tăsut tăsuten
+cough tǝsut tǝsuten 
+pain tăkmo tăkmoten
+pain tǝkma tǝkmaten
+pain tisnant tisnanen
+severe pain teẓẓort teẓẓoren
+severe pain tǝẓẓurt tǝẓẓuren
+injury / wound abuyǝs ibuyǝsăn
+injury / wound ahăyoǵ ihăyoǵăn
+injury / wound ahăyog ihăyogăn
+open sore / wound teqqest teqqas
+open sore / wound tiqqest tiqqas
+boil ătaqqa itaqqan
+hot area atunǵăr itunǵărăn
+hot area atăngăr ităngărăn
+feeling unwell aẓif eẓǝffawăn
+health ălxer
+health ăssexăt
+health bani
+medicine / treatment asăfar isǝfran
+medicine / treatment amăgal imǝglan
+tablet tablalt tiblalen
+tablet tamăɣwant timăɣwanen
+doctor / nurse / clinic lăxtor lăxtortăn
+doctor / nurse / clinic lăqtor lăqtortăn
+doctor / nurse / clinic lăktor lăktortăn
+healer enăssăfăr inăssăfărăn
+healer enăsmăgăl inăsmăgălăn
+vaccination tagǝyyešt tigǝyyaš
+vaccination tagǝyyezt tigǝyyaz
+vaccination tedeǵe tidiǵ
+vaccination tedege tidig
+malaria tenăde ta-n ăkăsa
+jaundice tăhafnent tihăfnenen
+jaundice tazǝfnent tizǝfnenen
+diarrhoea tăsa
+diarrhoea tadist
+diarrhoea tufit
+dysentery tanănnăɣat tinănnăɣaten
+common cold ămaẓla imaẓlan
+common cold aǵăbarru
+guinea worm atlǝb itǝlban
+measles lumǝt isibăn
+measles lumǝt išibăn
+syphilis amăšar imăšarăn
+syphilis amăžar imăžarăn
+syphilitic skin lesions anǝɣu inǝɣa
+leprosy ǵǝri
+leprosy gǝri
+leprosy anǝɣu wan ǝkǝrǝmmi
+leprosy ămaɣras
+discomfort ǝmmoɣrǝs
+whooping cough săqqărnan
+intestinal worms imǝǵlan
+intestinal worms aššelăn
+arthritis tanǝsmoṭṭ
+arthritis tanǝsmuṭ
+tight chesty cough afugg
+tight chesty cough afǝggi
+tuberculosis sǝnbubăn
+rabies wănšăt
+aids sida
+aids tenăde tan ăbiǵa
+restricted breathing temăslăq
+conjunctivitis ahǝnnǝǵ
+conjunctivitis awǝnnǝg
+blindness tăddărɣălt
+total deafness tǝmmăẓẓǝkk
+total deafness tǝmmǝẓẓǝk
+partial deafness tăbbăšăwt 
+food / eating tetăte titǝtt
+food / eating teṭṭe titǝtt
+food / a meal amǝnsi imǝnsiwăn
+food / a meal ămense imensewăn
+provisions ăsador isudar
+provisions ăzzad ăzzadăn
+provisions ăzza ăzzatăn
+food for guests amăǵaru imǵura
+food for guests amăgaru imǝgura
+water aman
+left-overs aǵlǝš iǵǝlšan
+left-overs aglǝz igǝlzan
+odour of food teɣne taɣniwen
+odour of cooked meat ăɣas
+fruit ara n-ašǝk aratăn n-eškan
+cereals ăttăɣam ăttăɣamăn
+millet enăle inălawăn
+millet enăle inăletăn
+sorghum ăbora iboran
+rice tafăɣăt tafăɣăten
+wild fonio isibăn
+wild fonio išibăn
+wild fonio asɣal isɣalăn
+maize kămănări
+millet bran tălumt tilommen 
+millet bran tǝlumt tilămmen
+husk / coarse bran abǝtt ibǝttăn
+flour / powder eǵel iǵelăn
+flour / powder egel igelăn
+wheat flour eǵel n-ălkăma
+wheat flour egel n-ălkăma
+porridge ăsink isinkawăn
+porridge ǝšink išinkawăn
+sauce for ăsink aḍrăẓ iḍărẓan
+sauce for ǝšink aḍrǝẓ iḍǝrẓan
+town sauce hoy hoyatăn
+milk axx exxawăn
+milk ax ixxawăn
+curdled milk ǝssǝlay ǝssǝlayăn
+butter udi udǝyawăn
+butter widi widităn
+millet drink tǝdda tǝddaten
+gruel ăliwa iliwatăn
+gruel bitta bittaten
+meat isan
+beans tanzant tanzanen
+salt tesǝmt tesmen
+salt tesǝmt tesǝmen
+tea ătay ătayăn
+leaves ăla ilattăn
+leaves ăla ilăttăn
+sugar ăssukăr ăssukărăn
+sugar ǝssukǝr ǝssukǝrăn
+lump esămb isămban
+peanuts ǵiriǵe
+dates tehăyne tihăyniwen
+dates tăyne tăynawen
+onion ălbǝṣǝl ălbǝṣǝlăn
+onion ǝlbǝṣǝl ǝlbǝṣǝlăn
+dried onion leaves taɣfărt taɣfăren
+dried onion leaves teɣfǝrt tiɣfǝren
+leaves talăfast tilăfasen
+baobab leaves tăkudust tikudusen 
+egg tasădalt tisădalen
+egg takǝkit tikǝkiten
+mint anăɣnăɣ anăɣnăɣităn
+mint anăɣnăɣ anăɣnăɣăn
+honey torawăt torawăten
+honey turawăt turawăten
+cheese takămmart tikămmaren
+cheese tǝkommart tikommaren
+grilled grains amăyaɣ imăyaɣăn
+boiled grains tǝwǝs
+boiled grains tewest tiwesen
+donuts / cakes masa masatăn
+pounded meat moxfe moxfetăn
+pounded meat măxfe măxfetăn
+cream afrar ifrarăn
+colostrum edăɣăs idăɣsan
+colostrum edăɣăs idǝɣsan
+set butter tasǝndut tisǝnda
+wild date ăboraɣ iboraɣăn
+jujube abăka ibăkatăn
+wild melon telăgăṣt tilăgăẓen
+wild melon alǝkăḍ ilǝkăḍăn
+tigernut sedge ašer ašerăn
+tigernut sedge ažir ažirăn
+gum / resin tanust tinusen
+gum / resin tanust tinusen
+cake of jujube flour ăhoffăr ihofran
+cake of jujube flour uffǝr ofran
+beer dăro dărotăn
+alcohol asmǝd asmǝdăn
+alcohol asmăd asmădăn
+bread buru burutăn
+bread taǵǝlla tiǵǝlwen
+bread tagǝlla tigǝlwen
+grease / fat tadhont 
+grease / fat tadǝnt 
+sweet potato rogo rogotăn
+potato bombǝter bombǝtertăn
+tomato tămati tămatităn
+okra laǵi laǵităn
+okra laži lažităn
+spice / chilli izǝkǝmba izǝkǝmbatăn
+spice / chilli ižǝkǝmba ižǝkǝmbatăn
+kola nut goro gorotăn
+citrus fruit limon limontăn
+mango măngoro măngorotăn
+cooking oil dilwil
+coffee kăfe
+english tea libton
+pestle ešăɣăn išăɣnan
+pestle ezăɣăn izǝɣnan
+mortar tende tandiwen
+bowl ăkos ikassăn
+wooden bowl aɣǝzu iɣǝzwan
+wooden bowl taɣǝžut tiɣǝžwen
+large bowl aẓăwa iẓăwatăn
+gourd alkas alkasăn
+small gourd talkast talkasen
+gourd ăgašu iguša
+small gourd tăgašut tiguša
+milking bowl akăbar ikǝbran
+spoon tăsokalt tisokalen
+spoon tăšokalt tišokalen
+tea things ilalăn n-ătay
+teapot ălbărrad ălbărradatăn
+teapot ǝlbǝrrad ǝlbǝrradatăn
+tea glass alkăs alkăsăn
+brazier ălforna ălfornatăn
+basket takăbot tikăboten 
+basket takăbot tikǝba
+measuring tin kǝnkuru kǝnkurutăn
+measuring tin askǝt iskat
+measuring tin asǝkǝt isǝkat
+tin / box takbat tikbaten
+plate / bowl teɣert tiɣeren
+large bowl eɣer iɣerăn
+cooking pot ăṣṣabra ăṣṣabratăn
+small cooking pot abǝlbǝl ibǝlbǝlăn
+cooking pot alǝkin ilǝkan
+stirring stick asǝrwǝy isǝrway
+cup / ladle / scoop ăsilkăw isilkăwăn
+cup / ladle / scoop ăšilkăw išilkăwăn
+straw plate tesăyt tisăyyen
+straw plate lefe lefetăn
+lid ashăr ishar
+lid asǝhǝr isǝhar
+sieve tămăy tămăyen
+knife absăr ibsărăn
+knife absǝr ibsǝrăn
+clay pot alǝkkin ilǝkkan
+clay pot tayǝnt tiyǝnen
+clay pot etǝkin itkan
+water skin ešker iškerăn
+water skin ekšer ikšerăn
+old water skin agădod igdad
+old water skin agădod igǝdad
+skin abăyoɣ ibyaɣ
+skin abăyoɣ ibǝyaɣ
+skin anwar inwarăn
+stopper ehăllăm ihăllămăn
+well bucket / scoop ăǵa iǵattăn
+well bucket / scoop ăga igăggăn
+bucket bokǝti bokǝtităn
+bag abălboḍ ibǝlbaḍ
+leather bag aɣrǝǵ eɣărǵan
+leather bag aɣrǝg iɣǝrgan 
+sack šaku šakutăn
+bag / satchel šăkkoš šăkkoštăn
+bag of rennet tăẓẓa tăẓẓawen
+funnel asǝggǝfi isǝggǝfităn
+basket deka dekatăn
+basket tedekat tidekaten
+glass bottle butǝl butǝlatăn
+glass bottle lulu lulutăn
+box / bottle / jar ahǝttin ihǝttan
+box / bottle / jar attin ittan
+large metal bowl aɣlal iɣlalăn
+forge ahănsăwa ihănsăwatăn
+tools ilalăn win ăhansăwa
+knife absăr ibsărăn
+knife absǝr ibsǝrăn
+axe tutăla tutălawen
+axe taḍǝft tiḍǝff
+adze takădimt tikdam
+adze takǝdimt tikǝdam
+hammer afăḍis ifḍas
+hammer afǝḍis ifǝḍas
+punch asfăḍ isfaḍ
+punch asǝfǝḍ isǝfaḍ
+punch asbăḍ isbaḍ
+punch asǝbǝḍ isǝbaḍ
+cold chisel tasăɣrǝst tisăɣras
+cold chisel tasǝɣrǝst tisǝɣras
+scoring knife tasărkǝnt tisărkan
+scoring knife tasǝrkǝnt tisǝrkan
+pliers / tongs / tweezers iɣǝmdan
+file ăzăzzăwa izăzzăwan
+awl / big needle tistant tistanen
+awl / big needle tǝstant tǝstanen 
+awl endăl endălăn
+bellows tisăhaḍ
+bellows tisǝhaḍ
+scriber ălbărrima ălbărrimatăn
+anvil tăhunt tihun
+anvil tǝhunt tihun
+tool box tagărawt tigărawen
+tool box tagărăwt tigărăwen
+dye šărki šărkităn
+body of guitar eǵăbeš iǵǝbšan
+violin emẓăd amẓadăn
+violin emžaḍ imžaḍăn
+flute taɣănibt teɣnab
+flute tǝɣanibt tiɣunab
+flute tăsinsăqq tisinsăɣen
+flute tasǝnsǝq tisǝnsaɣ
+drum tende tandiwen
+gourd upturned in water tăgašut tiguša
+drum of command ǝṭṭǝbil ǝṭṭǝbilăn
+drumstick atăkor itkar
+drumstick atăkor itǝkar
+bugle / trumpet ălgăyt ălgăytatăn
+rattle tebărăɣrăqq tibărăɣrăɣen
+fulani bed hărgawa hărgawatăn
+slats ăsaltǝf isultaf
+slats ǝsaltǝf isǝltaf
+tent pole emăɣt imăɣtan
+tent pole asǝdǝs isǝdas 
+tent peg tasǝttǝytǝyt tisǝttuytay
+tent peg tasǝttǝytǝyt tisǝttǝytay
+handle / haft ăsaḍǝf isuḍaf
+conical cage atɣam itɣamăn
+walking stick asăhhǝtǝl isăhhǝtal
+walking stick asǝhhǝtǝl isǝhhǝtal
+stand tasǝskărt tisǝskăren
+stand tasǝskǝrt tisǝskar
+frame iɣăsăn
+fork tămankayt timankayen
+fork / pillar taǵǝttewt tiǵǝttewen
+fork / pillar tagǝttăwt tigǝttăwen
+support asǝkbǝl isǝkbal
+thick supporting arc takăkkăwat tikăkkăwaten
+thick supporting arc taqăqqăwat tiqăqqăwaten
+thin supporting arc alăllăwa ilăllăwan
+cross woods aǵǝtt iǵǝttan
+cross woods arăgăyrăgay irăgăyrăgayen
+bed tešeǵit tišiǵa
+bed tešegit tišiga
+fork tasăkăysăkayt tisăkăysăkayen
+fork tasăkăysăkăyt tisăkăysăkăyen
+fork tašăbăqqat tišăbăqqaten
+support pole tawăydărat tiwăydăraten
+support pole tatǝngurt titǝnguren
+cross poles aǵǝtt iǵǝttan
+cross poles allaɣ allaɣăn
+bed mat ăssărer ăssărerăn
+bed mat ǝṣṣǝrir ǝṣṣǝrirăn
+pillow support ehel ihelăn
+weapon tăẓoli tiẓolǝyawǝnen 
+weapon tǝẓoli tiẓolǝyawen
+stick / staff tăborit tiboriyen
+stick / staff tǝburǝk tiburǝgen
+sword tăkoba tikobawen
+spear aǵor aǵorăn
+spear allaɣ allaɣăn
+javelin / spear akăsam ikăsamăn
+dagger telăqq telɣen
+dagger telǝq telɣen
+bow taɣăya tiɣǝywen
+bow tăganze tiganziwen
+arrow ăssăm ăssămăn
+arrow ămor imărrăn
+hoe / head of hoe ălollam ilollamăn
+head tekănnărt tikănnăren
+hoe tămaya timaywen 
+hoe tămaya timayawen
+hoe kălmi kălmităn
+metal bit aɣăba iɣăbatăn
+nail / spring / bar ănattar inattarăn
+rope aɣan iɣunan
+guy rope tasdǝst tisdas
+tying strips takoft takofen
+tying strips ekăkkăb ikăkkăbăn
+millet stalk wall taɣărhit tiɣărhaten
+millet stalk wall taɣǝrt tiɣǝren
+windbreak mat tăsutit tisutay
+windbreak mat esăbăr isǝbran
+mat teselat tiselaten
+mat tăsalat tisalaten
+mat ǵămbewa ǵămbewatăn
+bed mat ăṣṣărer ăṣṣărerăn 
+bed mat ǝṣṣǝrir ǝṣṣǝrirăn
+hanging decorative mat esăwsăw isăwsăwăn
+hanging basket tăwana tiwaniwen
+panniers asǝstǝǵ isǝstaǵ
+panniers asǝstǝg isǝstag
+straw hut ekărbăn ikărbănăn
+grain store / hut bǝgu bǝgutăn
+grain store eǵănd iǵăndan
+grain store agărid igrad
+temporary shelter ahănnăka ihănnăkatăn
+cushion adăfor idfar
+cushion adăfor idǝfar
+cushion asăssamu isǝssuma
+strips arăwa irăwatăn
+sack tamšit timšiten
+sack tezămmit tizămmaten
+bag / sack aɣrǝǵ eɣărǵan
+bag / sack aɣrǝg iɣǝrgan
+bag / sack tăbawǝnt tibiwan
+camel bag ăzayya izayyan
+saddle elăkef ilǝkfan
+thong / sandal strap assǝl issal
+thong / sandal strap asǝsǝl isǝsal
+scabbard titar
+tent ehăket ihǝktan
+tent ehǝkkum ihǝkkam
+pen aɣănib eɣnab
+pen ǝɣanib iɣunab
+paper ălkaḍ ălkaḍăn
+letter / certificate tăkarḍe tikarḍiwen
+writing tablet asǝllum isǝllumăn
+book ǝlkǝttab ǝlkǝttabăn 
+mirror / pane / spectacles tiset tiseten
+mirror / pane / spectacles tišet tišeten
+soap ăṣṣabu ăṣṣabutăn
+kettle aɣălăla iɣălălatăn
+razor ălmosi ălmosităn
+razor ălmoši ălmošităn
+lamp tefătelt tiftǝl
+lamp tefătelt tifǝtlen
+trunk ǝssǝndoq ǝssǝndoqăn
+trunk ǝssǝnduq ǝssǝnduqăn
+trunk ăddăka ăddăkatăn
+brush asǝfrăḍ isǝfraḍ
+brush asǝfrǝḍ isǝfraḍ
+brush egesăn igusan
+well bucket / scoop ăǵa iǵattăn
+well bucket / scoop ăga igăggăn
+chair / bench / stool tasăqqaymut tisăqquyma
+chair / bench / stool tasǝqqimit tisǝqqima
+mosquito net ălɣăbb ălɣăbbatăn
+mosquito net ălkilla ălkillatăn
+bed roll asǝftăɣ isǝftaɣ
+bed roll asǝftǝɣ isǝftaɣ
+blanket abroɣ ibroɣăn
+blanket ălxǝmbǝl ălxǝmbǝlăn
+trap tănḍărbat tănḍărbaten
+trap tǝnḍǝrbat tǝnḍǝrbaten
+gun ălbaroḍ ălbaroḍăn
+gun ălbaruḍ ălbaruḍăn
+gun mălfa mălfatăn
+bullet tasăwat tisăwaten
+handcuffs / shackles tišǝm
+handcuffs / shackles tižǝm
+padlock / lock tasăɣfǝlt tisăɣfal
+padlock / lock tasǝɣfǝlt tisǝɣfal
+key asǝyar isǝyor
+umbrella / banner tulǝft tulǝfen
+umbrella / banner tilǝft tilǝfen
+door / lid ashăr ishar
+door / lid asǝhǝr isǝhar
+straw lid / cassette lefe lefetăn 
+battery tăhunt tihun
+battery tăhunt tihun
+town aɣrǝm eɣărman
+town aɣrǝm iɣǝrman
+village / small town taɣrǝmt teɣărmaten
+village / small town taɣrǝmt tiɣǝrmaten
+village tadăbayt tidbǝy
+camp ămazzaɣ imazzaɣăn
+camp ǝmazzaɣ imazzaɣăn
+camp / group of homes ihănan
+home / house / room ehăn ihănan
+building taɣăšamt teɣǝšmen
+building taɣăžamt tiɣǝžmen
+roof tasfǝlt tisfal
+roof tasǝfǝlt tisǝfal
+courtyard / wall ăɣalla iɣallan
+straw house ekărbăn ikărbănăn
+mud house bămboru bămborutăn
+straw house bǝgu bǝgutăn
+grain store bǝgu bǝgutăn
+grain store eǵănd iǵăndan
+grain store agǝrid igrad
+tower soro sorotăn
+tower suru surutăn
+market hebu hebutăn
+market lumu lumutăn
+market / price ǝssuk ǝssukăn
+market ewet iwetăn
+fence / enclosure afăraǵ ifărǵan
+fence / enclosure afărag ifǝrgan
+barrier eff effatăn
+barrier ifi ifawăn
+lean-to tanda tandaten
+lean-to tăfala tifaliwen
+pit latrine sălănga sălăngatăn
+swept area tǝfărre tǝfărrawen
+swept area tǝfǝrre tǝfǝrrawen 
+road / path taberăt taberăten
+road / path zăbo zăbotăn
+street / road tišarrit tišarriten
+beaten track ăšaɣǝš išuɣaš
+beaten track ǝzaɣǝz izuɣaz
+bridge / ford kădărka kădărkatăn
+ford tǝyyawǝnt tǝyyawǝnen
+ford tasǝmbǝkk tisǝmbaǵ
+ford tasǝmbǝk tisǝmbag
+well / hole anu enwan
+mount / vehicle tasnit tisnay
+mount / vehicle tasǝnit tisǝnay
+car / lorry torǝft torfen
+car / lorry turǝft torfen
+moped / motorbike bătbăt bătbăten
+bicycle keke keketăn
+aeroplane ăṭṭǝyyara ăṭṭǝyyaratăn
+aeroplane torǝft tan šǝnnawăn
+aeroplane turǝft tan žǝnnawăn
+boat torǝft tan aman
+boat turǝft tan aman
+pirogue ekărănbăw ikărănbăwăn
+pirogue eǵăbeš iǵǝbšan
+cemetery / grave tafăṣkot tifǝṣka
+cemetery / grave taṣăṣkot tiṣǝṣka
+grave / tomb aẓǝkka iẓǝkwan
+abandoned camp amăšer imšar
+abandoned camp amǝžir imižar
+battlefield abătol-n-ăfud ibtal-n-ăfud
+battlefield abătol-n-ăfud ibǝtal-n-ăfud
+football pitch eɣărɣăr wan băl
+runway / airfield eɣărɣăr wan ăṭṭǝyyara
+material / cloth tabdoq tibǝddaɣ
+cloth / clothing ekăršăy ikăršăyăn
+clothing emăls imălsan
+clothing temălsit timălsaten
+clothing telăsse tilǝss
+boubou erăswăy irăswăyăn 
+boubou tekăṭkăṭṭ tikăṭkăḍen
+boubou tebărkăṭkăṭṭ tibărkăṭkăḍen
+undershirt / vest forgǝya forgǝyatăn
+shirt ălǵǝbba ălǵǝbbatăn
+shirt ǝlgǝbba ǝlgǝbbatăn
+shirt / blouse tăggo tăggoten
+trousers ekărbăy ikărbăyăn
+trousers kărtǝba kărtǝbatăn
+trouser cord aẓărẓǝm iẓorẓam
+trouser cord aẓǝrẓǝm iẓǝrẓam
+belt / girdle tamǝntǝka timǝntǝkawen
+wrap skirt tasǝǵbǝst tisǝǵbas
+wrap skirt tasǝgbǝst tisǝgbas
+melouf tasăɣnǝst tisăɣnas
+melouf tasǝɣnǝst tisǝɣnas
+flip flop / sandal tefădelt tifădelen
+flip flop / sandal efăkel ifǝklan
+flip flop / sandal afăkol ifǝklan
+flip flop / sandal eɣătem iɣătemăn
+turban eɣewǝd iɣiwad
+indigo material in strips alăššo ilăššan
+indigo turban eɣewǝd wa-nn ălăššo
+indigo turban tagǝlmust tigǝlmas
+headscarf / veil afărewal ifărewalăn
+headscarf / veil ekăršăy wa-nn ǝšǝkkumbǝš
+headscarf / veil ekăršăy wa-nn ǝšǝkkǝmbǝš
+headscarf / veil aswăr iswar
+headscarf / veil asǝwăr isǝwar
+small headscarf măsoro măsorotăn
+hat / helmet takǝmbut tikǝmbuten
+hat / helmet takǝbbut tikǝbbuten
+pocket ălšib ălšibawăn
+pocket ălžib ălžibăn
+bazin material ăddini ăddinităn
+bazin material ăddimi ăddimităn
+hem adăbal idăbalăn
+tear taɣărrawit tiɣărriwa
+patch tikǝst tikǝsen
+tobacco pouch asǝǵrǝs isǝǵras
+tobacco pouch asǝgrǝs isǝgras
+neck wallet enăfăd inǝfdan
+waist bag ăsatǝm isutam
+tube făɣlo făɣlotăn 
+cloth for tying thing in tasǝkmǝst tisǝkmas
+old clothes ăsakǝs isukas
+old clothes taɣǝlle
+jewellery oɣnan
+jewellery uɣǝnăn
+decoration adǝlluǵ adǝlluǵăn
+decoration adǝllug adǝllugăn
+earring eẓăb iẓăban
+earring eẓǝbi iẓăban
+ring taẓăbut teẓăbuten
+ring teẓǝbit tiẓăbaten
+bracelet ašbǝǵ išǝǵban
+bracelet azbǝg izǝbgan
+necklace tăkarḍe tikarḍiwen
+chain esăssăr isăssărăn
+coin tămma tămmaten
+red / green jewels zăkkăt zăkkătăn
+white necklace xummăysa xummăysatăn
+perfume aḍu aḍutăn
+perfume torari torariten
+perfume turari turariten
+perfume ălwărdi ălwărdităn
+henna ălhănna ălhănnatăn
+henna ănhălla ănhăllatăn
+henna ănǝlla inǝllatăn
+tree ašǝk eškan
+bush / small thorn tree absăɣ ibsăɣăn
+bush / small thorn tree absǝɣ ibsǝɣăn
+small thorn bush tabsăqq tibsăɣen
+small thorn bush tabsǝq tibsǝɣen
+thorn asǝnnan isǝnnanăn
+thorn ašǝnnan išǝnnanăn
+leaf talăfast tilăfasen
+leaf ăla ilattăn
+leaf ăla ilăttăn 
+leaf efărket ifărketăn
+root ekew ikewăn
+branch elăkăt ilǝktan
+branch elăket ilǝktan
+bud / blossom tăboyt tiboyyen
+bark tafrǝnke tifrǝnkawen
+bark tuŋŋat tuŋŋaten
+trunk / stump tadra tadriwen
+fallen trunk tilǝlt tilǝlen
+shoot / budding branch anšăr inšărăn
+shoot / budding branch enešăr inešărăn
+shoot / budding branch anzăr inzărăn
+shoot / budding branch enezăr inezărăn
+gum / resin tanust tinusen
+flesh abălkay abălkayăn
+flesh ebălke ibălketăn
+hole aɣăbob eɣbab
+hole aɣăbob iɣǝbab
+pod teɣărăggănt tiɣărăggănen
+jujube tree tabăkat tibăkaten
+jujube abăka ibăkatăn
+wild date tree tăboraqq tiboraɣen
+wild date ăboraɣ iboraɣăn
+nut tetănɣe titănɣen
+gum tree afăǵaǵ ifăǵaǵăn
+gum tree afăgag ifăgagăn
+pod amălăga imălăgan
+resin abălăɣlăɣ ibălăɣlăɣăn
+large acacia ăbalul ibulal
+gum tree tahǝǵǵart tihǝǵren
+gum tree tǝggart tigren
+pod ahǝǵǵar ihǝǵran 
+pod aggar aggarăn
+pod tarăḍa tirăḍawen
+gum tree ewărwăr iwărwărăn
+gum tree ahtǝs ahtǝsăn
+gum tree atǝs atǝsăn
+gum tree orǝf orfan
+gum tree urǝf orfan
+gum tree tămat timatten
+gum tree tămat timătten
+baobab tăkudust tikudusen
+baobab tadɣǝmt tidɣǝmen
+leaves tăkudust tikudusen
+fruit kohǝmna kohǝmnatăn
+fruit komǝnhi komǝnhităn
+neem milya milyatăn
+doum palm tašdayt tan akof
+doum palm tagăyt tigăyyen
+frond akof akofăn
+fruit ăkoka ikokan
+stone tăkokăyt tikokăyen
+date palm tašdayt tišdayen
+date palm tazdăyt tizdăyen
+date tehăyne tihăyniwen
+date tăyne tăynawen
+spurge bush taɣhǝlt taɣhǝlen
+spurge bush taɣǝlt taɣǝlen
+light wood afăsas ifăsasăn 
+sodom apple torša toršawen
+sodom apple tǝrza tǝrzawen
+myrrh tree adăras idărsan
+myrrh tree adăras idǝrsan
+resin matălxer
+resin ălmăsata
+broad leaf tree akălăfa ikălăfan
+leafy fruit tree tăfărăɣrăɣat tifărăɣrăɣaten
+leafy fruit tree tǝwila tiwilawen
+leafy tree tădăyne tidăynawen
+bushy tree tadhant tidhănnen
+bushy tree tădant tidănnen
+ripe fruit tamǝnt tamǝnen
+green fruit anšan anšanăn
+green fruit anzan anzanăn
+large tree tagălalt tiglal
+bush ăna inattăn
+bush ănag inăggăn
+tamarind băsaso
+karite butter bulănga
+plant tasǝdwǝlt tisǝdwal
+sown plant / garden isǝdduma
+planting tool asăddamu
+planting tool sǝgǝbu
+straw / grass / weeds alǝmmoẓ ilǝmmaẓ
+straw / grass / weeds alǝmmuẓ ilǝmẓan
+greenery tăddalǝt tăddalǝten
+greenery / weeds el elăn
+greenery / weeds yel elan
+plants / weeds tehǝšše tihǝššawen
+plants / weeds tešše teššawen
+millet enăle inăletăn
+stalk aǵăbăl iǵǝblan
+stalk agăbăl agăbălăn
+shoots teḍǝken
+shoots tiḍǝken
+bit of stalk teẓewt teẓewen
+bit of stalk teẓăwt teẓăwen
+head teɣăɣănt tiɣăɣănen
+seed ădom idommăn
+seed esămb isămban
+grain / seed temătăwt timătawen
+grain tablalt tiblalen
+grain tamăɣwant timăɣwanen
+chaff du dutăn
+chaff tašit tašiten
+bean tanzant tanzanen
+bean pods ilănɣan
+sorghum ăbora iboran
+sorghum ăbora iboratăn
+panicum laetum išibăn
+wild fonio asɣal isɣalăn 
+grass abărom ibram
+grass abărom ibǝram
+grass afăẓǝw ifăẓwan
+grass afăẓăw ifǝẓwan
+sandbur / cram cram wăzzaǵ wăzzaǵăn
+cenchrus biflorus wăžžag wăžžagăn
+reed abărǵu ibărǵutăn
+reed abǝrgu ibǝrgutăn
+lotus / water-lily takǝndit tikǝnden
+lotus / water-lily takǝndit tikǝnditen
+puncture vine aǵărof iǵărofăn
+puncture vine agărof igărofăn
+soft spiky seeds tefărkăst tifărkăsen
+plant adlǝnf
+plant adlǝf idǝlfan
+mushroom tulǝft n-ălšinăn
+mushroom tilǝft n-ălžinăn
+fungus bǝŋŋ
+fungus bǝffen
+heat / hot tăkusse
+heat / hot tukǝse
+cold esămeḍ
+wind aḍu aḍutăn
+rain aǵǝnna iǵǝnnawăn
+rain ăkonak ikonakăn
+cloud teǵărăk tiǵărăken
+cloud tegărăk tigărăken
+thunder eǵǵaǵ eǵǵaǵăn
+thunder eggag eggagăn
+lightning essam essamăn
+lightning teqqaqq teqqaɣen
+lightning teḍăfe tiḍǝf 
+dust storm tamăḍalt timăḍlen
+dust storm tamăḍalt timǝḍlen
+sand storm ekărănkăr ikărănkărăn
+dust devil / willy willy tăšikwălt tišikwălen
+dust devil / willy willy taḍut taḍuten
+rainbow aǵǝǵu-nn-el aǵǝǵu-nn-elăn
+rainbow agǝgu-n-yel agǝgu-nn-elan
+rainbow tǝẓẓǝg-agǝgu
+rainbow tǝẓẓǝg-aɣăba
+overcast edălegi idălegităn
+cool, humid air elăhe ilăhetăn
+drought mănna mănnatăn
+hail agidrǝš igidrǝšan
+hail edăgrăz idăgrăzăn
+land / earth / homeland ăkal ikallăn
+land / earth amăḍal imǝḍlan
+homeland ăkal ikăllăn
+the bush / countryside tăkoyt tikoyyen
+the bush / countryside ăroǵǵ iraǵǵăn
+valley ǝrug irăggăn
+the bush / countryside ǝsuf isăffăn
+wilderness / desert tenere tinariwen
+rock / stone / small hill tăhunt tihun
+rock / stone / small hill tăhunt tihun
+mountain aḍaɣ iḍaɣăn
+mountain adɣaɣ idɣaɣăn
+hill tăkaswart tikaswaren
+hill tăkašwart tikašwaren
+hill ahǝll ihǝllan
+small hill esăwăl isulan
+small hill ekărăf ikărăfăn
+small hill adăbon idban
+small hill adăbon idǝban
+small hill takărkort tikǝrkar
+small hill takărkort tikărkoren
+field tawăgost tiwgas
+field tawăgost tiwǝgas
+field ašǝkrǝš išǝkraš
+sand dune eǵef iǵefăn
+sand dune egef igefăn
+sand temăsăst timăsăsen
+sand tamălălt timălălen 
+hot sand ešǝš ešǝšăn
+hot sand ežǝž ežǝžăn
+flat ground eɣărɣăr iɣărɣărăn
+wadi / ravine eǵărer iǵărerăn
+wadi / ravine agirer igirerăn
+sandy wadi ăšašǝl išušal
+sandy wadi ăzazǝl izuzal
+river eǵărew iǵǝrwan
+river egărew igǝrwan
+lake ebănɣ ibănɣăn
+lake eǵănš iǵănšan
+lake / valley eɣăšăr eɣǝšran
+lake / valley eɣăzăr eɣǝzran
+valley / forest tăgorast tigorasen
+valley / forest ăgora igorasăn
+valley / pasture ăsalwa isălwan
+valley / pasture telămse tilămsawen
+pasture asămmăḍon isǝmmăḍan
+pasture asămmăḍon isǝmmǝḍan
+pasture / shepherding tamăḍint timḍan
+pasture / shepherding tamǝḍint timǝḍan
+fresh pasture ănaf inaffatăn
+puddle / low ground abătol ibtal
+puddle / low ground abătol ibǝtal
+low ground / dip arăbaqqu irăbaqqutăn
+low ground / dip arăbakku irăbakkutăn
+water-hole temăsmăsit timăsmăsiten
+water-hole temamăsit timamăsiten
+water-hole tebănɣăwt tibănɣăwen
+water-hole tekăšămt tikăšămen
+river-bank / lake-side asălim isǝlman
+river-bank / lake-side asǝlim isǝlimăn
+river-bank / lake-side tăgdămăyt tăgdămăyen
+flood plain / lake-side tarrayt tarrayen
+flood plain / lake-side tarrăyt tarrăyen
+clean area by water tăsahăqq tisuhaɣ
+dried up lake ebăt ibăttăn
+wave tenăzzămărt tinăzzămăren
+flood / flow anǵi inǵităn
+flood / flow angi ingităn 
+tracks adăriš idraš
+tracks adǝriz idǝrzan
+termite mound aɣǝmmǝn iɣǝmm,năn
+termite mound aɣǝmmǝn iɣǝmman
+salty earth ăhara iharan
+soft earth / sand telămmeṭṭ tilămmeḍen
+sun tăfuk
+sun tăfukt
+sun tǝfuk
+moon ăyor orăn
+moon tallit tilil
+star atăr etran
+star atri etran
+venus tatrit
+planet ămaway-n-ăhăḍ
+pleiades šăt-ăhăḍ
+pleiades ăššet-ăhăḍ
+aldebaran kukăheḍ
+orion amănar
+scorpio teẓerdǝmt
+scorpio tăẓardǝmt
+great bear taḷămt
+great bear taḷǝmt
+milky way mǝhǝlliw
+milky way taberăt
+liquid aman amanătăn
+white liquid axx exxawăn
+white liquid ax ixxawăn
+oil udi udǝyawăn
+oil widi widiwăn
+grease tadhont
+grease tadǝnt
+paraffin kărănži
+paraffin kărănžil 
+wood ašǝk eškan
+dry wood esăɣer isăɣerăn
+dry wood ešăɣer išăɣerăn
+plank tafălwat tifălwaten
+iron / metal tăẓoli tiẓolǝyawǝnen
+iron / metal tǝẓoli tiẓolǝyawen
+gold orăɣ orɣawăn
+gold urǝɣ urɣawăn
+silver / money aẓrǝf eẓărfan
+silver / money aẓrǝf iẓǝrfan
+copper eɣer iɣerăn
+copper eɣǝri iɣăran
+bronze / brass daroɣ daroɣăn
+aluminium boko bokotăn
+rust / oxidisation tenekk
+rust / oxidisation tǝnik tiniken
+stone tăhunt tihun
+stone tăhunt tihun
+glass tăšoka tišokawen
+glass tăžoka tižokawen
+glass / a mirror / spectacles tiset tiseten
+glass / a mirror / spectacles tišet tišeten
+plastic măna mănatăn
+cloth / material tabdoq tibǝddaɣ
+thread tenălle tinǝlwa
+cotton / cotton seed eles
+wool tăḍuft tăḍufen
+wool tǝḍuft tǝḍufen
+hide elăm ilămawăn
+leather eɣăyt iɣăytăn
+skin eǵăsek iǵǝskan
+skin egăšek igǝškan
+charcoal tamăkat timăkaten
+burning coals tăẓoẓemt teẓoẓam
+burning coals tăẓuẓemt tiẓuẓam
+ash eẓǝd eẓḍawăn
+ash eẓǝd eẓǝḍăn
+potash toka tokaten
+potash ṣoṣo ṣoṣotăn
+potash tăɣiwa tăɣiwaten
+mud tălaqq tilaqqen
+mud tălaq tilăqqen
+clay tălaqq tan tămădăqqăs 
+dust ăǵoḍrar iǵoḍrarăn
+dust ǝgoḍrar igoḍrarăn
+dust ekărănkăr ikărănkărăn
+dust ăboqqa iboqqan
+dust ăbalăqq
+darkness tihay
+darkness tǝyyay
+light ănnor ănnorăn
+light ǝnnur ǝnnurăn
+sunbeam tafawt tafawen
+sunbeam tesăqsăq tisăqsăɣen
+fire efew ifewăn
+fire temse timǝss
+smoke ăho ihottăn
+smoke ǝhu ihăttăn
+smoke / steam ihohăn
+flint tafărast tifărasen
+metal for striking enăfăd n-ăfew
+spark temăntăst timăntăsen
+ice ăɣorhǝs iɣărhusăn
+ice aɣǝris iɣǝrisăn
+poison sunsǝǵ sunsǝǵăn
+poison sǝnsǝg sǝnsǝgăn
+poison / sorcery ăssăxar ăssăxarăn
+religion ăddin ăddinăn
+religion ǝddin ǝddinăn
+prophet ănnăbi ănnăbităn
+prophet ǝnnǝbi ǝnnǝbităn
+apostle / servant anămmašul inǝmmušal
+apostle / servant anămmazul inǝmmuzal
+saint / holy man ălwăli ălwălităn
+saint / holy man ǝlwǝli ǝlwǝlităn
+preaching ălžăwab ălžăwabăn
+preaching wăzo wăzotăn
+miracle tǝkunt tǝkunen
+miracle tamătert timtar
+miracle tamǝtirt timǝtar 
+god măssinăɣ
+god mǝssinăɣ
+god yăḷḷah
+the creator ămaxlak
+the lord emăli
+the lord emǝli
+the eternal ămaɣlal
+the eternal ămaɣlol
+satan ăššeṭăn
+devil / strong emotion iblis
+genie / spirit ălšin ălšinăn
+genie / spirit ălžăyn ălžăynăn
+angel ănǵălos ănǵălosăn
+angel ăngălos ăngălosăn
+prayer ămud imaddăn
+prayer ǝmud imăddăn
+prayer tǝwatre tiwatriwen
+prayer tamădilt timdal
+prayer tamǝdilt timdal
+sacrifice tasǝbḍărt tisǝbḍar
+sacrifice tăfaske tifaskiwen
+sacrifice sădaka sădaktăn
+almsgiving takute tikutawen
+tithe tămukăst timukăsen
+tithe tamukăst timukăsen
+tithe tamǝssǝdǝkk timǝssǝdak
+fasting ăẓum eẓammăn
+fasting ǝẓum iẓămmăn
+teacher ălfăqqi ălfăqqităn
+teacher ǝlfǝqqi ǝlfǝqqităn
+quranic student ăṭṭalib ăṭṭalibăn
+quranic school taɣărbošt teɣărbaš
+quranic school taɣărbošt tiɣǝrbaš
+reading / study teɣăre teɣărr
+reading / study teɣăre tiɣǝrr 
+pilgrim ălhaǵǵi ălhaǵǵităn
+pilgrim ǝlhaži ǝlhažităn
+ritual ablutions ălwăḷḷa ălwăḷḷatăn
+mosque tamǝzgǝdda timǝzgǝddawen
+place of worship ălmasžid ălmasžidăn
+place of prayer edăgg n-ămud
+place of prayer edăgg n-ǝmud
+worshipper ănaɣbad inaɣbadăn
+rosary / prayer beads iseḍinăn
+rosary / prayer beads išiḍinăn
+law / judgement ăššăreɣa ăššăreɣatăn
+law / judgement ǝššǝriɣa ǝššǝriɣatăn
+law / commandment ălămăr ălămărăn
+repentance tătubt tătuben
+repentance tǝtubt tǝtuben
+repentance tutabt tutaben
+forgiveness tenăšše tinǝšš
+forgiveness tenăzze tinǝzz
+forgiveness tăsureft tisuraf
+sin ăbăkkaḍ ibăkkaḍăn
+sinner anăsbăkkaḍ inăsbăkkaḍăn
+transgressor anămăšray inămăšrayăn
+transgressor anămăzray inămăzrayăn
+apostate / illiterate ălžahil ălžuhal
+hypocrite ălfăsseq ălfussaq
+recompense / justice ălxăqq ălxăqqăn
+reward emărked imărkedăn
+reward marušăt marušăten
+reward maruzăt maruzăten
+good work ămašal imašalăn
+good work tămašalt timašalen
+good work ǝmažal imažalăn
+good work tǝmažalt timažalen
+evil work ter-tămašalt ter-tǝmašalen
+evil work ter-tǝmažalt ter-tǝmažalen
+balance / account ălxisab ălxisabăn
+the day of judgement ašăl wan tăbădde
+the day of judgement azǝl wan tăbădde
+the afterlife ălaxărăt
+heaven / sky ašǝnna išǝnnawăn
+heaven / sky ažǝnna ižǝnnawăn
+paradise ălžănnăt
+hell-fire temse
+hell žohănnăma
+punishment ălɣăzab ălɣăzab
+punishment ălɣăzabăt ălɣăzabătăn
+evil ăššăr ăššărăn
+evil tăllăbăst tăllăbăsen
+crime / injustice taḍlǝmt teḍǝllam
+crime / injustice taḍlǝmt tiḍǝllam
+hypocricy tǝlmunufăɣa
+salvation ǝlɣǝllas ǝlɣǝllasăn
+saviour ămaɣlas imaɣlasăn
+salvation / protection taggaṣt taggaẓen
+protection / defence tinahăɣen
+protection / defence tinaɣen
+righteous person ălɣadil ălɣadilăn
+righteousness ălɣădala ălɣădalatăn
+righteousness eqqud eqqudăn
+righteousness iqqud iqqudăn
+mercy ărrăxmăt ărrăxmătăn
+mercy / pity / grace tăhanint tihunan
+mercy / pity / grace tǝhanint tihunan
+freedom / grace tădarfit tidarfiten
+freedom / grace tǝdarfit tidarfiten
+glory / grace ălxormăt ălxormatăn
+glory / grace ălxurma ălxurmatăn
+grace ănneɣmăt ănneɣmătăn
+grace ǝnniɣmăt ǝnniɣmătăn
+faith taflǝst tiflǝsen
+faith aẓǝgẓan iẓǝgẓanăn
+faith ăliman ălimanăn
+faith ămumǝn imumǝnăn
+blessing ălbărăka ălbărăkatăn
+blessing ălbarăka ălbarăkatăn
+blessing ălbăraka ălbărakatăn
+peace ălxer ălxerăn
+peace bani 
+peace ălɣafyăt ălɣafyătăn
+peace ălɣafǝyăt ălɣafǝyătăn
+hope / value ăṭṭăma ăṭṭămatăn
+authority / power tǝmɣăr tǝmɣăren
+authority / power tămɣăr tămɣăren
+rule / authority ălxǝkum ălxǝkumăn
+rule / authority ǝlxǝkum ǝlxǝkumăn
+rule / power tănaya tinayawen
+power tădabit tidabiten
+power tudabăt tudabăten
+truth tidǝt tidǝten
+lies bahu bahutăn
+doubt ăššăk ăššăkăn
+soul / spirit / life / self iman
+breath / spirit unfas unfasăn
+breath / spirit tunfast tunfasen
+oath tahoḍe tihoḍawen
+oath tahuḍe tihuḍawen
+vow ɣărro ɣărrotăn
+oath / vow / curse asǝmmǝhăḍ isǝmmǝheḍăn
+oath / vow / curse asǝmmǝhǝḍ isǝmmǝhiḍăn
+custom ălɣăda ălɣădatăn
+custom / origin ălăṣăl ălăṣălăn
+custom / origin ǝlǝṣǝl ǝlǝṣǝlăn
+tradition / hadith ăssunnăt
+covenant / promise ărkăwăl ărkăwălăn
+1st surah ălfatexăn
+1st surah ălfatixăn
+prayer mat eglem iglemăn
+adam adǝm
+adam adăm
+eve xawa
+noah nox
+noah nux
+abraham ibrahim 
+moses mosa
+moses musa
+torah ăṭṭăwrăt
+david dawǝd
+david dăwda
+psalms ăzzăbor
+psalms ǝzzǝbur
+solomon sulăyman
+mary măryama
+john exya
+jesus ɣisa
+gospel ălǝnžil
+messiah ălmasex
+messiah ǝlmǝsix
+mohammed moxămmăd
+mohammed muxămmăd
+quran ălqoran
+quran ǝlquran
+mecca makăt
+mecca măkkăt
+muslim anǝslǝm inǝslǝmăn
+genealogy ăttarex ăttarexăn
+genealogy ăttarix ăttarixăn
+idol ăssănăm ăssănămăn
+idol ădamum idumam
+curse / insult tilɣant tilɣanen
+magic asǝmmǝǵru isǝmmǝǵraw
+magic asǝmmǝgru isǝmmǝgraw
+marabouts magic timălăllăyen
+magic words tanăfalalt tinăfalalen
+sorcery / curse ešăɣăw išăɣwan
+sorcery / curse ešăɣăw išăɣăwăn
+sorcerer emăššăɣăw imăššăɣăwăn
+witch akrikaw ikrikawăn
+witch takrikawt tikrikawen
+evil eye tegăršăt tegăršăten
+evil eye tegăršăk tegăršăken
+evil eye tǝššoṭṭ tǝššoḍen
+evil eye tǝššuṭṭ tǝššuḍen
+divination iǵăšan 
+divination igăžan
+diviner amǝsǵǝšu imǝsǵuša
+diviner amǝsgǝžu imăsgăžăn
+black magic toru torutăn
+possession-cult dancing ăddăl wa-n ălšinăn
+possession-cult dancing ăddăl wa-n ălžinăn
+possession-cult dancing ăddăl wa-n ălžăynăn
+possession-cult dancing ašigal išigalăn
+possession-cult dancing ažigal ižigalăn
+musician aggu aggutăn
+musician ăzimma izimmatăn
+incense healing dugu dugutăn
+omen arid
+omen ašărik
+presage tăkubbert tikubberen
+presage takǝbbert tikǝbberen
+party / festivities / game ăddăl ăddălăn
+religious festival ămud imaddăn
+religious festival ǝmud imăddăn
+dancing adălal idălalăn
+dancing adlul idlulăn
+bride-price taggalt taggalen
+betrothal asǝmmǝkrǝs isǝmmǝkras
+betrothal asǝmmǝkrǝs isǝmmǝkrisăn
+betrothal / marriage adubǝn idubnawăn
+betrothal / marriage adubăn idubănăn
+betrothal / marriage azălaf izălafăn
+betrothal / marriage ehăn
+marriage aẓli iẓlǝyăn
+marriage aẓǝẓli iẓǝẓlay
+wedding ăddăl wan ăẓli
+confinement amẓur imẓurăn
+naming ceremony ăddăl wan isǝm
+naming ceremony ikăsănkăsăn
+naming ceremony lămru lămrutăn
+circumcision amilǝy imilǝyăn
+circumcision amǝnkǝḍ imǝnkiḍăn 
+divorce / separation amǝzzi imǝzzǝyăn
+divorce / separation ebăḍḍi ibăḍḍităn
+widow tinn-ăkăršăy
+place of mourning edăgg n-iba
+money / silver aẓrǝf eẓărfan
+money / silver aẓrǝf iẓǝrfan
+goods / flocks ehăre ihărawăn
+goods / flocks ehăre ihǝrwan
+wealth / luck tabăɣort tibɣar
+wealth / luck tabăɣort tibǝɣar
+wealth / prosperity ǝrǝzzăɣ ǝrǝzzăɣăn
+wealth / prosperity ǝrǝzzǝɣ ǝrǝzzǝɣăn
+gain / luck talemmeẓt tilǝmmaẓ
+price / value ălqim ălqimăn
+price / value ălqimăt
+market ǝssuk ǝssukăn
+payment tamăẓilt timẓal
+payment tamǝẓilt timǝẓal
+trade mamăla mamălatăn
+business tăɣăwse tiɣăwsiwen
+business tăɣăwše tiɣăwšawen
+middleman tăyfa
+hire / salary / rent tefert tiferen
+wage ălhăk ălhăkăn
+profit ălfayda ălfaydatăn
+profit ălfăyda ălfăydatăn
+profit riba ribatăn
+loss / lost animal asǝǵǵel isǝǵǵelăn
+loss / lost animal asǝggel isǝggelăn
+account / figure meḍan
+fine / penalty ăddăyyăt ăddăyyăten
+tribute / tax tiwse tiwsiwen
+colonial tax baya bayatăn 
+contribution terǵit terǵiten
+contribution tirgit tirgiten
+gift / giving ihuk
+gift / giving tǝhǝkkut tihǝkk
+gift / giving tehăkkăwt tihǝkk
+gift / giving tănafut tinufa
+gift tibǝddar
+gift tasǝnkit tisǝnkay
+gift ašǝyyuf išǝyyaf
+gift ažif ažifăn
+love gifts tisutar
+friendship gifts iǵelhan
+gift for reconciliation taẓǝmmăẓǝlt tiẓǝmmăẓilen
+gift for reconciliation taẓǝmmǝẓǝlt tiẓǝmmǝẓilen
+gift for reconciliation tamǝknut
+loan / debt ămarwas imarwasăn
+loan / debt asărḍǝl isărḍilăn
+repayment azǝbǝna izǝbǝnatăn
+usufruct tǝyyǝt tǝyyǝten
+forfeit ălman ălmanăn
+cow eaten at wedding taɣtǝst tiɣǝttas
+cowries tamǵǝlǝt timǵǝl
+cowries tamǝggǝlot timǝggǝla
+caravan erăkăf irǝkfan
+game / play ăddăl ăddălăn
+amusements imešlan
+amusements imăzlan
+dice tisăɣeren
+dice tišăɣeren
+strategy game tiddas
+hide and seek ufăr-ufăr
+hide and seek ufǝr-ufǝr
+jacks tikwa
+mancala / awari tizgag 
+hockey kăray kărayetăn
+hockey kărăy kărăyen
+hockey stick alănɣom ilǝnɣam
+ball tablulăqq tiblulăɣen
+ball tabǝlulǝq tibǝlulǝɣen
+fencing / mock fight tedămit tidămaten
+racing / races tammăšăǵa timmăšăǵawen
+racing / races tămmăzăga tămmăzăgawen
+speed azzal azzalăn
+wrestling tăbbillant tăbbillanen
+wrestling tabǝllant tibǝllanen
+state / character ălxal ălxalăn
+conduct / character tašne tašniwen
+conduct / character tažne tažniwen
+character / state taɣărha tiɣărhiwen
+character / state taɣăra tiɣărwen
+situation / subject talɣa talɣiwen
+habit / taste agna agnatăn
+intelligence tayǝtte tiyǝttawen
+attention / intention ǝnnǝyăt ǝnnǝyăten
+understanding făhăm făhămatăn
+knowledge musnăt musnăten
+knowledge măsnăt măsnăten
+recognition muzyăt muzyăten
+recognition mǝzzǝyăt mǝzzǝyăten
+consciousness tǝnǝfruyt
+consciousness tiǵya tiǵyawen
+consciousness tigya tigyawen
+worry / sad thoughts anǝzgum inǝzgam
+thought ămeḍrăn imeḍrănăn
+anxiety ălwăswăsăt ălwăswăsăten
+patience taẓidert tiẓideren
+patience taẓăydert tiẓăyderen
+wisdom / honour sărho sărhotăn
+honour / reserve ătteqal ătteqalăn
+reserve / doubt ăššăk ăššăkăn
+shame / reserve tăkrakeṭṭ tikrukaḍ
+shame / reserve takărakiṭṭ tikǝrukaḍ 
+grief / depression ahǝnšăqqi ihǝnšăqqităn
+nostalgia / loneliness ăsuf isaffăn
+nostalgia / loneliness ǝsuf isăffăn
+nostalgia / loneliness alwa alwatăn
+anger ălhăm ălhămmăn
+wrath aḍkăr iḍǝkran
+wrath adkǝr idǝkran
+fear / anxiety tarǝmmeqq tirǝmmaɣ
+fear tǝksǝḍa tǝksǝḍawen
+fear tăxsǝda tăxsǝdawen
+fear tăsa tisătten
+fear ǝmmǝttǝsu ǝmmǝttǝsutăn
+joy tedăwit tidwa
+joy tedǝwit tidwa
+pain / suffering aɣăna
+health / strength ăssexăt
+health / well-being ălxer
+health / well-being bani
+health / well-being ălafu
+trembling tisǝst tissas
+trembling tăysǝst tăysas
+trembling tăysǝst tăysǝsen
+trembling tekăbăyt tikăbăyen
+trembling talăfa tilăfawen
+name / noun isǝm ismawăn
+news isălan
+question asǝstan isǝstinăn
+greeting ăsafu isofan
+greeting tǝhult tihulawen
+leave-takings isǝnnăɣlifăn
+leave-takings isǝnnǝɣlifăn
+speech / language măǵrăd imǝǵridăn
+speech / language măgrăd imǝgridăn
+word / phrase tăfert tifer
+word / phrase tǝfert tifir
+word / saying tǝnna tǝnnawen
+language / dialect tawalt tawalen
+conversation / chat batu batutăn
+conversation / chat ălžǝmayt ălžǝmayten
+conversation / chat ǝlžǝmat ǝlžǝmaten
+conversation / chat adwǝnni idwǝnnităn
+conversation / chat adǝwǝnni idǝwǝnnităn
+conversation / chat edăwănne idăwănnetăn 
+story tanfust tinfusen
+story / poem tăsawit tisiway
+story / song / riddle tănẓort tinẓoren
+story / song / riddle tǝnẓurt tinẓuren
+song / poem ăsahăɣ isuhaɣ
+song / poem ǝsahǝɣ isuhaɣ
+historical tales tišilen
+historical tales tižilen
+proverb oẓẓ oẓẓawăn
+proverb oẓẓ oẓẓătăn
+proverb / riddle enhi enhităn
+proverb eni enităn
+parable tangalt tangalen
+argument / discussion tamăzaqq timăzaɣen
+argument / discussion tamɣǝnnant timɣǝnnanen
+argument / discussion tamǝɣǝnnant timǝɣǝnnanen
+argument / discussion tamădašt timădašen
+argument / discussion tamădast timădazen
+argument / opposition amšǝkki imšǝkkităn
+argument / opposition amžǝkki imžǝkkităn
+rant ahuwal ihuwalăn
+rant aklulu ikluliwăn
+rebuke asǝnnǝrɣǝm isǝnnǝrɣimăn
+reproach / blame tuǵna tuǵnawen
+reproach / blame tǝgna tǝgnawen
+snub ălhuza ălhuzatăn
+praise tǝmmal tǝmmalen
+renown / fame mawmaw
+prohibition / warning tarɣǝmt tirɣǝmen
+warning cry ăkure ikoran
+warning cry ǝkure ikoran
+alphabet teǵămke tiǵămkawen
+alphabet tegămke tigămkawen
+berber alphabet tifinaɣ
+letter / amulet / map tăkarḍe tikarḍiwen
+letter / amulet terot tira
+letter / amulet tirăwt tira
+voice / noise emăsli imăslan
+voice / noise emǝsli imăslan
+noise tăkalt tikăllen
+noise ăšit išităn
+noise ǝžit ižităn 
+shouting abrǝtti ibrǝttităn
+shouting abǝrǝtti ibǝrǝttităn
+comedy / loose talk tallafen
+comedy / loose talk tărfofen
+threats imǝssuksaḍ
+threats imǝssǝksaḍ
+threats imǝssoxsad
+threats tisǝksǝḍawen
+wail / mourning cry takălelt tikălelen
+wail tăšoršat tišoršaten
+wail tăzorzat tizorzaten
+trill taɣlǝlet tiɣlǝla
+trill taɣǝlǝlet tiɣǝlǝla
+exaggeration tisǝssiwaḍ
+exaggeration tisǝssikay
+delirium tisălăwlăwen
+senility / delirium tirăzzăyen
+hand signal tătofayt titofayen
+hand signal tădogănt tidogănen
+thing hărăt hărătăn
+thing ărăt ărătăn
+things / equipment ilalăn
+tools / utensils isuǵ
+tools / utensils isug
+a part / side / half ašrut išrutăn
+a part / side / half azrut izrutăn
+half / part tăẓune tiẓunawen
+share / portion tedăǵărt tidăǵăren
+share / portion edăgăr idăgărăn
+side tasăǵa tisǝǵwen
+side tasăga tisǝgwen
+right aɣil iɣallăn
+right aɣil iɣăllăn
+left tăšalǵe tišalǵiwen
+left tǝzalge tizalgiwen
+left zălgăt zălgăten
+world ăddunya ăddunyatăn
+solution ăddăbara ăddăbaratăn
+cause / reason tamǝntelt timǝntal
+cause / reason ǝssǝbab ǝssǝbabăn 
+cause / reason ăddălil ăddălilăn
+cause / reason ǝddǝlil ǝddǝlilăn
+what is important ălɣaya ălɣayatăn
+impossible muxal
+independence ǝlisteqlal
+independence ǝlistiqlal
+the necessary ălxažăt
+opportunity taffawt taffawen
+opportunity taffăwt taffăwen
+pretext asaru isoran
+pretext ăsaru isura
+confidence fella fellatăn
+searching umăɣ-umăɣ
+searching umǝɣ-umǝɣ
+act of hostility tasăkmot tisǝkma
+living together unmarried tăbabbit
+fame / renown tamsusǝnt timsusǝnen
+fame / renown tamǝsusǝnt timǝsusǝnen
+fame / renown mosli moslităn
+fame / renown măsăllăt măsăllăten
+coincidence tamăzăyyat timăzăyyen
+maintenance tanăṭṭuft tinăṭṭufen
+maintenance tanǝṭṭuft tinǝṭṭaf
+abuse / maltreatment ter-năṭṭuft ter-năṭṭufen
+abuse / maltreatment ter-nǝṭṭuft ter-nǝṭṭaf
+support tehătelt tihătelen
+alliance ehăf
+task / errand / work ămašal imašalăn
+task / errand / work ǝmažal imažalăn
+task / errand / work ǝmazal imazalăn
+work ǝššǝɣǝl ǝššǝɣǝlăn
+doing / act tiǵawt tiǵawen
+doing / act igi igităn 
+arrival tassawt tassawen
+arrival assa assatăn
+departure tagǝllawt tigǝllawen
+departure egǝlli igăllan
+departure efel ifelăn
+going tikawt tikawen
+going iki ikităn
+walking tekle takliwen
+beginning sănto săntotăn
+end sămdo sămdotăn
+existence tǝlla tǝllaten
+existence tǝlla tǝllawen
+existence tumast tumasen
+possession tǝla tǝlawen
+perfection akămal ikămalăn
+likeness milhaw milhawăn
+likeness milaw milawăn
+preference tăsafit tisafiten
+inheritance tăkasit tikasiten
+crime taḍlǝmt teḍǝllam
+crime taḍlǝmt tiḍǝllam
+theft tikra tikrawen
+surprise / betrayal taɣdărt teɣǝddar
+surprise / betrayal taɣdǝrt tiɣdǝren
+fighting akǝnnas ikǝnnasăn
+lifting up adăkal idăkalăn
+reduction afănaẓ ifănaẓăn
+difference / separation ebăḍḍi ibăḍḍităn
+disappointment turǵamt turǵamen
+disappointment turgamt turgamen
+itching ukmaš ukmašăn
+itching ukmaz ukmazăn
+laziness / hesitation sendad sendadăn
+weeding aǵăyak iǵăyakăn
+weeding agăyak igăyakăn
+getting / earning aǵăraw iǵărawăn
+getting / earning agăraw igărawăn
+attempt agămay igămayăn 
+bringing / load aggay aggayăn
+drawing alăkaw ilăkawăn
+weight taẓẓayt taẓẓayen
+weight taẓẓăyt taẓẓăyen
+weight ăẓuk ăẓukăn
+importance / size tǝmɣăre
+importance / size tǝmɣǝre
+ease / cheapness tărɣǝse tărɣǝsawen
+ease / cheapness tǝrǝɣse tǝrǝɣsawen
+agreement anmǝnnak inmǝnnikăn
+agreement anǝmǝnnak inǝmǝnnikăn
+agreement tarăḍḍawt tirăḍḍawen
+agreement tarǝḍḍăwt tirǝḍḍăwen
+help tadhǝlt tidhǝlen
+help tilalt tilalen
+laughter taḍăẓẓa tiḍăẓẓ
+laughter taḍăẓa tiḍǝẓwen
+bravery ǝbbărăḍ ǝbbărăḍăn
+bravery ǝbbǝrǝḍ ǝbbǝrǝḍăn
+journey ăsikǝl isikilăn
+journey ašikǝl išikilăn
+hunger laẓ laẓăn
+thirst fad
+lack / loss iba ibatăn
+rubbish ănnikăl ănnikălăn
+rubbish ǝnnikăl ǝnnikălăn
+beauty tihussay
+friendship tǝmmidwa
+friendship tǝmmidǝwa
+love / will / need tărha tărhawen
+love / will / need tăra tărawen
+tax / tribute tiwse tiwsiwen
+death tamăttănt timăttanen
+death tamăttant timăttanen
+life tămudre timudrawen
+life tamǝddurt timǝddar
+chiefdom tamǝnukǝla timǝnukǝlawen
+daring / cheekiness taholăt taholăten 
+jealousy teṣmiten
+jealousy tiṣmiten
+vomiting ebsan
+insult taǵǝǵǵert tiǵǝǵǵar
+insult takǝggert tikǝggar
+insult tettert tittar
+insult tittert tittar
+proof asǝbbuyǝn isǝbbuyunăn
+direction / bearing tasǝdǝkk tisǝdaǵ
+direction tamduk timdaǵ
+direction tehelt tihelen
+north afălla
+north awẓa
+north atăram
+south agăla
+south emăynăg
+east emăynăǵ
+east ălqablăt
+east ălqiblǝt
+west egăḍăl ǝn-tăfukk
+west egăḍăl ǝn-tǝfuk
+colour / markings ini inităn
+male awtǝm iwtǝmăn
+male ăwtǝm ăwtǝmăn
+masculinity ăhhulǝs
+female tawtǝmt tiwtǝmen
+female tăwtǝmt tăwtǝmen 
+clan / species / type tawset tiwsaten
+clan / species / type tăwšet tăwšeten
+likeness / species / type tulat tulaten
+team / group / class taggayt taggayen
+team / group / class taggăyt taggăyen
+top / surface / roof afălla ifallatăn
+bottom / base ider iderăn
+bottom / base eder iderăn
+side edes idesăn
+inside / centre ammas ammasăn
+outside aǵăma iǵămatăn
+outside agăma igămatăn
+height tebădde tibaddiwen
+length tǝššǝǵrǝt tǝššǝǵrǝten
+length tǝzzǝgrǝt tǝzzǝgrǝten
+width tǝhhǝrǝwt tǝhhǝrǝwen
+width tăkost tikăssen
+depth atlǝkki itlǝkkităn
+depth atǝlǝkki itǝlǝkkităn
+span tardast tardasen
+cubit aɣil iɣallăn
+cubit aɣil iɣăllăn
+line / row eṭăṭṭăr eṭăṭṭărăn
+length of life taɣrǝst teɣărras
+length of life taɣrǝst tiɣǝrras
+sign / symptom ašămol išmal
+indication ašămol išmal
+sign / symptom ažămol ižǝmal
+indication ažămol ižǝmal
+sign nehal nehalăn
+meaning ălmăɣna ălmăɣnatăn
+photo / shadow tele taliwen
+taste / flavour tembe tambiwen
+odour / fragrance aḍu aḍutăn
+strong odour awšǝnšǝǵ iwšǝnšiǵăn
+strong odour awǝžǝnžǝg iwǝžǝnžigăn
+dirt / dirtiness erdan
+triangle teǵămšăkk tiǵămšăkăn
+triangle tegămšăk tigămšăkăn
+sphere / ball tablulăqq tiblulaɣ
+sphere / ball tabǝlulǝq tibǝlulaɣ
+circle taǵlǝlwayt tiǵlǝlwayen 
+circle taǵălăllăwat tiǵălăllăwaten
+circle tagălăllăwăyt tigălăllăwăyen
+wheel / bearing tebălăwt tibălăwen
+police chief komser komsertăn
+prefect bǝreffe bǝreffetăn
+maire mer mertăn
+police bolis bolistăn
+police folis bolistăn
+gendarme žăndărm žăndărmatăn
+soldier mǝnǝter mǝnǝtertăn
+soldier mǝnǝtir mǝnǝtirtăn
+soldier militer militertăn
+customs dǝwan dǝwantăn
+president fǝrezdan fǝrezdantăn
+schoolteacher muse musetăn
+schoolteacher muše mušetăn
+quarter sekter sektertăn
+school likol likoltăn
+pound furye furyetăn
+prison kăso kăsotăn
+office biro birotăn
+role / function sărwis sărwistăn
+identity card kărtidănt kărtidăntăn
+tobacco taba tabiwen
+wallet fartăma fartămatăn
+football băl băltăn
+table / market stall ṭabăl ṭabălen
+shop măngăza măngăzatăn
+radio / tape player ăradyo ăradyotăn
+cassette kăset kăsetăn
+battery bil biltăn
+razor blade lam lamtăn
+donkey cart šărrăt šărrătăn
+motorbike / moped moto mototăn
+mattress matăla matălatăn
+spade fello fellotăn
+barrel tonno tonnoten
+barrel bărik băriktăn
+matches ălmayt ălmaytităn
+matches ălmaytu ălmaytutăn
+cab kăbin kăbintăn
+photograph / picture foto fototăn
+moving image sinǝma sinǝmatăn
+handpump bombi bombităn
+handpump fonfi fonfităn
+motorised pump foraž foražtăn
+machine măsin măsintăn
+machine măšin măšintăn
+plastic bottle bido bidotăn
+sheet metal tol toltăn
+tomato tomănti tomăntităn
+cabbage šu šutăn
+coffee kăfe kăfetăn
+citrus fruit limon limontăn
+potato bombăter bombătertăn
+lettuce ṣălat ṣălatităn
+metre metăr metărtăn
+kilometre kilometăr kilometrăn
+gram găram găramtăn
+100 grams săngăram
+kilogram kilo kilotăn
+hour / time ur urtăn
+minute minet minetăn
+clock / watch montăr montărtăn
+original bǝrǝmye bǝrǝmyetăn
+lies fărfăgănda fărfăgăndatăn
+catholic momber mombertăn 
+flower fǝlǝr fǝlǝrtăn
+lamp / torch layti laytităn
+bucket bokǝti bokǝtităn
+clinic / health worker lăktor lăxtortăn
+clinic / health worker lăxtor lăxtortăn
+pick-axe fingas fingastăn
+carrot kăroti kărotităn
+wood kafinta kafintatăn
