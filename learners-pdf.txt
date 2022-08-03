@@ -1,0 +1,1007 @@
+Ša ma dăr tǝnsed? How did you sleep?
+Za ma dǝr tǝnsed? How did you sleep?
+Ša ma dăr tolăhăd? How are you?
+Za ma dǝr toled? How are you?
+Ša ma tăxlâkăd? How are you?
+Za ma tǝxallăkăd? How are you?
+Za man-ăwen-nak? How are you doing?
+Ša ălɣăyal ma dăr olăh? How is the family?
+Za ăytedăm-năwăn ma dǝr olăn? How are your people?
+Ša aratăn-năk ma dăr olăhăn? How are your children?
+Za bărarăn-năk ma dǝr olăn? How are your children?
+Ša aratăn-năm ma dăr olăhăn? How are your children?
+Za bărarăn-năm ma dăr olăn? How are your children?
+Ša Za kăyy d-ăsămeḍ? You and the cold?
+Ša kăyy d-ălmăẓ? You and the sunset?
+Za kăy d-ǝlmǝẓ? You and the sunset?
+Ša Za ălxer ɣas! Peace only!
+Ša ma-môs awa? What is it?
+Za ma-ymôs awa? What is it?
+Ša m-isǝm-ǝnnes awa? What is that called?
+Za m-isǝm-nes awa? What is that called?
+Ša m-isǝm-ǝnnes dăɣ Tămašăq? What is it called in Tamasheq?
+Za m-isǝm-nes dăɣ Tǝmažǝq? What is it called in Tamajeq?
+Ša ma tǝǵed? What are you doing?
+Za ma tǝged? What are you doing?
+Ša m-isǝm-ǝnnăk? What is your name?
+Za m-isǝm-năk? What is your name?
+Ša ma tăšăɣalăd? What work do you do?
+Za ma tašăɣalăd? What work do you do?
+Ša Za mi tǝkkêd? Where are you going?
+Ša mi tǝkked dăɣ tifawt-i? Where did you go this morning?
+Za mi tǝkked dăɣ tufat-a? Where did you go this morning?
+Ša Za mi dǝt-tǝfălăd? Where have you come from?
+Ša mǝnǵǝdu dǝt-tosed? When did you come here?
+Za ǝmme dǝt-tosed? When did you come here?
+Ša Dăwda os-id meɣ? Has Dawda come?
+Za Dăwda os-ăddǝd meɣ? Has Dawda come?
+Ša harwa! Not yet!
+Za hărwa! Not yet!
+Ša inăftăɣăn-năwăn osăn-id meɣ? Have your visitors come?
+Za inăftăɣăn-năwăn osăn-dǝd meɣ? Have your visitors come?
+Ša ǝndek-ki ăhalǝs-ǝnnăm? Where is your husband?
+Za ǝndek-ke alǝs-năm? Where is your husband?
+Ša m-isǝm-ǝnnăk? What is your name?
+Ša m-isǝm-ǝnnăm? What is your name?
+Ša m-isǝm-ǝnnes? What is his/her/it's name?
+Za m-isǝm-năk? What is your name?
+Za m-isǝm-năm? What is your name?
+Za m-isǝm-nes? What is his/her/it's name?
+Ša man-iket elăn-nes? How old is he/she/it?
+Za man-iket elan-nes? How old is he/she/it?
+Ša tădôbănăd meɣ? Are you married/engaged?
+Za tǝzlâfăd meɣ? Are you married/engaged?
+Ša man-iket aratăn-năk? How many children do you have?
+Za man-iket bărarăn-năk? How many children do you have?
+Ša m-isǝm-ǝnnes tawset-năwăn? What is your clan call ed?
+Za m-isǝm-nes tawšet-năwăn? What is your clan called?
+Ša ǝndek diha tǝzzăɣăd? Where do you live?
+Za ǝndek da tǝzzăɣăd? Where do you live?
+Ša Za ti-k ǝd ma-k ǝddârăn meɣ? Are your father and moth er alive?
+Ša ǝndek diha tǝzzăɣ? Where does she live?
+Za ǝndek da tǝzzăɣ? Where does she live?
+Ša ma-mos ǝššǝɣǝl-ǝnnăk? What is your work?
+Za ma-ymos ǝššǝɣǝl-năk? What is your work?
+Ša tăhôǵăd dăɣ Mărkoy meɣ? Have you been in Markoye long?
+Za tǝhôgăd dăɣ Mărkoy meɣ? Have you been in Markoye long?
+Ša ad tăhaǵăd diha meɣ? Are you going to stay here long?
+Za ad tihagăd da meɣ? Are you going to stay here long?
+Ša Za wǝr ǝssenăɣ! I don't know!
+Ša tosed-id făl hebu meɣ? Have you come for the market?
+Ša ma tǝwwăyăd-id ǝs-hebu? What have you brought to market?
+Ša tisǝd-id hebu kul meɣ? Do you come every week?
+Za tosed-dǝd făl hebu meɣ? Have you come for the market?
+Za ma tewăyăd-dǝd ǝs-hebu? What have you brought to market?
+Za tasăd-dǝd hebu kul meɣ? Do you come every week?
+Ša ma tărhed? What do you want?
+Za ma tǝred? What do you want?
+Ša ma-s tămmăɣăd? What are you looking for?
+Ša ma šănšed? What are you buying/selling?
+Za ma zanzăd? What are you buying/selling?
+Ša šănš-e! Buy it!
+Za zănz-e! Buy it!
+Ša Za awa man-iket? How much is that?
+Ša Za man-iket man-iket? How much are they each?
+Ša ăẓẓûwwăt! It is expensive!
+Za iẓẓîwăt! It is expensive!
+Ša igdâh! Enough!
+Za igdâ! Enough!
+Ša ăkf-ahi sǝmmos! Give me 25 CFA!
+Za ăkf-i sǝmmos! Give me 25 CFA!
+Ša ănš-ahi! Forgive me!
+Za surǝf-i-dǝd! Forgive me!
+Ša tǝll-ê tămăṭṭ? Are you married?
+Za tǝll-ê tǝnṭuṭ? Are you married?
+Ša ǝllân-ti san? Is there meat?
+Ša ǝllânăt-ti wan dăɣ hebu? Are there cows in the market?
+Za ǝllânăt-tăy šitan dăɣ hebu? Are there cows in the market?
+Ša Măryama tǝllâ diha meɣ? Is Mary there?
+Za Măryama tǝllâ da meɣ? Is Mary there?
+Ša Za tǝktăbăd tăkarḍe meɣ? Have you written the letter?
+Ša mǝnǵǝdu m-a-dd-as? When will he come?
+Za ǝmme za-dd-asu? When will he come?
+Ša Za ǝndek-tăt? becomes ǝndek-kăt?
+Ša Za ǝndek wa? Which one?
+Ša Za ǝndek wa? Which one?
+Ša Za tǝkkêd hebu meɣ? Are you going to market?
+Ša Za hebu a tǝkked meɣ? Is it to market that you are going?
+Ša mǝnǵǝdu a dǝt-tosed? When did you arrive here?
+Za ǝmme a dǝt-tosed? When did you arrive here?
+Ša Za mi iknăn absăr wa? Who made this knife?
+Ša ma dăɣ tăḍkărăd alǝkkin? What did you fill the pot with?
+Za ma dăɣ tǝḍkǝrăd tayǝnt? What did you fill the pot with?
+Ša ma dăɣ taǵǵănăt tikba? What do they make baskets with?
+Za ma dăɣ tagginăt tikăboten? What do they make baskets with?
+Ša mi dăr tǝmmǝǵrădăd? Who did you speak to?
+Za mi dǝr tǝmmǝgrădăd? Who did you speak to?
+Ša ma-s extăs ašǝk? What did he fell the tree with?
+Za ma-s ixtăs ašǝk? What did he fell the tree with?
+Ša ma-ssss tăsgădăd? What did you listen to?
+Za ma-ssss tăsdărgănăd? What did you listen to?
+Ša Za mi dd-osăn? Who came?
+Ša a-hin-tăqqǝlăd meɣ? Will you go back there?
+Za a-din-tǝqqǝlăd meɣ? Will you go back there?
+Ša ma tărhêd wa meɣ wa? What do you want this or that?
+Za ma tǝrêd wa meɣ wa? What do you want this or that?
+Ša ma-mos awa? What is that?
+Za ma-ymos awa? What is that?
+Ša mi tǝkked ănḍǝšel? Where did you go yesterday?
+Za mi tǝkked ǝnḍazǝl? Where did you go yesterday?
+Ša Za mi tǝkkêd? Where are you going?
+Ša tisǝd-id hebu kul meɣ? Do you come for every market?
+Za tasăd-dǝd hebu kul meɣ? Do you come for every market?
+Ša Za tǝkked hebu? Are you going to market?
+Ša Za ak, tǝkked hebu? Are you going to market?
+Ša mi tǝnhăyăd? Who did you see?
+Za mi tǝnăyăd? Who did you see?
+Ša ma tǝnhăyăd? What did you see?
+Za ma tǝnăyăd? What did you see?
+Ša Za ma tǝkned? What are you making/repairing?
+Ša ma tǝǵed? What are you doing?
+Za ma tǝged? What are you doing?
+Ša ma tăǵǵăd ašăl kul? What do you do every day?
+Za ma taggăd azǝl kul? What do you do every day?
+Ša ma-môs awa? What is that?
+Za ma-ymôs awa? What is that?
+Ša ǝndek ašǝk wa extăs Săydu? Which tree did Saidou cut down?
+Za ǝndek ašǝk wa ixtăs Săydu? Which tree did Saidou cut down?
+Ša ma-s tăqqâlăd? What are you waiting for?
+Za ma-s tǝqqâlăd? What are you waiting for?
+Ša mi ɣor tăqqîmăd? With whom are you staying?
+Za mi ɣur tǝqqîmăd? With whom are you staying?
+Ša ma dăɣ iǵâ? What was it made from?
+Za ma dăɣ igâ? What was it made from?
+Ša ma-s t-extăs? What did he cut it down with?
+Za ma-s t-ixtăs? What did he cut it down with?
+Ša mi ošălăn? Who ran?
+Za mi ozălăn? Who ran?
+Ša mi extăsăn ašǝk? Who cut down the tree?
+Za mi ixtăsăn ašǝk? Who cut down the tree?
+Ša mi itaǵǵăn ătay? Who makes tea?
+Za mi itaggăn ătay? Who makes tea?
+Ša ma kăy-iǵrâwăn? What's up?
+Za ma kăy-igrâwăn? What's up?
+Ša ǝndek ara wa ošălăn? Which child ran?
+Za ǝndek bărar wa ozălăn? Which child ran?
+Ša mafăl tǝkked Gorăn? Why did you go to Gorom?
+Za măfel tǝkked Gorăn? Why did you go to Gorom?
+Ša mǝnǵǝdu a tǝkked Gorăn? When did you go to Gorom?
+Ša mǝnǵǝdu a dǝt-tosed? When did you arrive here?
+Ša mǝnǵǝdu mad-tǝkkǝd Waɣa? When will you go to Ouag a?
+Za ǝmme a tǝkked Gorăn? When did you go to Gorom?
+Za ǝmme a dǝt-tosed? When did you arrive here?
+Za ǝmme za-tăkkăd Waɣa? When will you go to Ouaga?
+Ša man-iket eškan extăs? How many trees did he fell?
+Za man-iket eškan ixtăs? How many trees did he fell?
+Ša man-iket elăn-nes? How old is he?
+Za man-iket elan-nes? How old is he?
+Ša ǝndek diha-d tašăɣalăd? Where do you work?
+Ša ǝndek siha-s ošălăn? Where did they run to?
+Ša ǝndek diha-d illâ? Where is he?
+Za ǝndek da-d tašăɣalăd? Where do you work?
+Za ǝndek sa-s ozălăn? Where did they run to?
+Za ǝndek diha-d illâ? Where is he?
+Za mǝni-d illâ? Where is he?
+Ša Za mi tǝkked? Where are you going?
+Ša Za mi dǝt-tǝfălăd? Where have you come from?
+Ša Za ǝndek edăgg wa tǝkked? Which place are you going to?
+Ša Za ǝndek-ki hebu wa dǝt-tǝfălăd? Which market have you come from?
+Ša ǝndek awa nǝtăǵǵ năǵ ătay? How do we make tea?
+Za ǝndek awa nǝtaggu năgu ătay? How do we make tea?
+Ša ǝndek ǝmmǝk wa-s mad năǵ ătay? How are we going to make tea?
+Za ǝndek ǝmmǝk wa-s za năgu ătay? How are we going to make tea?
+Ša ma mad năǵ har năǵ ătay? How are we going to make tea?
+Za ma za năgu har năgu ătay? How are we going to make tea?
+Ša ǝndek awa ǵed har tărẓed aḍăr-ǝnnăk? How did you break your leg?
+Za ǝndek awa tǝged har tǝrẓed aḍăr-năk? How did you break your leg?
+Za man ǝmmǝk wa-s tǝkned bătbăt? How did you fix the motorbike?
+Ša Za tǝzzâyăd Musa meɣ? Do you know Musa?
+Ša ma tǝnhăyăd? What did you see?
+Ša wăla! Nothing!
+Za ma tǝnăyăd? What did you see?
+Za wăla! Nothing!
+Ša mi isăkădawăn ăsink? Who prepares millet porridge?
+Za mi isakădawăn ǝšink? Who prepares millet porridge?
+Ša mi dd-osăn ănḍ-ăhăḍ? Who arrived last night?
+Za mi dd-osăn ǝnḍ-ahăḍ? Who arrived last night?
+Ša Za mi ikkăn Waɣa? Who went to Ouaga?
+Ša Za mi iknăn tăkoba-nnăk? Who made your sword?
+Ša mi ăsserădăn ilalăn n-ătay? Who washed the tea things?
+Za mi iššorădăn ilalăn n-ătay? Who washed the tea things?
+Ša ma hi-tǝnned? What did you say to me?
+Za ma di-tǝnned? What did you say to me?
+Ša ăkf! Give!
+Za ăff! Give!
+Ša ǝgǝl! Go away!
+Ša ăglăt! Go away!
+Ša ǝglǝmăt! Go away!
+Za ăglu! Go away!
+Za ăglăt! Go away!
+Za ăglimăt! Go away!
+Ša tatt hullen! Eat well!
+Za tattu hullen! Eat well!
+Ša sassăt axx! Drink milk!
+Za sassăt ax! Drink mlik!
+Za sassiwăt ax! Drink milk!
+Ša Za wǝr tǝkked hebu! Don't go to market!
+Ša Za wăr tokerăd! Don't steal!
+Ša wăr tikǝr! Do not steal!
+Ša wăr tikǝrăt! Do not steal!
+Ša wăr săssăt ax! Do not drink milk!
+Za ad-wǝr-takǝrăd! Do not steal!
+Za ad-wǝr-tikǝrăd! Do not steal!
+Za ad-wǝr sassim ax! Do not drink milk!
+Ša Za ăglet! Let him leave!
+Ša Za ǝlkǝmnet-as! They should follow him!
+Ša asǝnet-id iman-năsăn! They should come here themselves!
+Za asǝnet-dǝd iman-năsăn! They should come here themselves!
+Ša wăr-kăwăn-ǵărrăwnet nǝzgam! Don't worry!
+Za wǝr-kăwăn-gǝrrǝwnet nǝzgam! Don't worry!
+Ša Za năglet! Let's leave!
+Ša Za năkket hebu! Let's go to market!
+Za ăglăt-anăɣ! Let's leave!
+Za ăkkăt-anăɣ hebu! Let's go to market!
+Ša ma tăǵǵăn fullanăn? What do Fulani do?
+Za ma taggin follanăn? What do Fulani do?
+Ša tǝknâ tihussay hullen! She is really beautiful!
+Za tǝknâ tihussay hullen! She is really beautiful!
+Ša awi-dd ǝlkǝttab tăɣred! Bring a book which you can read!
+Za awi-dd ǝlkǝttab tǝɣred! Bring a book which you can read!
+Ša Za ǝktǝb tăkarḍe tăssawăyăd! Write a letter which you will send!
+Ša Za ogăẓ-kăy Măssinăɣ! May God protect you!
+Ša ikf-ik Măssinăɣ aǵǝnna! May God give you rain!
+Za ikf-ik Măssinăɣ ăkonak! May God give you rain!
+Ša ǝssǝkn-anăɣ Yăḷḷa ašǝkka! May God show us tomorrow!
+Za issǝkn-anăɣ Yăḷḷa ažăkka! May God show us tomorrow!
+Ša Za iẓăl-awăn Măssinăɣ! May God reward you!
+Ša tănɣ-ik tănăde! May fever smite you!
+Za tǝnɣ-ik tănăde! May fever smite you!
+Ša ǝssǝsnăn-kăy Măssinăɣ! May God cause you pain!
+Ša wăr tǝkked hebu! Don't go to market!
+Ša wăr tokerăd! Don't steal!
+Ša Za mi tt-ilân awa? Who owns that?
+Ša Za tǝlêd imnas meɣ? Do you own any camels?
+Ša Za mi tǝkkêd? Where are you going?
+Ša ma tǝǵêd? What are you doing?
+Za ma tǝgêd? What are you doing?
+Ša Za ǝndek-kăt Tǝdwăl? Where is Tidwal?
+Ša ǝndek awa nǝtăǵǵ năǵ ătay? What do we do to make tea?
+Za ǝndek awa nǝtaggu năgu ătay? What do we do to make tea?
+Ša ma tăǵǵăn măkrăḍăn har akărăn? What do thieves do to steal?
+Za ma taggin băydăgăn har akǝrăn? What do thieves do to steal?
+Ša ma mad năǵ? What are we going to do?
+Za ma za năgu? What are we going to do?
+Ša mi maden ăǵ ătay? Who is going to make tea?
+Za mi za năgu ătay? Who is going to make tea?
+Ša mi wăr maden ăkk hebu? Who is not going to go to market?
+Za mi wǝr za năkku hebu? Who is not going to go to market?
+Za ad wǝr takǝrăd! Do not steal!
+Ša ma tăǵǵăd? What are you doing?
+Ša mi ilămmădăn Tarabt? Who is learning Arabic?
+Ša ma tăttăm? What do you eat?
+Ša ăddinăt wi-n diha tattăn enăle meɣ? Do people here eat millet?
+Ša ma lăssăn kăl Tămašăq? What do Tamasheq people wear?
+Ša ḍeḍen tǝnnaynăt imnas meɣ? Do women ride camels?
+Ša ma tăšăɣalăd? What work do you do?
+Za ma tattim? What do you eat?
+Za ăytedăm wi-n da tattin enăle meɣ? Do people here eat millet?
+Za ma lassin kǝl Tǝmažǝq? What do Tamasheq people wear?
+Za tiḍoḍen tǝnnaynăt imnas meɣ? Do women ride camels?
+Za ma tašăɣalăd? What work do you do?
+Ša mi wăren itoẓam? Who doesn't fast?
+Za mi wǝr nǝtuẓam? Who doesn't fast?
+Ša tatt hullen! Eat well!
+Za tattu hullen! Eat well!
+Ša sass axx! Drink milk!
+Za sassu ax! Drink milk!
+Ša Za ilammădet Tămašăq! He should be learning Tamasheq!
+Ša wăr lămmăd Tămašăq! Do not learn Tamasheq!
+Ša wăr săssăt asmăd! Do not drink alcohol!
+Za ad wǝr lammădăd Tǝmažǝq! Do not learn Tamajeq!
+Za ad wǝr sassim asmăd! Do not drink alcohol!
+Za wǝr sǝssim asmăd! Do not drink alcohol!
+Ša ǝndek siha-s tǝššărgăšăd? Where are you visiting?
+Ša mi-s tăsekălăd? Where are you travelling to?
+Za mi-s tǝššokălăd? Where are you travelling to?
+Ša Za ǝrkǝb s-ăṣṣahăt! Pull hard!
+Ša ma-s extăs ašǝk? What did he cut the tree down with?
+Za ma-s ixtăs ašǝk? What did he cut the tree down with?
+Ša mi-s săkădaw? Who is she cooking for?
+Za mi-s tǝsakădaw? Who is she cooking for?
+Ša mǝnǵǝdu-d irihhu ăwadǝm absăr? When does someone need a knife?
+Za ǝmme-d itiru ăwadǝm absǝr? When does someone need a knife?
+Ša ǝndek diha-d illâ ăkal-ǝnnăk? Where is your homel and?
+Za ǝndek da-d illâ ăkal-năk? Where is your homeland?
+Za mǝni-d illâ ăkal-năk? Where is your homeland?
+Ša ălɣăyal ma dǝr olâh? How is the family?
+Za ăytedăm-năwăn ma dǝr olâ? How is the family?
+Ša m-isǝm-ǝnnes dăɣ Tămašăq? What is its name in Tamasheq?
+Za m-isǝm-nes dăɣ Tǝmažǝq? What is its name in Tamasheq?
+Ša ma dǝt-tǝwwăyăd dăɣ Dori? What have you brought from Dori?
+Za ma dǝt-tewăyăd dăɣ Dori? What have you brought from Dori?
+Ša ǝndek awa ǵed har tărẓed aḍăr-ǝnnăk? How did you break your leg?
+Za ǝndek awa tǝged har tǝrẓed aḍăr-năk? How did you break your leg?
+Ša ǝndek wa? Which one?
+Za ǝndek wa? Which one?
+Ša man-iket hăḍan făl ma-dd-asǝn? In how many nights are they coming?
+Za man-iket ăḍan fǝl za-dd-asin? In how many nights are they coming?
+Ša ma torded făl šumar? What do you think about the rebels?
+Za ma torded fǝl šumar? What do you think about the rebels?
+Ša tosed-id făl hebu meɣ? Have you come for the market?
+Za tosed-dǝd fǝl hebu meɣ? Have you come for the market?
+Ša Za Măryama ad tǝlmǝd Tesăwăq meɣ? Will Mary learn Hausa?
+Ša mi ilămmădăn Tămašăq? Who is learning Tamasheq?
+Za mi ilammădăn Tǝmažǝq? Who is learning Tamajeq?
+Ša ma tăǵǵăd? What do you do?
+Za ma taggăd? What do you do?
+Ša os-id meɣ? Has he come?
+Za os-ăddǝd meɣ? Has he come?
+Ša ǝfnăẓ ălqim-ǝnnes! Reduce its price!
+Za ǝfnǝẓ ălqim-nes! Reduce its price!
+Ša tǝǵrăhăd awa ǝnneɣ meɣ? Did you understand what I said?
+Ša Za tǝfhămăd awa inna? Did you understand what he said?
+Ša tǝǵrăwăd făhăm meɣ? Have you understood?
+Za tǝgrăwăd făhăm meɣ? Have you understood?
+Ša tǝnhăyăd Hawa dăɣ hebu meɣ? Did you see Hawa in the market?
+Ša ma hănnăyăd? What do you see?
+Za ma hannăyăd? What do you see?
+Za tǝlwâgăd mǝɣ? Are you tired?
+Za ma tǝgmâyăd? What are you looking for?
+Ša Za tǝssânăd Tămašăq meɣ? Do you speak Tamasheq?
+Ša tǝzzâyăd-ahi? Do you know me?
+Za tǝzzâyăd-i? Do you know me?
+Ša Za ma-s tăqqâlăd? Who/what are you waiting for?
+Ša Za ti-k ǝd ma-k ǝddârăn mǝɣ? Are your father and mother alive?
+Ša ǝndek diha tǝzzâɣăd? Where do you live?
+Za mǝni da tǝzzâɣăd? Where do you live?
+Za ǝndek da tǝzzâɣăd? Where do you live?
+Za tǝnăyăd Tǝdwăl dăɣ hebu meɣ? Did you see Tidwal in the market?
+Ša Za mi dǝt-tǝfălăd? Where have you come from?
+Ša Za ma dǝr tǝnsed? How did you pass the night?
+Ša ma lăssăn kǝl Tămašăq? What do Tamasheq people wear?
+Za ma lassin kǝl Tǝmažǝq? What do Tamajeq people wear?
+Za tǝgred awa ǝnneɣ meɣ? Did you understand what I said?
+Ša Za ma tǝsled? What have you heard?
+Ša Za tǝsled meɣ? Did you hear?
+Ša Za ma tǝkšed? What did you eat?
+Ša ma tăttăn? What do they eat?
+Za ma tattin? What do they eat?
+Ša Za sassăd ătay meɣ? Do you drink tea?
+Ša Za ma tǝnned? What did you say?
+Ša ma ǵănnen ăddinăt făl awa? What do people say about that?
+Za ma gannin ăytedăm fǝl awa? What do people say about that?
+Ša Za ma kăy-ikfa? What did he give you?
+Ša ma hăkkăn ăddinăt tilăqqiwen? What do people give to the poor?
+Za ma hakkin ăytedăm tilǝqqawen? What do people give to the poor?
+Ša tărḍêd s-ad tăkkăd Mărkoy? Do you agree to go to Markoye?
+Za tǝrḍêd s-ad tăkkăd Mărkoy? Do you agree to go to Markoye?
+Ša ma tărhêd? What do you want?
+Ša Za mi tǝkkêd? Where are you going?
+Ša ǝndek diha tǝllêd? Where are you?
+Za ǝndek da tǝllêd? Where are you?
+Za mǝni-d tǝllêd? Where are you?
+Ša mǝnǵǝdu ma-dd-as? When will he come?
+Za ǝmme za-dd-asu? When will he come?
+Ša tisăn-id hebu kul meɣ? Do they come here every market?
+Za tasin-dǝd hebu kul meɣ? Do they come here every market?
+Ša ma tăǵǵăd? What are you doing?
+Za ma taggăd? What are you doing?
+Ša ma-môs awa? What is that?
+Za ma-ymôs awa? What is that?
+Ša ma tăšăɣalăd? What work do you do?
+Za ma tašăɣalăd? What work do you do?
+Za mi ɣur tǝzzîbbăt? Who are you staying with?
+Ša ɣăym diha! Sit down here!
+Za ɣam da! Sit down here!
+Ša tădôbănăd meɣ? Are you married?
+Ša mi ɣor tăzzûbbed? Who are you staying with?
+Ša šǝnkǝš-in! Move over!
+Za zǝnkǝz-in! Move over!
+Ša a-hin-tadwǝd? Will you go there this afternoon? 
+Za a-din-tadwăd? Will you go there this afternoon? 
+Ša Za tǝḍăs-kăy tassawt ǝn-Tin-Akof? Have you ever been to Tin Akof? 
+Ša kăla eḍăs-ti ǝdubǝn? Has he ever been married? 
+Za kăla iḍăs-tăy ăzălaf? Has he ever been married? 
+Ša Za ălxer ɣas tǝbarăk aḷḷah. Fine, thanks! 
+Ša Za ălxămdǝllillay. Praise to God! 
+Ša nămôy e-Măssinăɣ. We thank God! 
+Ša Za bismilla. In the name of God. 
+Ša Za ǝgleɣ. I am leaving.
+Ša suk. send.
+Za suku. send.
+Ša suk. send.
+Za suku. send.
+Ša sǝssuk. send.
+Ša suf. prefer.
+Ša sǝssuf. make better.
+Za sǝssufu. make better.
+Ša sǝssuf. prefer.
+Za sǝssufu. prefer.
+Ša suǵ. look into.
+Ša suǵ. look in/on.
+Za sugu. look down into. 
+Za sugu. look in/on.
+Ša sord. cause.
+Ša seḍu. throw down.
+Za siḍu. throw down.
+Ša sunǵǝy. make.
+Ša šišǝl. drawwater.
+Ša silǝl. lob/put on.
+Ša šišwǝl. brand/mark.
+Za žižǝl. draw water.
+Ša sǝssiwǝl. play/make.
+Za šǝššiwǝl. play the radio.
+Ša sǝssiǵǝl. cause.
+Za šǝššigǝl. cause.
+Ša siǵǵ. place above. 
+Ša sǝssiǵǵ. place above.
+Za sǝssiggu. place above.
+Ša sis. make.
+Za sisu. make.
+Ša sǝsser. make.
+Za šǝšširu. make.
+Ša sǝmmǝnǝnnăḍ. twist/make.
+Za sǝmmǝnǝnnǝḍ. twist/make.
+Ša Za šǝffǝrǝššǝt. drive.
+Ša sǝddubǝn. marry.
+Ša Za sǝbbuyǝn. prove/make.
+Ša sǝddubǝn. marry.
+Ša sǝkkărukăḍ. put.
+Za sǝkkǝrukǝḍ. put.
+Ša Za sǝddǝrumǝs. make.
+Za sǝddirǝn. want to.
+Ša sǝttiw. cause.
+Za sǝttiwi. cause.
+Ša šăhhuššǝl. oblige.
+Ša sǝffukkǝr. denounce/expose.
+Ša sǝddorhǝn. want to.
+Ša sǝllullǝt. honour.
+Ša sǝǵǵunf. give.
+Ša sǝmmidǝw. become allies
+Za sǝmmidǝw. make friends.
+Za ẓǝnnibǝẓ. have.
+Za ẓǝttibǝẓ. have.
+Za tǝzlâfăd meɣ? Are you married/engaged?
+Ša Za ăyy-e! Leave it/him alone!
+Ša soɣǝl-tăt! Put it back!
+Za suɣǝl-tăt! Put it back!
+Ša mi ɣor tǝllêd? Who are you with?
+Za mi ɣur tǝllêd? Who are you staying with? 
+Ša ma kăm-in-išlân? What kept you? 
+Za ma kăm-in-izlân? What kept you? 
+Ša Za ăssălam ăɣlekum!
+Ša Za sǝlam ăɣlekum!
+Ša tăgoḍăyăm? Are you thankful?
+Za tǝggoḍăyăm? Are you thankful?
+Za ma tǝgammăyăd? What are you looking for?
+Za ma gammăyăd? What are you looking for?
+Ša sănatăt tǝmărwen. 5 CFA pieces.
+Za sănatăt tǝmǝrwen ǝn-katǝbităn. Twenty pieces i.e.
+Ša ăṣṣôhăt hullen! It is very expensive/hard!
+Za iṣṣôhăt hullen! It is very expensive/hard!
+Ša Za hebu a tǝkked? Is it to market you are going?
+Ša Za hebu a tǝkked meɣ? Is it to market you are going or?
+Ša Za tǝkked hebu meɣ? Are you going to market or?
+Ša man-iket aẓrǝf-ǝnnes? How much is it?
+Za man-iket aẓrǝf-nes? How much money is it?
+Ša Za awi-dd! Bring here!
+Ša Za awi-dd aman! Bring water here!
+Ša mafăl? Why?
+Za mafǝl? Why?
+Za măfel? Why?
+Ša ăḍlǝm. wrong/provoke.
+Za ǝḍlǝm. wrong/provoke.
+Ša ăɣmăr. prepare.
+Za ǝɣmǝr. prepare.
+Ša Za ǝlɣǝn. insult.
+Ša ǝnzăɣ. be peeled.
+Za ǝnzǝɣ. stripped.
+Ša ǝšrăɣ. judge.
+Za ǝšrǝɣ. judge.
+Ša ǝzzǝy. know.
+Za ǝzzǝy. know.
+Ša Za atǝm. put into.
+Ša aẓẓǝy. gang up on.
+Ša uɣar. be dry.
+Za oɣar. be dry.
+Ša Za kărăḍ. force.
+Ša Za săbăb. cause.
+Ša as ǝmtăllăɣ sǝsseɣǝdăd-ahi. If I make a mistake correct me. 
+Za as mătăllăɣ sǝssiɣǝdăd-i. If I make a mistake correct me. 
+Ša Za wǝr ǝsleɣ awa tǝnned. I didn't hear what you said. 
+Ša Za wǝr ǝsleɣ hullen. I didn't hear well. 
+Ša Za wǝr ǝfhemăɣ. I didn't/don't understand. 
+Ša wǝr ǝǵrehăɣ. I didn't/don't understand. 
+Za wǝr ǝgreɣ. I didn't/don't understand. 
+Ša wǝr ǝǵrewăɣ făhăm. I didn't/don't understand. 
+Za wǝr ǝgrewăɣ făhăm. I didn't/don't understand. 
+Ša lăɣăt-ahi ma tăǵǵăd s-awa. Tell me what you do with that. 
+Za lăɣăt-i ma taggăd s-awa. Tell me what you do with that. 
+Ša lăɣăt-ahi ǝššǝɣǝl-ǝnnăk. Explain to me your work. 
+Za lăɣăt-i ǝššǝɣǝl-năk. Explain to me your work. 
+Ša Za ǝkkêɣ hebu. I'm going to market. 
+Ša ǝkkeɣ tiwgas. I went to the fields.
+Za ǝkkeɣ tiwǝgas. I went to the fields. 
+Ša ǝfălăɣ-id ehăn. I've come from home.
+Za ǝfălăɣ-dǝd ehăn. I've come from home. 
+Ša ǝfălăɣ-id Onlăter. I come from England. 
+Ša ašăl wa-n hebu a dd-oseɣ. I came on market day.
+Za azǝl wa-n hebu a dd-oseɣ. I came on market day. 
+Ša wăr d-osa harwa. He has not come yet.
+Za wǝr d-osa hărwa. He has not come yet.
+Ša os-îd. He has already come. 
+Za os-âddǝd. He has already come. 
+Ša ašǝkka a-dd-as. Tomorrow he will come.
+Za ažăkka a-dd-asu. Tomorrow he will come. 
+Ša Za inšăḷḷah. God willing.
+Ša făw wăr d-osen harwa. No, they haven't come yet. 
+Za făw wǝr d-osen hărwa. No, they haven't come yet.
+Ša mǝnǵǝdu ma-dd-asăn? When will they come? 
+Za ǝmme za-dd-asin? When will they come? 
+Ša Za wǝr ǝssenăɣ. I don't know. 
+Ša Za ad ăkkăɣ Gorăn Gorăn. I'm going to go to Gorom. 
+Ša mǝnǵǝdu ma-dǝt-tăqqǝlăd? When will you come back. 
+Za ǝmme za-dǝt-tǝqqǝlăd? When will you come back. 
+Ša ihâ miši ašǝkka. Maybe tomorrow.
+Za ihâ miži ažăkka. Maybe tomorrow. 
+Ša meɣ ašăl wann ǝlitni. Or Monday.
+Za meɣ azǝl wann ǝlitni. Or Monday.
+Ša Za iyya. Yes.
+Ša Za ewăḷḷa. Yes. 
+Ša Za kăla kăla. No. 
+Ša Za few. No.
+Ša Za făw. No.
+Za băbo. No.
+Za ăbo. No. 
+Ša Za băriš. OK/alright.
+Ša Za inšaḷḷa. God willing. 
+Ša Za bismilla. Welcome/begin. 
+Ša Za amina. May it be so.
+Ša Za amina. Amen.
+Ša ălxer ăǵǵên. Thank you. 
+Za ălxer ăggên. Thank you. 
+Za tanǝmmert. Thank you. 
+Ša ăhûskăt. That is good. 
+Za ihôṣṣăy. That is good.
+Ša Za iknâ. That is good.
+Ša wăr ăhuskăt. That is not good.
+Za wǝr ihoṣṣăy. That is not good.
+Ša Za wǝr ikna. That is not good. 
+Ša ibrâr. That is not good. 
+Za iǵâr. That is not good. 
+Ša Za tidǝt. It is true.
+Ša Za tidǝt. that is right. 
+Ša tidǝt-ǝnnăk. You are right. 
+Za tidǝt-năk. You are right.
+Ša Za wăḷḷahi. In God's name. 
+Ša Za bahu. That is not true.
+Ša Za bahu-nnăk. You are wrong/lying. 
+Ša ănš-ahi-d. Forgive me.
+Za surǝf-i-dǝd. Forgive me. 
+Ša ănš-ahi-dd ălxăqq-ǝnnăk. Forgive me. 
+Za surǝf-i-dǝd ălxăq-năk. Forgive me.
+Ša Za i măqqărăn. You are forgiven. 
+Ša Za ăḷḷahu ăkbar. God is great.
+Ša Za aywa. So/well then.
+Ša Za ăɣlekum ăssălamm! Hello. 
+Ša Za nǝkla bani. May we pass the day in peace. 
+Ša Za nǝkla dăɣ ălxer. May we pass the day in peace. 
+Ša Za nǝkla ălxer. May we pass the day in peace. 
+Ša Za nǝnsa bani. May we pass the night in peace. 
+Ša Za nǝnsa dăɣ ălxer. May we pass the night in peace. 
+Ša Za nǝnsa ălxer. May we pass the night in peace. 
+Ša tăhulăd-in ălɣăyal. Greet the family.
+Za tǝhulăd-in ăytedăm-năwăn. Greet the family.
+Ša lammădăɣ Tămašăq. I'm learning Tamasheq. 
+Za lammădăɣ Tǝmažǝq. I'm learning Tamajeq. 
+Ša Za iket ǝssǝntăɣ. I've just started.
+Ša iket ǝssǝntăɣ alămad-ǝnnes. I've just started learning it. 
+Za iket ǝssǝntăɣ alămad-nes. I've just started learni ng it.
+Ša ărhêɣ ad ǝlmǝdăɣ Tămašăq hullen. I want to learn Tamasheq well. 
+Za ǝrêɣ ad ǝlmǝdăɣ Tǝmažǝq hullen. I want to learn Tamajeq well.
+Ša măǵrăd sollan sollan. Speak slowly.
+Za măgrăd sollan sollan. Speak slowly.
+Ša Za iyyăw. Come.
+Ša iyyăw diha. Come here. 
+Za iyyăw da. Come here. 
+Ša ɣăym. Sit down. 
+Za ɣam. Sit down. 
+Ša šǝnkǝš-in. Move up. 
+Za zǝnkǝz-in. Move up. 
+Ša Za alkăs da. Here is a glass of tea. 
+Ša ărmǝs-ti. Take it. 
+Za abǝẓ-tăy. Take it. 
+Ša ăẓêd. It is good. 
+Za iẓôḍ. it is good. 
+Ša ăkkûs. It is too hot. 
+Za ikkûs. It is too hot.
+Ša ăkkûs. It is hot. 
+Za ikkûs. It is hot.
+Ša Za ǝyyǝwănăɣ. I'm full. 
+Ša Za iket ǝkšeɣ. I've just eaten. 
+Ša Za izgâr. He has gone out. 
+Ša Za izgâr. He is out. 
+Ša Za igla. He left. 
+Ša imâl-id. He is just coming. 
+Za izây-dǝd. He is coming. 
+Ša ǝgǝl. Go away. 
+Za ăglu. Go away. 
+Ša săkn-ahi. Show me. 
+Za săkn-i. Show me. 
+Ša Za ăyy-e. Leave it alone. 
+Ša soɣǝl-ti edăgg-ǝnnes. Put it back in it's place. 
+Za suɣǝl-tăy edăg-nes. Put it back (in it's place. 
+Ša Za awi-dd. Bring it here. 
+Ša zubbǝt. Get down. 
+Za zăbbăt. Get down. 
+Ša Za eɣăf. I can't believe it. 
+Ša Za iqqăn eɣăf-in. I can't believe it. 
+Ša Za xăy. Ouch. 
+Ša Za xay. Ah. 
+Ša Za xa. Humph. 
+Ša Za eqq. Rubbish.
+Ša ăyor wa dd-imâlăn ad ăkkăɣ Waɣa. Next month I will go to Ouaga. 
+Za tallit ta tǝzâyăt ad ăkkăɣ Waɣa. Next month I will go to Ouaga. 
+Ša ăyor wa okâyăn ǝkkeɣ Nyăme. Last month I went to Niamey. 
+Za tallit ta tokâyat ǝkkeɣ Nyăme. Last month I went to Niamey.
+Ša as ăyor-i ămmut ad ăsakălăɣ. At the end of this month I'll travel. 
+Za as tallit-a tǝmmut ad ǝššikǝlăɣ. At the end of this month I'll travel. 
+Ša Za ɣarat. Harvest. 
+Ša Za ǝs-ɣarat. At harvest time.
+Ša Za tagrǝst. Cold season. 
+Ša Za ǝs-tǝgrǝst. In cold season. 
+Ša Za ăwelăn. Hot season. 
+Ša Za s-ăwelăn. In hot season. 
+Ša Za akăsa. Wet season. 
+Ša Za s-ăkăsa. In rainy season. 
+Ša ašăl-i ad ăkkăɣ hebu. Today, I will go to market. 
+Za azǝl-a ad ăkkăɣ hebu. Today, I will go to market. 
+Ša ănḍǝšel, ǝkkeɣ Gorăn Gorăn. Yesterday, I went to Gorom. 
+Za ǝnḍazǝl, ǝkkeɣ Gorăn Gorăn. Yesterday, I went to Gorom. 
+Ša ašǝkka, ad ăkkăɣ hebu. Tomorrow, I will go to market. 
+Za ažăkka, ad ăkkăɣ hebu. Tomorrow, I will go to market. 
+Ša ašăl-ăndin. The day before yesterday. 
+Za azǝl-ǝndin. The day before yesterday. 
+Ša dăɣ ǝssin hebutăn ad ăkkăɣ Waɣa. In two weeks/markets I'm going to Ouaga. 
+Za dăɣ ǝššin hebutăn ad ăkkăɣ Waɣa. In two weeks/markets I'm going to Ouaga.
+Ša Za ǝyyăn/ǝyyăt. One. 
+Ša ǝssin/sănatăt. Two. 
+Za ǝššin/sănatăt. Two. 
+Ša Za kăraḍ/kăraḍăt. Three. 
+Ša Za ǝkkoẓ/ǝkkoẓăt. Four. 
+Ša Za sǝmmos/sǝmmosăt. Five. 
+Ša săḍis/săḍisăt. Six. 
+Za sǝḍis/sǝḍisăt. Six. 
+Ša Za ǝssa/ǝssayăt. Seven. 
+Ša Za ǝttam/ǝttamăt. Eight. 
+Ša Za tăẓa/tăẓayăt. Nine. 
+Ša Za măraw/mărawăt. Ten. 
+Ša Za măraw/meddăn ǝd-tăẓa. Nineteen men. 
+Ša Za mărawăt taraben d-ǝkkoẓăt. Fourteen arab women. 
+Ša sănatăt/tǝmărwen. Twenty. 
+Za sănatăt/tǝmǝrwen. Twenty.
+Ša kăraḍăt tǝmărwen ǝd sǝmmos. Thirty-five. 
+Za kăraḍăt tǝmǝrwen ǝd sǝmmos. Thirty-five.
+Ša Za temeḍe. One hundred. 
+Ša Za sănatăt tǝmaḍ. Two hundred. 
+Ša Za efăḍ. One thousand. 
+Ša Za kăraḍ afḍăn. Three thousand. 
+Ša Za imnas ǝkkoẓ. Four camels. 
+Ša Za măraw ǝmnas d-ǝttam. Eighteen camels. 
+Ša Za imnas măraw d-ǝttam. Eighteen camels. 
+Ša Za kăraḍăt tǝmărwen n-ǝmnǝs. Thirty camels. 
+Ša kăraḍăt tǝmaḍ ǝd sǝmmosăt tǝmărwen n-ǝmnas d-ǝssa. Three hundred and fifty-seven camels. 
+Za kăraḍăt tǝmaḍ ǝd sǝmmosăt tǝmǝrwen n-ǝmnas d-ǝssa. Three hundred and fifty-seven camels. 
+Ša Za sǝmmosăt tǝmaḍ n-ǝmnǝs ǝd măraw d-ǝyyăn. Five hundred and eleven camels.
+Ša isǝm-in Dăwda. My name is David. 
+Ša isǝm ǝn-ta Măryama. The name of that one is Maryama. 
+Za isǝm-in Dăwda. My name is David.
+Za isǝm ǝn-ta Măryama. The name of that one is Maryama. 
+Ša ila kăraḍ elăn. He is three.
+Za ila kăraḍ elan. He is three. 
+Ša iyya, ădôbănăɣ. Yes, I am married. 
+Ša făw, wăr ădobănăɣ harwa. No, I am not yet married. 
+Za iyya, ǝzlâfăɣ. Yes, I am married.
+Za făw, wǝr ǝzlefăɣ hărwa No, I am not yet married.
+Ša Za ǝlêɣ ǝkkoẓ. I have four.
+Ša ǝzzăɣăɣ siha. I live over there. 
+Za ǝzzăɣăɣ sa. I live over there. 
+Ša abba ăba-ti. My father has died. 
+Za abba-nin ăba-tăy. My father has died.
+Ša anna tǝddâr harwa. My mother is still alive. 
+Za anna-nin tǝddâr hărwa. My mother is still alive. 
+Ša Za tǝhâ Onlăter. She is in England.
+Ša tamăḍint a tăǵǵăɣ. I'm a shepherd.
+Za tamǝḍint a taggăɣ. I'm a shepherd.
+Ša ǝweɣ diha-dăɣ. I was born here.
+Za ǝhǝwăɣ da-dăɣ. I was born here. 
+Ša ǝǵeɣ kăraḍ orăn. I have been here three months. 
+Za ǝgeɣ kăraḍăt tǝlil. I have been here three months. 
+Ša ărhêɣ ad šănšăɣ ătay d-ăssukăr. I want to buy tea and sugar. 
+Za ǝrêɣ ad ăzzănzăɣ ătay d-ǝssukǝr. I want to buy tea and sugar. 
+Ša ǝmmâɣăɣ e-tafăɣăt. I'm looking for rice.
+Za ǝgmâyăɣ tafăɣăt. I'm looking for rice.
+Ša šanšeɣ-in enăle. I'm selling millet.
+Za zanzăɣ-in enăle. I'm selling millet.
+Ša kăla kăla wăr t-ărheɣ! No I don't want it! 
+Ša wăr hiy-igreẓ. I don't like it.
+Za kăla kăla wǝr t-ǝreɣ! No I don't want it! 
+Za wǝr diy-igreẓ. I don't like it.
+Ša Za katǝbi ǝyyăn. One 5 CFA piece. 
+Ša Za măraw. 50 CFA.
+Ša Za efăḍ. 5,000 CFA. 
+Ša Za kăraḍ. 15,000 CFA. 
+Ša Za sănatăt. 100 CFA. 
+Ša Za kăraḍăt tǝmaḍ ǝd sănatăt tǝmărwen. 1,600 CFA. 
+Ša Za kăraḍăt tǝmaḍ ǝd sănatăt. 1,600 CFA.
+Ša Za katǝbi katǝbi awa. They are 5 CFA each. 
+Ša Za sǝmmos sǝmmos. 25 CFA each.
+Ša Za kăraḍăt kăraḍăt. 150/1,500 CFA each.
+Ša Za ălbarăka! No thanks! 
+Ša ǝfnăẓ aẓrǝf-ǝnnes! Reduce the amount! 
+Za ǝfnǝẓ aẓrǝf-nes! Reduce the amount! 
+Ša wǝr iwweḍ. That's not enough.
+Za wǝr eweḍ. That's not enough. 
+Ša siwăḍ aẓrǝf! Add money! 
+Za šiwǝḍ aẓrǝf! Add money! 
+Ša ălxer ăǵǵên! Thanks very much!
+Za ălxer ǝggên! Thanks very much! 
+Ša Za iyya. Yes.
+Ša Za făw/few. No. 
+Ša Za kăla kăla. No. 
+Ša Za wǝr ǝleɣ aẓrǝf. I have no money. 
+Ša Za wǝr ǝleɣ ǝmbǝtša. I have no change. 
+Ša Za wǝr ǝleɣ tšenǵi. I have no change. 
+Ša Za ill-ê ǝmnǝs. There is a camel.
+Ša Za wăr t-illa. There isn't one. 
+Ša Za wăr t-illa ǝmnǝs dăɣ ăɣalla. There isn't a camel in the yard. 
+Ša wăr ti-tǝlla. There isn't one.
+Ša wăr ti-tǝlla tămăṭṭ dăɣ torǝft. There isn't a woman in the car. 
+Za wǝr te-tǝlla. There isn't one.
+Za wǝr te-tǝlla tǝnṭuṭ dăɣ torǝft. There isn't a woman in the car.
+Ša wăr t-ǝllen ašăl-i. There is none today. 
+Za ǝllân-tăy san? Is there meat? 
+Za wǝr t-ǝllen azǝl-a. There is none today.
+Ša ǝllânăt-ti! There are! 
+Ša wăr t-ǝllenăt. There aren't any.
+Za ǝllânăt-tăy. There are! 
+Za wǝr t-ǝllenăt. There aren't any. 
+Ša Adamu illâ diha. Adamu is there.
+Za Adamu illâ da. Adamu is there. 
+Ša Adamu ilâ tas. Adamu has a cow. 
+Za Adamu ilâ tast. Adamu has a cow.
+Ša făw, wăr tǝlla diha. No, she is not there. 
+Za făw, wǝr tǝlla da. No, she is not there.
+Ša Za Măryama tǝhâ ehăn. Mary is in the house. 
+Ša Za ǝlkǝttab iwâr făl ṭabǝl. The book is on the table. 
+Ša Za ǝlkǝttab illâ daw ṭabǝl. The book is under the table. 
+Ša Za tanda tǝllâ dat ăhăn. The lean-to is in front of the house. 
+Ša tanda tohâẓ ehăn. The lean-to is close to the house. 
+Za tanda tǝhôẓ ehăn. The lean-to is close to the house 
+Ša Za ǝkkêɣ hebu. I am going to market. 
+Ša Za ǝkkêɣ anu. I am going to the well. 
+Ša Za ǝkkêɣ ehăn. I am going home. 
+Ša ǝkkêɣ ɣor ǝmidi-nin. I am going to my friend's. 
+Za ǝkkêɣ ɣur ǝmidi-nin. I am going to my friend's. 
+Ša ǝkkêɣ siha. I am going over there. 
+Za ǝkkêɣ sa. I am going over there. 
+Ša ărhêɣ aman. I want water.
+Ša ărhêɣ enăle. I want millet. 
+Ša ărhêɣ ătay. I want tea.
+Za ǝrêɣ aman. I want water. 
+Za ǝrêɣ enăle. I want millet. 
+Za ǝrêɣ ătay. I want tea. 
+Ša ărhêɣ ad šănšăɣ ătay. I want to buy tea. 
+Ša ărhêɣ ad šănšăɣ ătay ǝn-măraw. I want to buy 50 CFA of tea. 
+Ša ărhêɣ ad ăkkăɣ hebu. I want to go to market.
+Ša ărhêɣ ad ǝlmǝdăɣ Tămašăq. I want to learn Tamasheq. 
+Za ǝrêɣ ad ăzzănzăɣ ătay. I want to buy tea. 
+Za ǝrêɣ ad ăzzănzăɣ ătay ǝn-măraw. I want to buy 50 CFA of tea. 
+Za ǝrêɣ ad ăkkăɣ hebu. I want to go to market.
+Za ǝrêɣ ad ǝlmǝdăɣ Tǝmažǝq. I want to learn Tamajeq. 
+Ša Za awi-dd aman! Bring water! 
+Ša Za awi-dd aẓrǝf! Bring money! 
+Ša awi-dd tetăte! Bring food! 
+Za awi-dd teṭṭe! Bring food! 
+Ša ǝnhăyăɣ ăhalǝs ǝyyăn. I saw a man. 
+Ša tǝnhăyăd ăhalǝs ǝyyăn. You saw a man. 
+Ša inhăy ăhalǝs ǝyyăn. He saw a man.
+Ša tǝnhăy ăhalǝs ǝyyăn. She saw a man. 
+Ša nǝnhăy ăhalǝs ǝyyăn. We saw a man.
+Ša tǝnhăyăm ăhalǝs ǝyyăn. You saw a man. 
+Ša tǝnhăymăt ăhalǝs ǝyyăn. You saw a man.
+Ša ǝnhăyăn ăhalǝs ǝyyăn. They saw a man. 
+Ša ǝnhăynăt ăhalǝs ǝyyăn. They saw a man.
+Za ǝnăyăɣ alǝs ǝyyăn. I saw a man.
+Za tǝnăyăd alǝs ǝyyăn. you saw a man.
+Za inăy alǝs ǝyyăn. He saw a man.
+Za tǝnăy alǝs ǝyyăn. She saw a man. 
+Za nǝnăy alǝs ǝyyăn. We saw a man. 
+Za tǝnăyăm alǝs ǝyyăn. You saw a man.
+Za tǝnăymăt alǝs ǝyyăn. You saw a man.
+Za ǝnăyăn alǝs ǝyyăn. They saw a man.
+Za ǝnăynăt alǝs ǝyyăn. They saw a man. 
+Ša Za ǝktăbăɣ tăkarḍe. I wrote a letter. 
+Ša Za tǝktăbăd tăkarḍe. You wrote a letter. 
+Ša Za ǝlmădăɣ ismawăn ăynaynen. I learned new words. 
+Ša Za tǝlmădăd ismawăn ăynaynen. You learned new words. 
+Ša ǝnhăyăɣ amnǝs. I saw a camel.
+Ša inhăy amnǝs. He saw a camel. 
+Ša tǝnhăy amnǝs. She saw a camel. 
+Za ǝnăyăɣ amnǝs. I saw a camel. 
+Za inăy amnǝs. He saw a camel.
+Za ǝnăyăɣ amnǝs. I rode a camel. 
+Za inăy amnǝs. He rode a camel. 
+Za tǝnăy amnǝs. She saw/rode a camel. 
+Ša ǝnhăyăɣ tas. I saw a cow.
+Ša wǝr ǝnheyăɣ tas. I didn't see a cow. 
+Za ǝnăyăɣ tast. I saw a cow.
+Za wǝr ǝneyăɣ tast. I didn't see a cow. 
+Ša Za iyya, ǝktăbăɣ tăkarḍe. Yes, I wrote the letter. 
+Ša Za făw, wǝr ǝktebăɣ tăkarḍe. No, I haven't written a letter. 
+Ša Za iyya, ǝktăbăq-qăt. Yes, I have written it.
+Ša Za făw, wăr tăt-ǝktebăɣ. No, I haven't written it. 
+Ša a-dd-as ašǝkka. He will come tomorrow. 
+Ša wăr ma-dd-as. He will not come. 
+Za a-dd-asu ažăkka. He will come tomorrow.
+Za wǝr za-dd-asu. He will not come. 
+Za ǝmba-dd-asu. He will not come.
+Ša ǝnhăyăɣ Măryama. I saw Mary. 
+Ša ašăl kul hannăyăɣ Măryama. Every day I see Mary. 
+Za ǝnăyăɣ Măryama. I saw Mary.
+Za azǝl kul hannăyăɣ Măryama. Every day I see Mary.
+Ša Za amɣar. Elder/old man. 
+Ša Za imɣarăn. Elders/old men. 
+Ša Za tamɣart. Elder/old woman. 
+Ša Za timɣaren Old women. 
+Ša Za amăḍray. Younger brother. 
+Ša Za imăḍrayăn. Younger brothers. 
+Ša Za tamăḍrayt. Younger sister. 
+Ša Za timăḍrayen. Younger sisters. 
+Ša Za amăqqar. Older brother.
+Ša Za imăqqarăn. Older brothers. 
+Ša Za tamăqqart. Older sister. 
+Ša Za timăqqaren. Older sisters. 
+Ša Za abroɣ. Blanket.
+Ša Za ibroɣăn. Blankets. 
+Ša Za abuyǝs. Injury.
+Ša Za ibuyǝsăn. Injuries. 
+Za amǝnokal. Chief.
+Za imǝnokalăn. Chiefs. 
+Ša Za amăḍan. Shepherd.
+Ša Za imăḍanăn. Shepherds. 
+Ša tamăẓẓukk. Ear.
+Ša timăẓẓuǵen. Ears. 
+Za tamǝẓẓuk. Ear.
+Za timǝẓẓugen. Ears. 
+Ša Za ămaraw. Parent. 
+Ša Za imarawăn. Parents. 
+Ša Za ănaftaɣ. Guest.
+Ša Za inaftaɣăn. Guests.
+Ša Za tănaftaqq. Guest.
+Ša Za tinaftaɣen. Guests. 
+Ša Za ămawaḍ. Adolescent. 
+Ša Za imawaḍăn. Adolescents. 
+Ša Za tămawaṭṭ. Adolescent.
+Ša Za timawaḍen. Adolescents. 
+Ša tăsokalt. Spoon.
+Ša tisokalen. Spoons. 
+Za tăšokalt. Spoon.
+Za tišokalen. Spoons. 
+Ša ămănokal. Chief.
+Ša imănokalăn. Chiefs. 
+Za ămažǝɣ. Tuareg.
+Za imažǝɣăn. Tuaregs. 
+Ša esen. Tooth.
+Ša isenăn. Teeth. 
+Za ešen. Tooth.
+Za išenăn. Teeth. 
+Ša enhăḍ. Craftsman.
+Ša inhăḍăn. Craftsmen. 
+Za enăḍ. Craftsman.
+Za inăḍăn. Craftsmen.
+Za amidi-nin a dǝr ǝmmǝgrădăɣ. It was with my friend that I spoke. 
+Ša extăs ašǝk ǝs tutǝla. He felled the tree with an axe.
+Ša tutǝla a-s t-extăs. It was with an axe that he felled it. 
+Za ixtăs ašǝk ǝs taḍǝft. He felled the tree with an axe. 
+Za taḍǝft a-s t-ixtăs. It was with an axe that he felled it. 
+Ša ăsgădăɣ y-ăradyo. I listened to the radio.
+Ša ăradyo a-ssss ăsgădăɣ. It was the radio that I listened to.
+Za ăsdărgănăɣ y-ăradyo. I listened to the radio. 
+Za ăradyo a-ssss ăsdărgănăɣ. It was the radio that I listened to. 
+Ša a dd-oseɣ dăɣ, wǝr ǝnheyăɣ Musa. Since I arrived I haven't seen Musa. 
+Ša a ilân ǝssin elăn, ǝkkeɣ Nyăme. Two years ago I wen t to Niamey. 
+Ša a iǵa ănḍǝšel, wăr oseɣ hebu. I haven't been to market since yesterday. 
+Ša kăla wăr t-ǝnheyăɣ, a ikka Makăt. I haven't seen him since he went to Mecca. 
+Ša wǝr ǝkkeɣ Waɣa a iǵa ǝssin orăn. I haven't been to Ouaga for two months. 
+Za a dd-oseɣ dăɣ, wǝr ǝneyăɣ Musa. Since I arrived I haven't seen Musa. 
+Za a ilân ǝššin elan, ǝkkeɣ Nyăme. Two years ago I went to Niamey. 
+Za a iga ǝnḍazǝl, wǝr oseɣ hebu. I haven't been to market since yesterday. 
+Za kăla wǝr t-ǝneyăɣ, a ikka Makăt. I haven't seen him since he went to Mecca.
+Za wǝr ǝkkeɣ Waɣa a iga sănatăt tǝlil. I haven't been to Ouaga for two months.
+Ša ǝnhăyăɣ a dd-išrăyăn. I saw something new. 
+Ša ǝnhăyăɣ a ăssuksăḍăn. I saw something frightening.
+Za ǝnăyăɣ a dd-izrăyăn. I saw something new.
+Za ǝnăyăɣ a issǝksăḍăn. I saw something frightening. 
+Ša os-id. He has arrived.
+Ša ǝnkărăɣ-id. I got up. 
+Ša ikf-ahi-t-id. He gave it to me.
+Ša kittoɣ-id isǝm-ǝnnes. I remember his name. 
+Ša awi-dd aman. Bring water. 
+Ša nos-e-hid. We came to him. 
+Ša tǝkt-e-hid. She remembered him. 
+Za os-ăddǝd. He has arrived.
+Za oseɣ-dǝd. I arrived. 
+Za nos-e-dǝd. We came to him. 
+Za ǝnkărăɣ-dǝd. I got up.
+Za ikf-i-te-dǝd. He gave it to me. 
+Za kattăɣ-dǝd isǝm-nes. I remember his name. 
+Ša Za wăr d-osa. He hasn't arrived.
+Za wǝr ǝdd-osa. He hasn't arrived. 
+Ša Za wăr dǝt-tosa. She hasn't arrived. 
+Ša wăr ma-dd-as. He isn't coming.
+Za wǝr za-dd-asu. He isn't coming.
+Ša oseɣ-id ašăl wa-n hebu. I arrived here on market day. 
+Ša ašăl wa-n hebu a dd-oseɣ. It was on market day that I arrived. 
+Za oseɣ-dǝd azǝl wa-n hebu. I arrived here on market day. 
+Za azǝl wa-n hebu a dd-oseɣ. It was on market day that I arrived.
+Ša Za ǝkneɣ bătbăt-in. I fixed my motorbike. 
+Ša Za năkku a iknăn bătbăt-in. It was me who fixed my motorbike. 
+Ša Za Ɣusman a tt-iknăn. It was Rousman who made it. 
+Ša iǵa awa făl-as awen-dăɣ. He did that because that. 
+Za iga awa fǝl-as awen-dăɣ. He did that because that. 
+Ša ăḍkărăɣ alǝkkin dăɣ aman. I filled the pot with water.
+Ša aman a dăɣ ăḍkărăɣ alǝkkin. It was with water that I filled the pot. 
+Za ǝḍkǝrăɣ tayǝnt dăɣ aman. I filled the pot with water.
+Za aman a dăɣ ǝḍkǝrăɣ tayǝnt. It was with water that I filled the pot. 
+Ša taǵǵănăt tikba dăɣ akof. They make baskets with straw.
+Ša akof a dăɣ tăǵǵănăt tikba. It's with straw that they make. 
+Za tagginăt tikăboten dăɣ akof. They make baskets with straw.
+Za akof a dăɣ tagginăt tikăboten. It's with straw that they make. 
+Ša amidi-nin a dăr ǝmmǝǵrădăɣ. It was with my friend that I spoke.
+Ša Za as d-osa, ăkf-e aman. When he arrives, give him water.
+Ša iwan ufân-tănăt ǝmnas. Camels are better than cows. 
+Za šitan ofân-tănăt ǝmnas. Camels are better than cows. 
+Ša Za taɣmărt n-ăɣalla ih-êt sălănga. In the corner of the courtyard. 
+Ša Măryama, tǝǵrăw-tăt tănăde. Mary has got a fever. 
+Za Măryama, tǝgrăw-tăt tănăde. Mary has got a fever. 
+Ša Za itrâb dăɣ ǝššǝɣǝl. He works quickly. 
+Ša Za eɣewǝd wa igrâẓ y-Adămu. Adamu likes that turban.
+Ša Za ti-s ǝn-Dăwda. David 's father. 
+Ša hănn-is n-Adămu. Adamu 's wife. 
+Za hănn-es n-Adămu. Adamu 's wife. 
+Ša Za ti-s wan Dăwda. David 's father. 
+Ša hebu wan wan. The cattle market. 
+Za hebu wan šitan. The cattle market. 
+Ša ašăl wan hebu. Market day. 
+Za azǝl wan hebu. Market day.
+Ša ăddinăt win diha. People from here. 
+Za ăytedăm win da. local people. 
+Ša tamăḍint a tăǵǵăn. They herd. 
+Za tamǝḍint a taggin. They herd. 
+Ša ifullanăn, tamăḍint ǝn-wan a tăǵǵăn. Fulani herd cows. 
+Za ifollanăn, tamǝḍint ǝn-šitan a taggin. Fulani herd cows. 
+Ša ărhêɣ musnăt ǝn-Tămašăq. I want to know Tamasheq. 
+Za ǝrêɣ măsnăt ǝn-Tǝmažǝq. I want to know Tamajeq.
+Ša olăs iǵi n-ătay. He made tea again. 
+Za olăs igi n-ătay. He made tea again. 
+Ša Za bătbăt ta ti-nn Adămu. That motorbike belongs to Adamu. 
+Ša Za ikărbănăn wi i-n Ɣusman. These huts belong to Rousman. 
+Ša ăhalǝs wa ărhin ǝs-tăsa. That man has had a bad stomach. 
+Za alǝs wa irin ǝs-tǝdist. That man has had a bad stomach. 
+Ša ăhalǝs wa ăšfărăššen-ti nǝzgam. That man has been worried. 
+Za alǝs wa šăfărăššen-tăy nǝzgam. That man has been worried. 
+Ša Za wǝr ila ăṣṣahăt. He isn 't strong. 
+Ša Za wǝr ila ăṣṣahăt n-ad adwu. He isn 't strong enough to travel. 
+Ša ămănokal ikf-e torhaǵăt. The chief gave him permission. 
+Za amǝnokal iff-e turagăt. The chief gave him permission. 
+Ša ăhalǝs extăs ašǝk. The man cut down the tree.
+Za alǝs ixtăs ašǝk. The man cut down the tree. 
+Ša extăs ăhalǝs ašǝk. The man cut down the tree. 
+Za ixtăs alǝs ašǝk. The man cut down the tree. 
+Ša tihatten tattănăt alǝmmoẓ. Sheep eat grass. 
+Za tihatten tattinăt alǝmmuẓ. Sheep eat grass.
+Ša tattănăt tǝhatten alǝmmoẓ. Sheep eat grass.
+Za tattinăt tǝhatten alǝmmuẓ. Sheep eat grass.
+Ša ašǝk extăs-ti ăhalǝs. The tree was cut down by the man. 
+Za ašǝk ixtăs-te alǝs. The tree was cut down by the man.
